@@ -1,0 +1,483 @@
+
+<table align="center" id="email_container" width="600" cellspacing="0" cellpadding="0" border="0" class="small-block">
+    <tbody>
+    <tr>
+        <td style="padding: 18px 16px 0 16px;" class="small-paddings">
+            <!-- EMAIL HEADER START -->
+            <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                   style="border-bottom: 2px solid #f6f6f6; width:100%!important">
+                <tbody>
+                <tr>
+                    <td style="padding-bottom: 15px">
+                        <a href="https://www.edmunds.com">
+                            <img width="140" height="21" align="bottom" style="border:none;"
+                                 src="https://static.ed.edmunds-media.com/unversioned/img/inventory/email/price-promise-certificate/template2/edmunds-logo-and-text-generic-181x29.png"
+                                 alt="Edmunds.com">
+                        </a>
+                    </td>
+                    <td style="padding-bottom: 15px">
+                        <table cellpadding="0" cellspacing="0" border="0" align="right">
+                            <tbody>
+                            <tr>
+                                <td style="color: #888888; font-family: Helvetica,Arial,sans-serif; font-size: 11px; font-weight:bold; line-height: 14px;">
+                                    Your Price Questions?
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="color: #999999; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 14px;">
+                                    We're here to help!
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="color: #999999; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 14px;">
+                                    Call <a href="tel:8557824711" value="+8557824711"
+                                            style="color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 14px; text-decoration:none"
+                                            target="_blank">(855) 782-4711</a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            <!-- EMAIL HEADER END -->
+            <!-- CERTIFICATE HEADER START -->
+            <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                   style="border-bottom: 2px solid #f6f6f6; width: 100%!important">
+                <tbody>
+                <tr>
+                    <td style="color: #007ee5; font-family: Helvetica,Arial,sans-serif; font-size: 32px; font-weight:bold; padding-top: 16px">
+                        Summary
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #7A7A7A; font-family: Helvetica,Arial,sans-serif; font-size: 16px; font-weight:bold; padding: 12px 0 19px;">
+                        Special Offer prepared for Mike Smith
+                    </td>
+                </tr>
+
+
+                <tr>
+                    <td style="padding: 7px 0;">
+                        <a href="#2FMPK4J98KBB08411"
+                           style="color: #9a9a9a; font-family: Helvetica,Arial,sans-serif; font-size: 11px; text-decoration: none;">
+$35,767 &emsp;&bull;&emsp; 2019 Ford Edge SEL &emsp;&bull;&emsp; Koons Ford of Falls Church
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="100%" height="16"></td>
+                </tr>
+                </tbody>
+            </table>
+            <!-- CERTIFICATE HEADER END -->
+
+
+
+
+
+
+
+
+<!-- VIN LISTING BLOCK START -->
+<!--Vehicle #1-->
+<a name="2FMPK4J98KBB08411" style="width: 0; height: 0;"></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"
+       style="border-bottom: 2px solid #f6f6f6; width: 100%!important">
+    <tbody>
+    <tr>
+        <td style="color: #898989; font-family: Helvetica,Arial,sans-serif; font-size: 11px; font-weight:bold; padding: 16px 0 4px; text-align: center">
+            Bring this Certificate to Koons Ford of Falls Church to receive your Special Offer.
+        </td>
+    </tr>
+    <tr>
+        <td style="color: #7B7B7B; font-family: Helvetica,Arial,sans-serif; font-size: 16px; font-weight:bold; padding: 16px 0;">
+        2019 Ford Edge SEL
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table width="224" cellpadding="0" cellspacing="0" border="0" align="left" valign="top"
+                   style="border-collapse: collapse; mso-table-lspace: 0pt;
+                                           mso-table-rspace: 0pt; border-spacing: 0; margin: 0; padding: 0; display: inline-table;"
+                   class="small-block">
+                <tbody>
+                <tr>
+                    <td class="text-sm-center" style="padding-bottom: 16px; text-align: center">
+                        <img width="216" height="144" src="https://dmi-eddirect.edmunds-media.com/inventory/ford/edge/2019/2fmpk4j98kbb08411/size_640x480/2019_ford_edge_sel_1.jpg" alt="Vehicle photo"
+                             class="vehicle-photo">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="text-sm-center"
+                        style="color: #989898; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px;">
+                        Exterior: Magnetic Metallic
+                    </td>
+                </tr>
+                <tr>
+                    <td class="text-sm-center"
+                        style="color: #989898; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px;">
+                        Interior: Dune premium cloth
+                    </td>
+                </tr>
+                <tr>
+                    <td class="text-sm-center"
+                        style="color: #989898; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px;">
+                        Stock# 0FB08411
+                    </td>
+                </tr>
+                <tr>
+                    <td class="text-sm-center"
+                        style="color: #989898; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px; padding-bottom: 8px;">
+                        VIN# 2FMPK4J98KBB08411
+                    </td>
+                </tr>
+                <!-- Five Star Logo -->
+                <!-- END: Five Star Logo -->
+                <tr>
+                    <td class="text-sm-center"
+                        style="color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 13px; font-weight:bold; line-height: 18px;">
+                    Koons Ford of Falls Church
+                    </td>
+                </tr>
+                <tr>
+                    <td class="text-sm-center"
+                        style="color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 13px; font-weight:bold; line-height: 18px;">
+                    1051 E Broad St
+                    </td>
+                </tr>
+                <tr>
+                    <td class="text-sm-center"
+                        style="color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 13px; font-weight:bold; line-height: 18px;">
+                    Falls Church, VA 22044
+                    </td>
+                </tr>
+                <tr>
+                    <td width="100%" height="16"></td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                               style="background-color: #fafafa;">
+                            <tbody>
+                            <tr>
+                                <td style="color: #434343; font-family: Helvetica,Arial,sans-serif; font-size: 11px; font-weight:bold; text-align: center; padding: 5px 0px;">
+                                    Your Price ID from Edmunds
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="color: #007ee5; font-family: Helvetica,Arial,sans-serif; font-size: 24px; font-weight:bold; text-align: center; padding: 5px 0px;">
+                                8411MSBU1212
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="100%" height="16"></td>
+                </tr>
+                </tbody>
+            </table>
+            <table align="right" width="320" cellpadding="0" cellspacing="0" border="0" valign="top"
+                   style="border-collapse: collapse; mso-table-lspace: 0pt;
+                                           mso-table-rspace: 0pt; border-spacing: 0; margin: 0; padding: 0; display: inline-table;">
+                <tbody>
+                <tr>
+                    <td width="320" style="padding: 0 8px 12px; border-bottom: 2px solid #f6f6f6">
+                        <table width="304" cellpadding="0" cellspacing="0" border="0">
+                            <tbody>
+                            <tr>
+                                <td style="color: #8c8c8c; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px;">
+                                    Total MSRP
+                                </td>
+                                <td style="color: #8c8c8c; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: right; padding-right: 7px">
+                                    $39,990
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="color: #999999; font-family: Helvetica,Arial,sans-serif; font-size: 9px;">
+                                    $995 Destination Fee Included
+                                </td>
+                                <td></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <!-- Pricing Block -->
+                <tr>
+                    <td width="320" style="border-bottom: 2px solid #f6f6f6">
+                        <table width="320" cellpadding="0" cellspacing="0" border="0">
+                            <tbody>
+                            <!-- Your Savings table -->
+                            <tr>
+                                <td>
+                                    <table width="320" cellpadding="0" cellspacing="0" border="0"
+                                           style="padding: 0 8px">
+                                        <tbody>
+                                        <tr>
+                                            <td height="12"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: #8c8c8c; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px;">
+                                                Your Savings
+                                            </td>
+                                            <td style="color: #007ee5; font-family: Helvetica,Arial,sans-serif; font-size: 24px; font-weight: bold; white-space: nowrap; text-align: right; padding-right: 7px">
+                                            - $4,223
+                                            </td>
+                                        </tr>
+
+                                                <tr>
+                                                    <td colspan="2"
+                                                        style="color: #999999; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px; padding-top: 15px; padding-right: 7px">
+                                                        You will save
+                                                        $4,223 off of the total MSRP of
+                                                        $39,990 on
+                                                        VIN 2FMPK4J98KBB08411, which includes the below manufacturer
+                                                        incentives that you may qualify for:
+                                                    </td>
+                                                </tr>
+
+                                                <!-- Customer Offer table -->
+                                                <tr>
+                                                    <td colspan="2"
+                                                        style="color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 14px; line-height: 20px; font-weight: bold; padding-top: 16px; padding-right: 7px">
+                                                    Customer Cash - Expires 01/02 -
+                                                        $1,000
+                                                    </td>
+                                                </tr>
+                                                <!-- END: Customer Offer table -->
+                                                <!-- Extended Incentive table -->
+                                                <!-- END: Extended Incentive table -->
+
+                                                <!-- Incentive Restriction table -->
+                                                    <td colspan="2"
+                                                        style="color: #999999; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px; padding-top: 7px; padding-right: 7px">
+                                                        <b>Requirements & Restrictions:</b> Customer Cash is available towards retail purchases. May not be combined with Special APR Financing through Ford Motor Credit Company.
+                                                    </td>
+                                                <!-- END: Incentive Restriction table -->
+                                                <!-- Customer Offer table -->
+                                                <tr>
+                                                    <td colspan="2"
+                                                        style="color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 14px; line-height: 20px; font-weight: bold; padding-top: 16px; padding-right: 7px">
+                                                    Customer Bonus Cash - Bonus Cash - Expires 01/02 -
+                                                        $500
+                                                    </td>
+                                                </tr>
+                                                <!-- END: Customer Offer table -->
+                                                <!-- Extended Incentive table -->
+                                                <!-- END: Extended Incentive table -->
+
+                                                <!-- Incentive Restriction table -->
+                                                    <td colspan="2"
+                                                        style="color: #999999; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px; padding-top: 7px; padding-right: 7px">
+                                                        <b>Requirements & Restrictions:</b> Bonus Cash is available towards retail purchases. May not be combined with leases.
+                                                    </td>
+                                                <!-- END: Incentive Restriction table -->
+                                                <!-- Customer Offer table -->
+                                                <tr>
+                                                    <td colspan="2"
+                                                        style="color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 14px; line-height: 20px; font-weight: bold; padding-top: 16px; padding-right: 7px">
+                                                    Customer Bonus Cash - Bonus Cash - Expires 01/02 -
+                                                        $500
+                                                    </td>
+                                                </tr>
+                                                <!-- END: Customer Offer table -->
+                                                <!-- Extended Incentive table -->
+                                                <!-- END: Extended Incentive table -->
+
+                                                <!-- Incentive Restriction table -->
+                                                    <td colspan="2"
+                                                        style="color: #999999; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px; padding-top: 7px; padding-right: 7px">
+                                                        <b>Requirements & Restrictions:</b> Bonus Cash is available towards leasing or retail purchases.
+                                                    </td>
+                                                <!-- END: Incentive Restriction table -->
+                                        <tr>
+                                            <td height="12"></td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <!-- END: Your Savings table -->
+                            <!-- Vehicle Price table -->
+                            <tr>
+                                <td width="320" style="background-color: #fafafa;">
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                                           style="padding: 0 8px; width: 100% !important">
+                                        <tbody>
+                                        <tr>
+                                            <td height="8"></td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2"
+                                                style="color: #8c8c8c; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px;">
+                                                Vehicle Price
+                                            </td>
+                                            <td style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; color: #007ee5; font-family: Helvetica,Arial,sans-serif; font-size: 24px; font-weight: bold; text-align: right;">
+                                            $35,767
+                                            </td>
+                                            <td width="7" valign="top"
+                                                style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 16px;">
+                                                *
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; color: #999999; font-family: Helvetica,Arial,sans-serif; font-size: 9px; text-align: right; padding-top: 5px">
+                                                Expires December 26, 2018
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="12" colspan="2"></td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <!-- END: Vehicle Price table -->
+                            <!-- Total Price table, including doc fee -->
+                            <tr>
+                                <td width="320">
+                                    <table width="320" cellpadding="0" cellspacing="0" border="0"
+                                           style="padding: 0 8px">
+                                        <tbody>
+                                        <tr>
+                                            <td height="8" colspan="3"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: #8c8c8c; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px;">
+                                                Total Price
+                                            </td>
+                                            <td style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 24px; text-align: right;">
+                                                $36,466
+                                            </td>
+                                            <td width="7" valign="top"
+                                                style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 16px;">
+                                                *
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="3"
+                                                style="color: #999999; font-family: Helvetica,Arial,sans-serif; font-size: 9px;">
+                                                    Includes $699.00 Dealer Documentation /
+                                                    Processing Fee
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="12" colspan="3"></td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <!-- END: Total Price table, including doc fee -->
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <!-- END: Pricing Block -->
+                <!-- Primary customer incentive block -->
+                <tr>
+                    <td width="320">
+                        <table width="320" cellpadding="0" cellspacing="0" border="0"
+                               style="padding: 0 15px 0 8px;">
+                            <tbody>
+                            <tr>
+                                <td height="16"></td>
+                            </tr>
+                            <tr>
+                                <td style="color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 14px; line-height: 20px;">
+                                    Additional Incentives for Qualified Buyers:
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="color: #777777; font-family: Helvetica,Arial,sans-serif; font-size: 14px; line-height: 20px; font-weight: bold">
+                                    Up to $1,000
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-bottom: 16px;">
+                                    <a href="http://www.edmunds.com/ford/edge/2019/car-incentives.html?style=401773630&irr_section=customer_rebates_irr"
+                                       style="color: #434343; font-family: Helvetica,Arial,sans-serif; font-size: 14px; line-height: 20px;">
+                                        Learn More to see if you qualify.
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="color: #8d8d8d; font-family: Helvetica,Arial,sans-serif; font-size: 9px; line-height: 16px;">
+                                    * Price excludes all federal, state and local taxes, and all title, license and registration fees. Dealer is under no obligation to include or offer any additional equipment, products or services.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="color: #636363; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px; font-weight: bold; padding-top: 15px;">
+                                    Next Step: Schedule an appointment with
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="color: #919191; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px;">
+                                JT Serbin
+                                    or <b>Rickie Piland</b>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="color: #919191; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px;">
+                                    Call <a href="tel:8557546953"
+                                            value="(855) 754-6953"
+                                            style="color: #919191; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 14px; text-decoration:none"
+                                            target="_blank">(855) 754-6953</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="color: #919191; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 16px;">
+                                    <a href="mailto:jt.serbin@koons.com"
+                                       style="color: #919191; font-family: Helvetica,Arial,sans-serif; font-size: 11px; line-height: 14px; text-decoration:none">jt.serbin@koons.com</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="10"></td>
+                            </tr>
+                            <tr>
+                                <td height="12"></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <!-- END: Primary customer incentive block -->
+                </tbody>
+            </table>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<!-- VIN LISTING BLOCK END -->
+<!-- FOOTER START -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="small-block" style="width: 100% !important">
+    <tbody>
+    <tr>
+        <td height="25"></td>
+    </tr>
+    <tr>
+        <td style="color: #8d8d8d; font-family: Helvetica,Arial,sans-serif; font-size: 9px; line-height: 16px; padding-bottom: 16px">
+                            This vehicle is offered subject to prior sale; accordingly, this certificate is not a guarantee that this vehicle will not be sold to another buyer. Offer expires on the close of business on the date set forth above. Dealer commitments set forth in this certificate do not apply to any additional equipment or services offered by dealer. This offer is made subject to the Edmunds.com <a href="https://www.edmunds.com/about/visitor-agreement.html" target="_blank">Visitor Agreement</a>.
+
+        </td>
+    </tr>
+    <tr>
+        <td style="color: #8d8d8d; font-family: Helvetica,Arial,sans-serif; font-size: 9px; line-height: 16px;">
+            Communications through the dealer telephone number and chat service are subject to the terms of our <a href="https://www.edmunds.com/about/privacy.html" target="_blank">Privacy Statement</a>.
+        </td>
+    </tr>
+    <tr>
+        <td height="25"></td>
+    </tr>
+    </tbody>
+</table>
+<!-- FOOTER END -->
+</td>
+</tr>
+</tbody>
+</table>
