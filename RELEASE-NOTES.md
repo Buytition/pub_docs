@@ -1,7 +1,7 @@
 # Release Notes
 ## Upcoming Release
 
-We are excited to announce the release of reader bot API v1.0.0 to the public.  This API brings developers programmatic access to buytition reader bot which has been powering buytition web app for two years.  With this access, developers will be able to build your own
+We are excited to announce the release of reader bot API v1.0.0 to the public.  This API brings developers programmatic access to Buytition [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot) which has been powering [Buytition web app](https://buytition.com) since its launch.  With this access, developers will be able to build your own
 
 * Email apps that detects and extracts dealer and  vehicle price quotes info from raw email messages
 * Vehicle price quote database
@@ -13,3 +13,9 @@ Along with this release,  version of the underlying reader bot is also upgraded 
 * Input: text, html or URL
 * Output: whether the input text has vehicle price quotes or not, if so list of vehicle price quotes, whether or not the input text has dealer info, if so the info of dealer, metadata of input
 * Output format: json
+
+Sample API call
+
+Input
+
+Output
