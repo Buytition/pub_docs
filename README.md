@@ -1,4 +1,5 @@
-This repository includes public documents for [Buytition](https://buytition.com) bots.
+This repository includes public documents for [Buytition](https://buytition.com) bots
+    * [release notes](https://github.com/Buytition/pub_docs/blob/master/RELEASE-NOTES.md)
 
 # Email Reader Bot
 Buytition's proprietary Email Reader Robot (watch [demo video](https://www.youtube.com/watch?v=UZz7a5sni3A) to see the robot in action) utilizes text mining technology to parse car shopping email messages and automatically create vehicle price quote reports from them. Here is a list of robot capabilities (as of July 2017): 
