@@ -17,5 +17,44 @@ Along with this release,  version of the underlying reader bot is also upgraded 
 Sample API call
 
 Input
+```
+https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/html-20190525-jerrysford.md
+```
 
 Output
+```json
+{
+    "elapsed_sec": 2.5,
+    "finish_utc": "2019-05-31 01:41:05",
+    "input": {
+        "URL": "https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/html-20190525-jerrysford.md",
+        "content-length": "46558",
+        "content-type": "text/plain; charset=utf-8",
+        "type": "EMAIL-TEXT",
+        "via": "POSTED-URL"
+    },
+    "msg": null,
+    "output": {
+        "list_dealers": [
+            {
+                "dlr_addr": "6510 Little River Tpke, Alexandria VA 22312",
+                "dlr_name": "Jerry's Ford Alexandria",
+                "id": 7820
+            }
+        ],
+        "list_quotes": [
+            {
+                "MSRP": 45575,
+                "make": "ford",
+                "model": "edge",
+                "quote_amt": 34296,
+                "saving_amt": 11279,
+                "saving_pct": 24.7,
+                "year": 2019
+            }
+        ],
+        "num_quotes": 1
+    },
+    "status": "success"
+}
+```
