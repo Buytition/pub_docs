@@ -18,7 +18,7 @@ Sample API call
 
 Input
 ```
-https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/html-20190525-jerrysford.md
+curl --data "URL=https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/html-20190525-jerrysford.md" https://buytition.com/api/v2/handle_text_api_call
 ```
 
 Output
