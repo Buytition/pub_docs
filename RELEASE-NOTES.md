@@ -1,6 +1,7 @@
 # Release Notes
 ## Upcoming Release
-
+None
+## 20190610
 We are excited to announce the launch of replybot.io domain name as well as release of Reader Bot API v1.0.0 to the public.  Reader Bot API will be hosted under replybot.io domain name for ease of memorizing.  This API brings developers programmatic access to [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot) which has powered [Buytition web app](https://buytition.com) since its launch.  With this access, developers will be able to build your own
 
 * Email apps that detects and extracts dealer and  vehicle price quotes info from raw email messages
