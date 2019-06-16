@@ -9,7 +9,7 @@ We are excited to announce the launch of replybot.io domain name as well as rele
 
 Along with this release,  version of the underlying reader bot has been upgraded to v1.0.0.  Below are specs for the API
 
-* End point: `https://replybot.io/api/v1/readerbot`
+* End point: `https://replybot.io/api/v1/reader_bot/get_vehicle_price_quotes`
 * Accepted Method: post
 * Input: text, html or URL
 * Output: whether the input text has vehicle price quotes or not, if so list of vehicle price quotes, whether or not the input text has dealer info, if so the info of dealer, metadata of input
@@ -21,7 +21,7 @@ Input
 ```
 curl --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/html-20190525-jerrysford.md" \
-https://replybot.io/api/v1/readerbot
+https://replybot.io/api/v1/reader_bot/get_vehicle_price_quotes
 ```
 
 Output
