@@ -31,7 +31,7 @@ This API brings developers programmatic access to [Reader Bot](https://github.co
 
 The Reader Bot API has the following sub-API:
 * [vehicle price quotes reader API](#vehicle-price-quotes-reader-api), extracts vehicle and price quotes information, if any, from input text or html
-* [vehicle dealer info reader API](#vehicle-dealer_info-reader-api), extracts vehicle dealer information, if any, from input text or html
+* [vehicle dealer info reader API](#vehicle-dealer-info-reader-api), extracts vehicle dealer information, if any, from input text or html
 
 ### Vehicle Price Quotes Reader API
 
