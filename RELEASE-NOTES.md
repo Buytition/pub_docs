@@ -2,12 +2,12 @@
 ## Upcoming Release
 None
 ## 20190610
-We are excited to announce the launch of replybot.io domain name as well as release of Reader Bot API v1.0.0 to the public.  Reader Bot API will be hosted under replybot.io domain name for ease of memorizing.  This API brings developers programmatic access to [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot) which has powered [Buytition web app](https://buytition.com) since its launch.  With this access, developers will be able to build your own
+We are excited to announce the launch of replybot.io domain name as well as release of [Reader Bot API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#reader-bot-api) v1.0.0 to the public.  Reader Bot API will be hosted under [replybot.io](https://replybot.io) domain name for ease of memorizing.  This API brings developers programmatic access to [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot) which has powered [Buytition web app](https://buytition.com) since its launch.  Along with this release,  version of the underlying reader bot has been upgraded to v1.0.0. With this access, developers will be able to build your own
 
 * Email apps that detects and extracts dealer and  vehicle price quotes info from raw email messages
 * Vehicle price quote database
 
-Along with this release,  version of the underlying reader bot has been upgraded to v1.0.0.  Below are specs for the API
+Reader Bot API actually is a collection of sub-API entry points, each sub-API accomplishes one reader bot capability.  For this first release of Reader Bot API, we are releasing the [Vehicle Price Quotes Reader API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#vehicle-price-quotes-reader-api), below are specs for this API
 
 * End point: `https://replybot.io/api/v1/reader_bot/get_vehicle_price_quotes`
 * Accepted Method: post
