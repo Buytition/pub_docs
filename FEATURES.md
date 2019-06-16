@@ -29,12 +29,16 @@ This API brings developers programmatic access to [Reader Bot](https://github.co
 * Email apps that detects and extracts dealer and  vehicle price quotes info from raw email messages
 * Vehicle price quote database
 
-Along with this release,  version of the underlying reader bot has been upgraded to v1.0.0.  Below are specs for the API
+The Reader Bot API has the following sub-API:
+* **vehicle price quotes reader API**, if any, from input text or html
+* **vehicle dealer info reader API** if any from input text or html
+
+### Vehicle Price Quotes Reader API
 
 * End point: `https://replybot.io/api/v1/reader_bot/get_vehicle_price_quotes`
 * Accepted Method: post
 * Input: text, html or URL
-* Output: whether the input text has vehicle price quotes or not, if so list of vehicle price quotes, whether or not the input text has dealer info, if so the info of dealer, metadata of input
+* Output: whether the input text has vehicle price quotes or not, if so produce a list of vehicle price quotes, as well as metadata of input
 * Output format: json
 
 Sample API call
@@ -42,18 +46,18 @@ Sample API call
 Input
 ```
 curl --data "URL=https://raw.githubusercontent.com\
-/Buytition/pub_docs/master/raw-text/html-20190525-jerrysford.md" \
+/Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
 https://replybot.io/api/v1/reader_bot/get_vehicle_price_quotes
 ```
 
 Output
 ```json
 {
-    "elapsed_sec": 0.9,
-    "finish_utc": "2019-05-31 01:41:05",
+    "elapsed_sec": 0.2,
+    "finish_utc": "2019-06-16 20:41:03",
     "input": {
-        "URL": "https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/html-20190525-jerrysford.md",
-        "content-length": "46558",
+        "URL": "https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html",
+        "content-length": "3750",
         "content-type": "text/plain; charset=utf-8",
         "type": "EMAIL-TEXT",
         "via": "POSTED-URL"
@@ -62,16 +66,60 @@ Output
     "output": {
         "list_quotes": [
             {
-                "MSRP": 45575,
+                "MSRP": 39990,
                 "make": "ford",
                 "model": "edge",
-                "quote_amt": 34296,
-                "saving_amt": 11279,
-                "saving_pct": 24.7,
+                "quote_amt": 35767,
+                "saving_amt": 4223,
+                "saving_pct": 10.6,
                 "year": 2019
             }
         ],
         "num_quotes": 1
+    },
+    "status": "success"
+}
+```
+
+### Vehicle Dealer Info Reader API
+
+* End point: `https://replybot.io/api/v1/reader_bot/get_dealer_info`
+* Accepted Method: post
+* Input: text, html or URL
+* Output: whether the input text has vehicle dealer information or not, if so produce list of vehicle dealers, as well as metadata of input
+* Output format: json
+
+Sample API call
+
+Input
+```
+curl --data "URL=https://raw.githubusercontent.com\
+/Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
+https://replybot.io/api/v1/reader_bot/get_dealer_info
+```
+
+Output
+```json
+{
+    "elapsed_sec": 0.1,
+    "finish_utc": "2019-06-16 20:37:50",
+    "input": {
+        "URL": "https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html",
+        "content-length": "3750",
+        "content-type": "text/plain; charset=utf-8",
+        "type": "EMAIL-TEXT",
+        "via": "POSTED-URL"
+    },
+    "msg": null,
+    "output": {
+        "list_dealers": [
+            {
+                "dlr_addr": "1051 E Broad St, Falls Church VA 22044",
+                "dlr_name": "Koons Ford of Falls Church",
+                "id": 7821
+            }
+        ],
+        "num_dealers": 1
     },
     "status": "success"
 }
