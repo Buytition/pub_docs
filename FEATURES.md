@@ -35,7 +35,7 @@ The Reader Bot API has the following sub-API:
 
 ### Vehicle Price Quotes Reader API
 
-* End point: `https://replybot.io/api/v1/reader_bot/get_vehicle_price_quotes`
+* End point: `https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes`
 * Accepted Method: post
 * Input: text, html or URL
 * Output: whether the input text has vehicle price quotes or not, if so produce a list of vehicle price quotes, as well as metadata of input
@@ -47,7 +47,7 @@ Input
 ```
 curl --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
-https://replybot.io/api/v1/reader_bot/get_vehicle_price_quotes
+https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes
 ```
 
 Output
@@ -83,7 +83,7 @@ Output
 
 ### Vehicle Dealer Info Reader API
 
-* End point: `https://replybot.io/api/v1/reader_bot/get_dealer_info`
+* End point: `https://api.replybot.io/v1/reader_bot/get_dealer_info`
 * Accepted Method: post
 * Input: text, html or URL
 * Output: whether the input text has vehicle dealer information or not, if so produce list of vehicle dealers, as well as metadata of input
@@ -95,7 +95,7 @@ Input
 ```
 curl --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
-https://replybot.io/api/v1/reader_bot/get_dealer_info
+https://api.replybot.io/v1/reader_bot/get_dealer_info
 ```
 
 Output

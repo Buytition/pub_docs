@@ -3,7 +3,7 @@
 ## 20190616
 We are excited to announce the launch of a [Vehicle Dealer Info Reader API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#vehicle-dealer-info-reader-api), a new sub-API of [Reader Bot API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#reader-bot-api).  This sub-API extracts vehicle dealer information, if any, from a given input text or html data, below are specs for this API
 
-* End point: `https://replybot.io/api/v1/reader_bot/get_dealer_info`
+* End point: `https://api.replybot.io/v1/reader_bot/get_dealer_info`
 * Accepted Method: post
 * Input: text, html or URL
 * Output: whether the input text has vehicle dealer information or not, if so produce list of vehicle dealers, as well as metadata of input
@@ -15,7 +15,7 @@ Input
 ```
 curl --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
-https://replybot.io/api/v1/reader_bot/get_dealer_info
+https://api.replybot.io/v1/reader_bot/get_dealer_info
 ```
 
 Output
@@ -46,14 +46,14 @@ Output
 ```
 
 ## 20190610
-We are excited to announce the launch of replybot.io domain name as well as release of [Reader Bot API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#reader-bot-api) v1.0.0 to the public.  Reader Bot API will be hosted under [replybot.io](https://replybot.io) domain name for ease of memorizing.  This API brings developers programmatic access to [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot) which has powered [Buytition web app](https://buytition.com) since its launch.  Along with this release,  version of the underlying reader bot has been upgraded to v1.0.0. With this access, developers will be able to build your own
+We are excited to announce the launch of replybot.io domain name as well as release of [Reader Bot API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#reader-bot-api) v1.0.0 to the public.  Reader Bot API will be hosted under [replybot.io](https://api.replybot.io) domain name for ease of memorizing.  This API brings developers programmatic access to [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot) which has powered [Buytition web app](https://buytition.com) since its launch.  Along with this release,  version of the underlying reader bot has been upgraded to v1.0.0. With this access, developers will be able to build your own
 
 * Email apps that detects and extracts dealer and  vehicle price quotes info from raw email messages
 * Vehicle price quote database
 
 Reader Bot API actually is a collection of sub-API entry points, each sub-API accomplishes one reader bot capability.  For this first release of Reader Bot API, we are releasing the [Vehicle Price Quotes Reader API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#vehicle-price-quotes-reader-api) which extracts vehicle and price quotes information, if any, from a piece of given input text or html data. below are specs for this API
 
-* End point: `https://replybot.io/api/v1/reader_bot/get_vehicle_price_quotes`
+* End point: `https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes`
 * Accepted Method: post
 * Input: text, html or URL
 * Output: whether the input text has vehicle price quotes or not, if so list of vehicle price quotes, whether or not the input text has dealer info, if so the info of dealer, metadata of input
@@ -65,7 +65,7 @@ Input
 ```
 curl --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/html-20190525-jerrysford.md" \
-https://replybot.io/api/v1/reader_bot/get_vehicle_price_quotes
+https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes
 ```
 
 Output
