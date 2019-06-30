@@ -35,7 +35,9 @@ The Reader Bot API has the following sub-API:
 
 ### Vehicle Price Quotes Reader API
 
-ReplyBot Vehicle Price Quotes Reader API is a service that automatically extracts vehicle model and price quotes from email or HTML documents. Its use cases include: 
+ReplyBot Vehicle Price Quotes Reader API is a service that automatically extracts vehicle model and price quotes from email or HTML documents. 
+
+Use cases
 * **Create smart search indexes** Extract structured data from email messages or web pages and create a smart index to allow you to search through millions of email messages quickly.
 * **Build automated document processing workflow**: ReplyBot Vehicle Price Quotes Reader API can provide the inputs required to automatically process vehicle shopping related emails or web pages without human intervention.  For example, a webmail service provider can automate the generation of vehicle price quotes database using ReplyBot Vehicle Price Quotes Reader API. 
 
@@ -88,7 +90,10 @@ Output
 
 ### Vehicle Dealer Info Reader API
 
-ReplyBot Dealer Info Reader API is a service that automatically extracts vehicle dealer information from email or HTML documents. Its use cases include: 
+ReplyBot Dealer Info Reader API is a service that automatically extracts vehicle dealer information from email or HTML documents.  
+
+Use cases
+ 
 * **Automatically identify email senders** Extract structured sender data from email messages and categorize emails by senders.
 * **Automatically classify emails based on senders**: ReplyBot Dealer Info Reader API can automatically identify emails sent from vehicle dealers in US and also automatically identifies exact dealer who send the email, this capability allows a webmail provider to automatically categorize emails sent from vehicle dealers from the rest of emails. 
 
