@@ -90,12 +90,12 @@ Output
 
 ### Vehicle Dealer Info Reader API
 
-ReplyBot Dealer Info Reader API is a service that automatically extracts vehicle dealer information from email or HTML documents.  
+ReplyBot Dealer Info Reader API is a service that automatically extracts vehicle dealer information from email or HTML documents.  This service automatically lookup email sender among merchant database using either sender email address or email content or both. If a match is found, this service returns the matched merchant information, as of now, the supported merchants are US vehicle dealers.
 
 Use cases
  
-* **Automatically identify email senders** Extract structured sender data from email messages and categorize emails by senders.
-* **Automatically classify emails based on senders**: ReplyBot Dealer Info Reader API can automatically identify emails sent from vehicle dealers in US and also automatically identifies exact dealer who send the email, this capability allows a webmail provider to automatically categorize emails sent from vehicle dealers from the rest of emails. 
+* **Email sender lookup among a merchant database** Extract structured sender data from email messages and categorize emails by senders.
+* **Automatically classify emails based on matched merchants**: ReplyBot Dealer Info Reader API can automatically identify emails sent from vehicle dealers in US and also automatically identifies exact dealer who send the email, this capability allows a webmail provider to automatically categorize emails sent from vehicle dealers from the rest of emails. 
 
 API specs
 
