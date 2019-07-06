@@ -22,6 +22,19 @@ As of April 2019, Reply Bot responds to the following types of inbound emails
 # Reply Bot API
 Reply Bot API is a collection of replybot.io API that offers entry points to Reader Bot and Reply Bot features in backend.
 
+## API Access
+Accessing Reply Bot and Reader Bot API requires a API key which is free to obtain. 
+
+**Obtain an API Key**
+* sign up to [buytition.com](http://buytition.com) web app for free.
+* login to buytition.com web app, then visit [Settings](https://buytition.com/web/dist/settings_account) page, your API key is shown on that page.
+
+**To Use API Key**, add `X-API-KEY`  header to your API request and supply your API key obtained from buytition.com web app.
+
+**Usage Plan**: your free obtained API keys automatically fall into **lite** usage plan with the following specs
+* limit 1 request per second
+* limit 5000 requests per month starting on 1st day of usage
+
 ## Reader Bot API
 
 This API brings developers programmatic access to [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot).  With this access, developers will be able to build your own
@@ -52,10 +65,11 @@ Sample API call
 
 Input
 ```
-curl --data "URL=https://raw.githubusercontent.com\
+curl --header "X-API-KEY: [API_KEY]" --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
 https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes
 ```
+note: replace `[API_KEY]` with your own API key
 
 Output
 ```json
@@ -109,10 +123,11 @@ Sample API call
 
 Input
 ```
-curl --data "URL=https://raw.githubusercontent.com\
+curl --header "X-API-KEY: [API_KEY]" --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
 https://api.replybot.io/v1/reader_bot/get_dealer_info
 ```
+note: replace `[API_KEY]` with your own API key
 
 Output
 ```json
