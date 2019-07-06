@@ -27,13 +27,15 @@ Accessing Reply Bot and Reader Bot API requires a API key which is free to obtai
 
 **Obtain an API Key**
 * sign up to [buytition.com](http://buytition.com) web app for free.
-* login to buytition.com web app, then visit [Settings](https://buytition.com/web/dist/settings_account) page, your API key is shown on that page.
+* login to buytition.com web app, then visit [Settings](https://buytition.com/web/dist/settings_account) page, your API key will be shown on that page.
 
 **To Use API Key**, add `X-API-KEY`  header to your API request and supply your API key obtained from buytition.com web app.
 
 **Usage Plan**: your free obtained API keys automatically fall into **lite** usage plan with the following specs
 * limit 1 request per second
 * limit 5000 requests per month starting on 1st day of usage
+
+To upgrade your usage plan, please contact buytition@gmail.com
 
 ## Reader Bot API
 
