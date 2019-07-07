@@ -27,9 +27,17 @@ Accessing Reply Bot and Reader Bot API requires a API key which is free to obtai
 
 **Obtain an API Key**
 * sign up to [buytition.com](http://buytition.com) web app for free.
-* login to buytition.com web app, then visit [Settings](https://buytition.com/web/dist/settings_account) page, your API key will be shown on that page.
+* login to buytition.com web app, then visit [Settings](https://buytition.com/web/dist/settings_account) page, your API key will be shown on that page, see screen shot below.
 
-**To Use API Key**, add `X-API-KEY`  header to your API request and supply your API key obtained from buytition.com web app.
+![Your API key](https://raw.githubusercontent.com/Buytition/pub_docs/master/images/screen-shot-buytition-setting-page.png)
+
+**To Use API Key**, add `X-API-KEY`  header to your API request and supply your API key obtained from buytition.com web app.  See this curl command for example
+
+```shell
+curl --header "X-API-KEY: [API_KEY]" --data "URL=https://raw.githubusercontent.com\
+/Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
+https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes
+```
 
 **Usage Plan**: your free obtained API keys automatically fall into **lite** usage plan with the following specs
 * limit 1 request per second
