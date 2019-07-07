@@ -66,6 +66,7 @@ Use cases
 
 API Specs
 * End point: `https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes`
+* Authorization: API key, see [API access](#api-access) section
 * Accepted Method: post
 * Input: text, html or URL
 * Output: whether the input text has vehicle price quotes or not, if so produce a list of vehicle price quotes, as well as metadata of input
@@ -125,6 +126,7 @@ API specs
 
 * End point: `https://api.replybot.io/v1/reader_bot/get_dealer_info`
 * Accepted Method: post
+* Authorization: API key, see [API access](#api-access) section
 * Input: text, html or URL
 * Output: whether the input text has vehicle dealer information or not, if so produce list of vehicle dealers, as well as metadata of input
 * Output format: json
