@@ -1,5 +1,16 @@
 # Release Notes
 
+## 20191011
+Reader Bot API v1.1.0 Released
+
+After 3 months of busy work, we are happy to announce the release of [Reader Bot API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#reader-bot-api) v1.1.0.  The major enhancements are accuracy of extracted data of vehicle information and price quotes.  The following are some of major improvements we made to Reader Bot API recently:
+* expand price entity ranges: expand price ranges
+* expand vehicle entity ranges: pick up missing vehicle models
+* overhaul decision and matching logic to solve vehicle and price quotes mismatch issue
+improve accuracy of price entity labeling logic
+
+If you have any thoughts or questions, please reach out to us at buytition@gmail.com
+
 ## 20190616
 We are excited to announce the launch of a [Vehicle Dealer Info Reader API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#vehicle-dealer-info-reader-api), a new sub-API of [Reader Bot API](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#reader-bot-api).  This sub-API extracts vehicle dealer information, if any, from a given input text or html data, below are specs for this API
 
