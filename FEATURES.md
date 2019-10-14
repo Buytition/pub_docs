@@ -64,6 +64,7 @@ For **inbound email processing tool vendors**, for example, [Gmelius](https://gm
 ReplyBot Vehicle Price Quotes Reader API is a service that automatically extracts vehicle model and price quotes from email or HTML documents. 
 
 Use cases
+* **Extract intents and entities for chatbots** Extract intents related to vehicle price quotes or negotiation as well as entities of vehicle price quotes from input text or html, produces the extracted entities in output json
 * **Create smart search indexes** Extract structured data from email messages or web pages and create a smart index to allow you to search through millions of email messages quickly.
 * **Build automated document processing workflow**: ReplyBot Vehicle Price Quotes Reader API can provide the inputs required to automatically process vehicle shopping related emails or web pages without human intervention.  For example, a webmail service provider can automate the generation of vehicle price quotes database using ReplyBot Vehicle Price Quotes Reader API. 
 
