@@ -27,7 +27,7 @@ Accessing Reply Bot and Reader Bot API requires a API key which is free to obtai
 
 **Obtain an API Key**
 * sign up to [buytition.com](http://buytition.com) web app for free.
-* login to buytition.com web app, then visit [Settings](https://buytition.com/web/dist/settings_account) page, your API key will be shown on that page, see screen shot below.
+* login to buytition.com web app, then visit [Settings](https://buytition.com/web/dist/settings_account) page, your API key will show up there, see screen shot below.
 
 ![Your API key](https://raw.githubusercontent.com/Buytition/pub_docs/master/images/screen-shot-buytition-setting-page.png)
 
@@ -47,14 +47,17 @@ To upgrade your usage plan, please contact buytition@gmail.com
 
 ## Reader Bot API
 
-This API brings developers programmatic access to [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot).  With this access, developers will be able to build your own
+This API brings developers programmatic access to [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot).  To access this API, please read [API access](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#api-access) section.
 
-* Email apps that detects and extracts dealer and  vehicle price quotes info from raw email messages
-* Vehicle price quote database
-
-The Reader Bot API has the following sub-API:
+Reader Bot API contains the following entry points:
 * [vehicle price quotes reader API](#vehicle-price-quotes-reader-api), extracts vehicle and price quotes information, if any, from input text or html
 * [vehicle dealer info reader API](#vehicle-dealer-info-reader-api), extracts vehicle dealer information, if any, from input text or html
+
+### Use Cases
+
+#### Inbound Email Processing Automation
+For **inbound email processing tool vendors**, for example, [Gmelius](https://gmelius.com) which offers smart follow-ups feature for sales workforce,  Reader Bot API empowers you to automatically identify car shopping emails, assign proper tags to them and extract dealer information and/or vehicle price quote information from them automatically.
+
 
 ### Vehicle Price Quotes Reader API
 
