@@ -53,10 +53,16 @@ Reader Bot API contains the following entry points:
 * [vehicle price quotes reader API](#vehicle-price-quotes-reader-api), extracts vehicle and price quotes information, if any, from input text or html
 * [vehicle dealer info reader API](#vehicle-dealer-info-reader-api), extracts vehicle dealer information, if any, from input text or html
 
+### Unique Advantages
+
+* While other entity extraction API vendors (such as [Lexalytics](https://www.lexalytics.com/technology/entity-extraction) or [ParallelDots](https://www.paralleldots.com/named-entity-recognition)) usually extract general entities (people, places, dates, companies, products, jobs, and titles), we are specialized in extracting vehicle and price quotes entities and their relationship from documents
+* While other entity extraction API vendors usually process text form documents only, our API is capable to process both HTML and text form of documents
+
 ### Use Cases
 
-#### Inbound Email Processing Automation
-For **inbound email processing tool vendors**, for example, [Gmelius](https://gmelius.com) which offers smart follow-ups feature for sales workforce,  Reader Bot API empowers you to automatically identify car shopping emails, assign proper tags to them and extract dealer information and/or vehicle price quote information from them automatically.
+* **Empower Your Chatbot NLU to Understand Pricing Intent** say you are developing a chatbot for a car dealer, integrating Reader Bot API into your chatbot's NLU will immediately give it the power of identifying pricing intent of customers.  The accuracy of pricing intent will be at level of vehicle year make and model and customer's desired price quotes.
+* **Collect Competitive Vehicle Pricing Data Automatically**, say you have access to raw documents data with vehicle pricing either vehicle shopping email messages or a set of car dealer web pages, ,then you may use Reader Bot API to process these documents quickly and automatically build a vehicle and price quotes database ( (provide a view of vehicle price discounts from DB)). .
+* **Inbound Email Processing Automation**, for inbound email processing tool vendors, such as [Gmelius](https://gmelius.com) which offers smart follow-ups feature for sales workforce,  Reader Bot API empowers you to automatically identify car shopping emails, assign proper tags to them and extract dealer information and/or vehicle price quote information from them automatically.
 
 
 ### Vehicle Price Quotes Reader API
