@@ -61,7 +61,22 @@ Reader Bot API contains the following entry points:
 ### Use Cases
 
 * **Empower Your Chatbot NLU to Understand Pricing Intent** say you are developing a chatbot for a car dealer, integrating Reader Bot API into your chatbot's NLU will immediately give it the power of identifying pricing intent of customers.  The accuracy of pricing intent will be at level of vehicle year make and model and customer's desired price quotes.
-* **Collect Competitive Vehicle Pricing Data Automatically**, say you have access to raw documents data with vehicle pricing either vehicle shopping email messages or a set of car dealer web pages, ,then you may use Reader Bot API to process these documents quickly and automatically build a vehicle and price quotes database ( (provide a view of vehicle price discounts from DB)). .
+* **Collect Competitive Vehicle Pricing Data Automatically**, say you have access to raw documents data with vehicle pricing either vehicle shopping email messages or a set of car dealer web pages, ,then you may use Reader Bot API to process these documents quickly and automatically build a vehicle and price quotes database, below is a summary view from that DB table that shows number of quotes, minimum quote price and % off MSRP for all Ford models in a certain geographical area in a certain time frame.
+
+|make	|model	|# of quotes	|min price $	|% off MSRP	|
+|---	|---	|---	|---	|---	|
+|ford	|escape	|18	|15899	|38	|
+|ford	|focus	|13	|11900	|38	|
+|ford	|f-150	|17	|18199	|36	|
+|ford	|fusion hybrid	|1	|20497	|36	|
+|ford	|fiesta	|11	|10420	|36	|
+|ford	|fusion	|18	|14984	|33	|
+|ford	|edge	|5	|20998	|27	|
+|ford	|explorer	|17	|23999	|26	|
+|ford	|mustang	|12	|19993	|24	|
+
+
+
 * **Inbound Email Processing Automation**, for inbound email processing tool vendors, such as [Gmelius](https://gmelius.com) which offers smart follow-ups feature for sales workforce,  Reader Bot API empowers you to automatically identify car shopping emails, assign proper tags to them and extract dealer information and/or vehicle price quote information from them automatically.
 
 
