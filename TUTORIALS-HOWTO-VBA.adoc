@@ -13,17 +13,7 @@ image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/gra
 
 # Step 2/3: Create Vehicle Buyer Agent
 
-Open Vehicle Buyer Agent page, enter the vehicle URL found in previous step: https://www.fallschurchdonbeyervolvo.com/new/Volvo/2020-Volvo-XC60-falls-church-va-3b6bacfb0a0e0a171d51c9a7221ce847.htm, and vehicle details info into the form
-```
-VIN: YV4102RK6L1474552
-Stock: 12522B
-MSRP
-$47,375
-Discount*
--$2,421
-Your Price
-$44,954
-```
+Open Vehicle Buyer Agent page, enter the vehicle URL found in <<step-13-find-your-target-vehicle-online,previous step>> and vehicle details info into the form
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
 
