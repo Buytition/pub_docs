@@ -13,11 +13,11 @@ image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/gra
 
 # Step 2/3: Create Vehicle Buyer Agent
 
-Open Vehicle Buyer Agent page, enter the vehicle URL found in <<step-13-find-your-target-vehicle-online,previous step>> and vehicle details info into the form
+Open Vehicle Buyer Agent page, enter the vehicle URL found and vehicle details info in <<step-13-find-your-target-vehicle-online,previous step>> into the form, and click `Submit` button
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
 
-Click Submit button
+Then a Vehicle Buyer Agent proxy email is created, it's something like `bagent_barbXXXX@buytition.com`, now you just wait for dealer email to come in.
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-agent-created.png[Buyer Agent created notice]
 
