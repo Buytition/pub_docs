@@ -13,26 +13,26 @@ image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/gra
 
 # Step 2/3: Create Vehicle Buyer Agent
 
-Open Vehicle Buyer Agent page, enter the vehicle URL found and vehicle details info in <<step-13-find-your-target-vehicle-online,previous step>> into the form, and click `Submit` button
+Open https://buytition.com/web/vehicle-buyer-agent-en[signup page] of Vehicle Buyer Agent, enter the vehicle URL and vehicle details info found in <<step-13-find-your-target-vehicle-online,previous step>> into the form, and click `Submit` button
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
 
-Then a Vehicle Buyer Agent proxy email is created, it's something like `bagent_barbXXXX@buytition.com`, now you just wait for dealer email to come in.
+Then a Vehicle Buyer Agent proxy email, something like `bagent_barbXXXX@buytition.com`, is created, now all you need to do is sit back and wait for dealer emails to come in.
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-agent-created.png[Buyer Agent created notice]
 
 # Step 3/3: Communicate with Dealer via Buyer Agent
 
-In a while, you will receive inbound email from dealer like this in my Gmail inbox
+In a while, you will receive email from dealer, in this demo, I entered a Gmail address, so it arrives at Gmail inbox like this.  You see the email was forwarded from `bagent_barbXXXX@buytition.com` which is proxy email I created in previous step. In this email, dealer quoted a price of $44,954 for my target vehicle.
 
 image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/inbound-mail-01.png[inbound email top]
 
 
-I reply it directly from my Gmail mobile app and gave a price offer
+I reply it directly from my Gmail mobile app and made a counter-offer of $2000 lower than dealer's quoted price
 
 image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/outbound-mail-01.PNG[reply dealer email, 365,649]
 
 
-Dealer respond to my price offer, every dealer email forwarded by Vehicle Buyer Agent will be tagged with link you submitted orginially to create the Vehicle Buyer Agent, in that case https://www.fallschurchdonbeyervolvo.com/new/Volvo/2020-Volvo-XC60-falls-church-va-3b6bacfb0a0e0a171d51c9a7221ce847.htm (see screenshot below)
+Dealer respond to my price offer and I am ready to make a deal with dealer.  Additionally, you may notice the red circled `here` link at top right of screenshot below, it is exactly the target vehicle link you have added to Vehicle Buyer Agent earlier.  That link is attached by Vehicle Buyer Agent to the bottom of every dealer email you receive as buyer, so you may keep track of purpose of this conversation.
 
 image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/inbound-mail-03.png[inbound email]
