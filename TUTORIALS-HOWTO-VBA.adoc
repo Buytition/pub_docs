@@ -1,0 +1,38 @@
+# How To Use: Vehicle Buyer Agent
+:toc:
+
+Last Updated: 1/6/2020
+
+This is a simple tutorial of how to use Vehicle Buyer Agent for your car buying.
+
+# Step 1/3: Find Your Target Vehicle Online
+
+Look for your target vehicle online and grab its URL (link on browser), we recommend you to use links that has vehicle specific details (VIN, MSRP and price quotes), such as the one below
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/grab-vehicle-url.png[grab vehicle URL]
+
+# Step 2/3: Create Vehicle Buyer Agent
+
+Enter the vehicle URL 
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
+
+Click Submit button
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-agent-created.png[Buyer Agent created notice]
+
+# Step 3/3: Communicate with Dealer via Buyer Agent
+
+In a while, you will receive inbound email from dealer like this in my Gmail inbox
+
+image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/inbound-mail-01.png[inbound email top]
+
+
+I reply it directly from my Gmail mobile app and gave a price offer
+
+image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/outbound-mail-01.PNG[reply dealer email, 365,649]
+
+
+Dealer respond to my price offer
+
+image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/inbound-mail-03.png[inbound email]
