@@ -5,15 +5,15 @@ Last Updated: 1/6/2020
 
 This is a simple tutorial of how to use Vehicle Buyer Agent for your car buying.
 
-# Step 1/3: Find Your Target Vehicle Online
+# Step 1: Find Your Target Vehicle Online
 
 Look for your target vehicle online and grab its URL (link on browser), we recommend you to use links that has vehicle specific details (VIN, MSRP and price quotes), such as the one below
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/grab-vehicle-url.png[grab vehicle URL]
 
-# Step 2/3: Create Vehicle Buyer Agent
+# Step 2: Create Vehicle Buyer Agent
 
-Open https://buytition.com/web/vehicle-buyer-agent-en[signup page] of Vehicle Buyer Agent, enter the vehicle URL and vehicle details info found in <<step-13-find-your-target-vehicle-online,previous step>> into the form, and click `Submit` button
+Open https://buytition.com/web/vehicle-buyer-agent-en[signup page] of Vehicle Buyer Agent, enter the vehicle URL and vehicle details info found in <<step-1-find-your-target-vehicle-online,previous step>> into the form, and click `Submit` button
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
 
@@ -21,12 +21,35 @@ Then a Vehicle Buyer Agent proxy email, something like `bagent_barbXXXX@buytitio
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-agent-created.png[Buyer Agent created notice]
 
-# Step 3/3: Communicate with Dealer via Buyer Agent
+# Step 3: Use Buyer Worksheet
+
+As soon as you create vehicle buyer agent for your target vehicle, it is added to your buyer worksheet list under your Buytition account
+
+## Access Buyer Worksheet
+
+To access your Buyer Worksheet, if it's your first time login to Buytition, then just visit https://buytition.com/web/request_password[Reset Password] page, enter your email address, then you will get a link via email to reset your password to login, otherwise simply visit Buytition signin page to login.
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/sign-in-to-buytition.png[sign in to Buytition]
+
+## Edit Target Vehicle in Buyer Worksheet
+
+After you login to your Buyer Worksheet, the Volvo XC60 I just added is shown as `My Dream Vehicle` at top, its link matches the URL I entered earlier, now I click `Edit` button to edit it.
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-worksheet-01.png[Buyer Worksheet before edit]
+
+I edit the listing to make it more informative to me, after I finish, I click `Save` button
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-worksheet-02-edit-listing.png[Buyer Worksheet edit WIP]
+
+Now the listing looks more informative than simply `my dream vehicle`
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-worksheet-03-updated-listing.png[Buyer Worksheet Listing Updated]
+
+# Step 4: Communicate with Dealer via Buyer Agent
 
 In a while, you will receive email from dealer, in this demo, I entered a Gmail address, so it arrives at Gmail inbox like this.  You see the email was forwarded from `bagent_barbXXXX@buytition.com` which is proxy email I created in previous step. In this email, dealer quoted a price of $44,954 for my target vehicle.
 
 image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/inbound-mail-01.png[inbound email top]
-
 
 I reply it directly from my Gmail mobile app and made a counter-offer of $2000 lower than dealer's quoted price
 
