@@ -45,7 +45,7 @@ Now the listing looks more informative than simply `my dream vehicle`
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-worksheet-03-updated-listing.png[Buyer Worksheet Listing Updated]
 
-# Step 4: Communicate with Dealer via Buyer Agent
+# Step 4: Communicate with Dealer via Proxy Email
 
 In a while, you will receive email from dealer, in this demo, I entered a Gmail address, so it arrives at Gmail inbox like this.  You see the email was forwarded from `bagent_barbXXXX@buytition.com` which is proxy email I created in previous step. In this email, dealer quoted a price of $44,954 for my target vehicle.
 
