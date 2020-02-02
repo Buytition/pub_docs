@@ -11,9 +11,9 @@ Look for your target vehicle online and grab its URL (link on browser), we recom
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/grab-vehicle-url.png[grab vehicle URL]
 
-# Step 2: Create Vehicle Buyer Agent
+# Step 2: Add to Car Buyer Worksheet
 
-Open https://buytition.com/web/vehicle-buyer-agent-en[signup page] of Vehicle Buyer Agent, enter the vehicle URL and vehicle details info found in <<step-1-find-your-target-vehicle-online,previous step>> into the form, and click `Submit` button
+Open https://buytition.com/web/vehicle-buyer-agent-en[signup page] of Car Buyer Worksheet, enter the vehicle URL and vehicle details info found in <<step-1-find-your-target-vehicle-online,previous step>> into the form, and click `Submit` button
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
 
