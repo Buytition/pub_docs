@@ -41,9 +41,20 @@ I edit the listing to make it more informative to me, after I finish, I click `S
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-worksheet-02-edit-listing.png[Buyer Worksheet edit WIP]
 
-Now the listing looks more informative than simply `my dream vehicle`
+Now the listing looks more informative `2020 Volvo XC60` than simply `my dream vehicle`
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-worksheet-03-updated-listing.png[Buyer Worksheet Listing Updated]
+
+## Organize Emails around Target Vehicle
+
+If email exist for any target vehicles, Buyer Worksheet will show total count of emails (received and sent) at lower right corner for that vehicle.  For `2020 Volv XC60` vehicle in this example, we have total 12 emails see below
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/vehicle-email-count.png[Buyer Worksheet before edit]
+
+Clicking on email icon will show you all 12 email messages between myself and dealer regarding this vehicle.
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/vehicle-email-list.png[Buyer Worksheet before edit]
+
 
 # Step 4: Communicate with Dealer via Proxy Email
 
