@@ -21,8 +21,6 @@ Then a Vehicle Buyer Agent proxy email, something like `bagent_barbXXXX@buytitio
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-agent-created.png[Buyer Agent created notice]
 
-# Step 3: Use Buyer Worksheet
-
 As soon as you create vehicle buyer agent for your target vehicle, it is added to your buyer worksheet list under your Buytition account
 
 ## Access Buyer Worksheet
@@ -45,18 +43,8 @@ Now the listing looks more informative `2020 Volvo XC60` than simply `my dream v
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-worksheet-03-updated-listing.png[Buyer Worksheet Listing Updated]
 
-## Organize Emails around Target Vehicle
 
-If email exist for any target vehicles, Buyer Worksheet will show total count of emails (received and sent) at lower right corner for that vehicle.  For `2020 Volv XC60` vehicle in this example, we have total 12 emails see below
-
-image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/vehicle-email-count.png[Buyer Worksheet before edit]
-
-Clicking on email icon will show you all 12 email messages between myself and dealer regarding this vehicle.
-
-image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/vehicle-email-list.png[Buyer Worksheet before edit]
-
-
-# Step 4: Communicate with Dealer via Proxy Email
+# Step 3: Communicate with Dealer via Proxy Email
 
 In a while, you will receive email from dealer, in this demo, I entered a Gmail address, so it arrives at Gmail inbox like this.  You see the email was forwarded from `bagent_barbXXXX@buytition.com` which is proxy email I created in previous step. In this email, dealer quoted a price of $44,954 for my target vehicle.
 
@@ -70,3 +58,13 @@ image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/ou
 Dealer respond to my price offer and I am ready to make a deal with dealer.  Additionally, you may notice the red circled `here` link at top right of screenshot below, it is exactly the target vehicle link you have added to Vehicle Buyer Agent earlier.  That link is attached by Vehicle Buyer Agent to the bottom of every dealer email you receive as buyer, so you may keep track of purpose of this conversation.
 
 image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/inbound-mail-03.png[inbound email]
+
+## Organize Emails around Target Vehicle
+
+If email exist for any target vehicles, Buyer Worksheet will show total count of emails (received and sent) at lower right corner for that vehicle.  For `2020 Volv XC60` vehicle in this example, we have total 12 emails see below
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/vehicle-email-count.png[Buyer Worksheet before edit]
+
+Clicking on email icon will show you all 12 email messages between myself and dealer regarding this vehicle.
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/vehicle-email-list.png[Buyer Worksheet before edit]
