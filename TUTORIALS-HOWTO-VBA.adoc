@@ -5,16 +5,33 @@ Last Updated: 1/27/2020
 
 This is a simple tutorial of how to use Vehicle Buyer Agent for your car buying.
 
-# Step 1: Find Your Target Vehicle Online
+# Step 1: Create a Buying Project
+
+Open https://buytition.com/projects/show-form/start-project[Start Project] page to create a buying project for free and use it as a **car buying worksheet** to track all target vehicles and negotiations around them.
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buying-project.png[create buying project]
+
+After you submit the above simple form, the project is created like this or can be viewed https://buytition.com/projects/2122/price-research-for-a-mid-size-suv-at-40k-budget[here]
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-project-created.png[buying project created]
+
+# Step 2: Add Buyer Agent to Buying Project
+After your buying project is created, now you can start adding buyer agent to it
+
+## Step 2.1: Find Your Target Vehicle Online
 
 Look for your target vehicle online and grab its URL (link on browser), we recommend you to use links that has vehicle specific details (VIN, MSRP and price quotes), such as the one below
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/grab-vehicle-url.png[grab vehicle URL]
 
-# Step 2: Add to Car Buyer Worksheet
+## Step 2.2: Create Buyer Agent
 
+After target vehicle page is available, go back to your buying project, scroll to the bottom, click **Add Buyer Agent** link
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-project-bottom.png[buying project bottom]
 Open https://buytition.com/web/vehicle-buyer-agent-en[signup page] of Car Buyer Worksheet, enter the vehicle URL and vehicle details info found in <<step-1-find-your-target-vehicle-online,previous step>> into the form, and click `Submit` button
 
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent-top.png[create Vehicle Buyer Agent]
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
 
 Then a Vehicle Buyer Agent proxy email, something like `bagent_barbXXXX@buytition.com`, is created, now all you need to do is sit back and wait for dealer emails to come in.
