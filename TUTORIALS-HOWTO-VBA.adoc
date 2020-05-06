@@ -7,6 +7,10 @@ This is a simple tutorial of how to use Vehicle Buyer Agent for your car buying.
 
 # Step 1: Create a Buying Project
 
+If you don't have an account yet, click https://buytition.com/projects/show-form/start-project[create an account] using a personal email address (in this tutorial I use `buytition.car@gmail.com`) and use it to https://buytition.com/web/dist/signin[sign in] to Buytition.  If you have not verified your personal email yet, then click `Reset Password` button to verify it.
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/sign-in-to-buytition.png[sign in to buytition]
+
 Open https://buytition.com/projects/show-form/start-project[Start Project] page to create a buying project for free and use it as a **car buying worksheet** to track all target vehicles and negotiations around them.
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buying-project.png[create buying project]
@@ -26,15 +30,16 @@ image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/gra
 
 ## Step 2.2: Create Buyer Agent
 
-After target vehicle page is available, go back to your buying project, scroll to the bottom, click **Add Buyer Agent** link
+After target vehicle page is available, go back to the page of buying project you just created, scroll to the bottom, click **Add Buyer Agent** link
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-project-bottom.png[buying project bottom]
-Open https://buytition.com/web/vehicle-buyer-agent-en[signup page] of Car Buyer Worksheet, enter the vehicle URL and vehicle details info found in <<step-1-find-your-target-vehicle-online,previous step>> into the form, and click `Submit` button
+
+Fill out **Create Buyer Agent** form with vehicle name, vehicle URL and other vehicle details info found in <<step-1-find-your-target-vehicle-online,previous step>>, and click `Submit` button
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent-top.png[create Vehicle Buyer Agent]
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
 
-Then a Vehicle Buyer Agent proxy email, something like `bagent_barbXXXX@buytition.com`, is created, now all you need to do is sit back and wait for dealer emails to come in.
+Then a Vehicle Buyer Agent proxy email (`bagent_barbXXXX@buytition.com` in this case) is created, now all you need to do is sit back and wait for dealer emails to come in.
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-agent-created.png[Buyer Agent created notice]
 
@@ -65,16 +70,16 @@ image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buy
 
 In a while, you will receive email from dealer, in this demo, I entered a Gmail address, so it arrives at Gmail inbox like this.  You see the email was forwarded from `bagent_barbXXXX@buytition.com` which is proxy email I created in previous step. In this email, dealer quoted a price of $44,954 for my target vehicle.
 
-image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/inbound-mail-01.png[inbound email top]
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/inbound-mail-01.png[inbound email top]
 
 I reply it directly from my Gmail mobile app and made a counter-offer of $2000 lower than dealer's quoted price
 
-image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/outbound-mail-01.PNG[reply dealer email, 365,649]
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/outbound-mail-01.PNG[reply dealer email, 365,649]
 
 
 Dealer respond to my price offer and I am ready to make a deal with dealer.  Additionally, you may notice the red circled `here` link at top right of screenshot below, it is exactly the target vehicle link you have added to Vehicle Buyer Agent earlier.  That link is attached by Vehicle Buyer Agent to the bottom of every dealer email you receive as buyer, so you may keep track of purpose of this conversation.
 
-image::https://github.com/Buytition/pub_docs/blob/master/images/VBA-tutorials/inbound-mail-03.png[inbound email]
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/inbound-mail-03.png[inbound email]
 
 ## Organize Emails around Target Vehicle
 
