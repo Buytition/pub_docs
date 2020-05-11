@@ -1,9 +1,9 @@
-# How To Use: Car Buyer Worksheet
+# How To Use: Email Buyer Agent
 :toc:
 
-Last Updated: 1/27/2020
+Last Updated: 5/10/2020
 
-This is a simple tutorial of how to use Vehicle Buyer Agent for your car buying.
+This is a simple tutorial of how to use Email Buyer Agent for your car buying.
 
 # Step 1: Create a Buying Project
 
