@@ -3,7 +3,19 @@
 
 Last Updated: 5/10/2020
 
-This is a simple tutorial of how to use Email Buyer Agent for your car buying.
+# What is Email Buyer Agent
+
+Email Buyer Agent is a car buying tool developed by Buytition, with this tool, buyers are empowered to create any number of email buyer agents to an existing http://blog.buytition.com/2020/03/buying-projects-is-launched.html[buying project], assign each buyer agent to one target vehicle, and use these buyer agents to manage email negotiations with dealers regarding different target vehicles.
+
+Benefits of using Email Buyer Agent
+
+* **Protect Your Privacy**: For each of your target vehicle URL, you get a dedicated proxy email address through which you exchange email communications with dealer sales force, so that privacy of your personal email is protected.
+* **One Click Mute/UnMute Dealer Emails**: you can mute (or unsubscribe from) all dealer emails sent to this Email Buyer Agent email address with one click, without need to fill out any unsubscribe form.  You may unmute all dealer emails at any time later, also with one click.
+* **Simple Sign-Up**: to create an Email Buyer Agent only requires your full name, email address and target vehicle link, price quote, and area information. We respect your privacy and only ask for information absolutely required to do our job, nothing more.
+* **Reply Directly From Your Mailbox**: after an Email Buyer Agent is created, you just wait for dealer emails and respond to dealer directly from your personal email account.
+* **Organize Email Communications Around Your Target Vehicles**: Each forwarded emails to or from dealers will be tagged with your target vehicle link.
+
+Below you can find a simple tutorial of how to use Email Buyer Agent for your car buying.
 
 # Step 1: Create a Buying Project
 
