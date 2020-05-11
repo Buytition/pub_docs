@@ -19,7 +19,7 @@ After you submit the above simple form, the project is created like this or can 
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-project-created.png[buying project created]
 
-# Step 2: Add Buyer Agent to Buying Project
+# Step 2: Add Email Buyer Agent to Buying Project
 After your buying project is created, now you can start adding buyer agent to it
 
 ## Step 2.1: Find Your Target Vehicle Online
@@ -28,22 +28,22 @@ Look for your target vehicle online and grab its URL (link on browser), we recom
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/grab-vehicle-url.png[grab vehicle URL]
 
-## Step 2.2: Create Buyer Agent
+## Step 2.2: Create Email Buyer Agent
 
 After target vehicle page is available, go back to the page of buying project you just created, scroll to the bottom, click **Add Buyer Agent** link
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-project-bottom.png[buying project bottom]
 
-Fill out **Create Buyer Agent** form with vehicle name, vehicle URL and other vehicle details info found in <<step-1-find-your-target-vehicle-online,previous step>>, and click `Submit` button
+Fill out **Create Buyer Agent** form with vehicle name, vehicle URL and other vehicle details info found in <<step-21-find-your-target-vehicle-online,previous step>>, and click `Submit` button
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent-top.png[create Vehicle Buyer Agent]
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
 
-Then a Vehicle Buyer Agent proxy email (`bagent_barbXXXX@buytition.com` in this case) is created, now all you need to do is sit back and wait for dealer emails to come in.
+Now a Email Buyer Agent proxy email (`bagent_barbXXXX@buytition.com` in this case) is created, all you need to do is sit back and wait for dealer emails to come in.
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-agent-created.png[Buyer Agent created notice]
 
-The buyer agent will show up in the Buying Project page
+The created buyer agent will show up in the Buying Project page as shown below or can be accessed https://buytition.com/projects/2122/price-research-for-a-mid-size-suv-at-40k-budget#b42[here]
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/b42-after-login-proxy-email.png[Buyer Agent proxy email tooltip]
 
@@ -62,7 +62,7 @@ Dealer respond to my price offer and I am ready to make a deal with dealer.  Add
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/inbound-mail-03.png[inbound email]
 
-# Step 4: Manage Buyer Agent
+# Step 4: Manage Email Buyer Agent
 
 
 For creator of the buyer agent, after login, you will be able to check out your own private information such as proxy email address, your full name, a link to email messages between you and dealer through this buyer agent and a button to turn on / off this buyer agent with one click.
