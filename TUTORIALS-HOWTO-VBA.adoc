@@ -46,8 +46,8 @@ image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buy
 
 Fill out **Create Buyer Agent** form with vehicle name, vehicle URL and other vehicle details info found in <<step-21-find-your-target-vehicle-online,previous step>>, and click `Submit` button
 
-image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent-top.png[create Vehicle Buyer Agent]
-image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Vehicle Buyer Agent]
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent-top.png[create Email Buyer Agent]
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png[create Email Buyer Agent]
 
 Now a Email Buyer Agent proxy email (`bagent_barbXXXX@buytition.com` in this case) is created, all you need to do is sit back and wait for dealer emails to come in.
 
@@ -68,7 +68,7 @@ I reply it directly from my Gmail mobile app and made a counter-offer of $2000 l
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/outbound-mail-01.PNG[reply dealer email, 365,649]
 
 
-Dealer respond to my price offer and I am ready to make a deal with dealer.  Additionally, you may notice the red circled `here` link at top right of screenshot below, it is exactly the target vehicle link you have added to Vehicle Buyer Agent earlier.  That link is attached by Vehicle Buyer Agent to the bottom of every dealer email you receive as buyer, so you may keep track of purpose of this conversation.
+Dealer respond to my price offer and I am ready to make a deal with dealer.  Additionally, you may notice the red circled `here` link at top right of screenshot below, it is exactly the target vehicle link you have added to Email Buyer Agent earlier.  That link is attached by Email Buyer Agent to the bottom of every dealer email you receive as buyer, so you may keep track of purpose of this conversation.
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/inbound-mail-03.png[inbound email]
 
