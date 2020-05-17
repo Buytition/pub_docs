@@ -9,7 +9,7 @@ Email Buyer Agent is a car buying tool developed by https://buytition.com[Buytit
 
 ## Collaborative Negotiation
 
-This is a powerful feature to allow multiple friends to help one person to negotiate best car deal with car dealers.  Once a Buying Project is created, project author can add Email Buyer Agents to it, at the same time, anybody else may also contribute to the project by adding target vehicle links to it as Email Buyer Agents (EBA).  If an EBA is added by a friend of project author, then EBA details and email messages can be accessed by not only EBA's author (project author's friend), but also project author.  All seller emails sent to EBA proxy email address will not only be forwarded to EBA's author but also buying project's author.  
+This is a powerful feature to allow multiple friends to help one person to negotiate best car deal with car dealers.  Once a Buying Project is created, project author can add Email Buyer Agents to it, at the same time, anybody else may also contribute to the project by adding target vehicle links to it as Email Buyer Agents (EBA).  If an EBA is added by a friend of project author, then EBA details and email messages can be accessed by not only EBA's author (project author's friend), but also project author.  All seller emails sent to EBA proxy email address will not only be forwarded to EBA's author but also buying project's author.
 
 ## <<step-4-2-one-click-turn-on-off-agent, One Click Mute Seller Emails>>
 
@@ -33,9 +33,11 @@ Once your buying project is created, you may add any number of links of target v
 
 For each of your target vehicle URL, you get a dedicated proxy email address through which you exchange email communications with dealer sales force, so that privacy of your personal email is protected.
 
+# Demo
+
 Below you can find a simple tutorial of how to use Email Buyer Agent for your car buying.
 
-# Step 1: Create a Buying Project
+## Step 1: Create a Buying Project
 
 If you don't have an account yet, click https://buytition.com/projects/show-form/start-project[create an account] using a personal email address (in this tutorial I use `buytition.car@gmail.com`) and use it to https://buytition.com/web/dist/signin[sign in] to Buytition.  If you have not verified your personal email yet, then click `Reset Password` button to verify it.
 
@@ -49,16 +51,16 @@ After you submit the above simple form, the project is created like this or can 
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-project-created.png[buying project created]
 
-# Step 2: Add Email Buyer Agent to Buying Project
+## Step 2: Add Email Buyer Agent to Buying Project
 After your buying project is created, now you can start adding buyer agent to it
 
-## Step 2.1: Find Your Target Vehicle Online
+### Step 2.1: Find Your Target Vehicle Online
 
 Look for your target vehicle online and grab its URL (link on browser), we recommend you to use links that has vehicle specific details (VIN, MSRP and price quotes), such as the one below
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/grab-vehicle-url.png[grab vehicle URL]
 
-## Step 2.2: Create Email Buyer Agent
+### Step 2.2: Create Email Buyer Agent
 
 After target vehicle page is available, go back to the https://buytition.com/projects/2122/price-research-for-a-mid-size-suv-at-40k-budget[buying project] you just created in <<step-1-create-a-buying-project, previous step>>, scroll to the bottom, click **Add Buyer Agent** link
 
@@ -77,7 +79,7 @@ The created buyer agent will show up in the Buying Project page as shown below o
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/b42-after-login-proxy-email.png[Buyer Agent proxy email tooltip]
 
-# Step 3: Communicate with Dealer via Proxy Email
+## Step 3: Communicate with Dealer via Proxy Email
 
 In a while, you will receive email from dealer, in this demo, I entered a Gmail address, so it arrives at Gmail inbox like this.  You see the email was forwarded from `bagent_barbXXXX@buytition.com` which is proxy email I created in previous step. In this email, dealer quoted a price of $44,954 for my target vehicle.
 
@@ -92,13 +94,13 @@ Dealer respond to my price offer and I am ready to make a deal with dealer.  Add
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/inbound-mail-03.png[inbound email]
 
-# Step 4: Manage Email Buyer Agent
+## Step 4: Manage Email Buyer Agent
 
 
 For creator of the buyer agent, after login, you will be able to check out your own private information such as proxy email address, your full name, a link to email messages between you and dealer through this buyer agent and a button to turn on / off this buyer agent with one click.
 
 
-## Step 4.1: Check Buyer Agent Emails
+### Step 4.1: Check Buyer Agent Emails
 
 If email exist for any target vehicles, Buyer Worksheet will show total count of emails (received and sent) at lower right corner for that vehicle.  For `2020 Volv XC60` vehicle in this example, we have total 34 emails see below
 
@@ -108,7 +110,7 @@ Clicking on email icon will show you all 34 email messages between myself and de
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/vehicle-email-list.png[Buyer Worksheet before edit]
 
-## Step 4.2 One Click Turn On / Off Agent
+### Step 4.2 One Click Turn On / Off Agent
 
 Turn on or off buyer agent with one click, one click to unsubscribe from all messages from sender without worrying about filling out complex form to unsubscribe
 
