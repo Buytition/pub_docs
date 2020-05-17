@@ -27,7 +27,9 @@ An added benefit of using EBA proxy email to manage your email negotiation with 
 
 ## <<step-41-check-buyer-agent-emails, Car Buying Worksheet>>
 
-Once your buying project is created, you may add any number of links of target vehicles to it, for each of target vehicle link, you may also update target vehicle and price information and the buying project becomes car buying worksheet, at the same time, each added target vehicle link becomes dedicated Email Buyer Agent for that vehicle.
+Once your buying project is created, you may add any number of links of target vehicles to it, for each of target vehicle link, you may also update target vehicle and price information so the buying project becomes buyer's car buying worksheet, at the same time, each added vehicle link becomes dedicated Email Buyer Agent (EBA) for that vehicle.
+
+For any created EBA that has received emails from buyer or seller, EBA's author or buying project author will be able to check all email communications for that EBA only. 
 
 ## Protect Your Privacy
 
