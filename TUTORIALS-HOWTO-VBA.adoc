@@ -1,33 +1,39 @@
 # How To Use: Email Buyer Agent
 :toc:
 
-Last Updated: 5/10/2020
+Last Updated: 5/17/2020
 
 # What is Email Buyer Agent
 
 Email Buyer Agent is a car buying tool developed by https://buytition.com[Buytition] for anybody who use email to negotiate car deals with dealers.  To use it, simply start a https://buytition.com/projects/show-form/start-project[Buying Project] for free, then start adding links of your dream cars to it so the project becomes your **Car Buying Worksheet**, and each added car link becomes **Email Buyer Agent** dedicated to track and manage all emails between you and dealer regarding that particular car, and you can mute/unmute each Email Buyer Agent with one-click and enjoy other powerful benefits listed below.
 
-## <<step-4-2-one-click-turn-on-off-agent, One Click Mute/UnMute Dealer Emails>>
+## Collaborative Negotiation
 
-Once an Email Buyer Agent is created, you can mute (or unsubscribe from) all emails sent to the agent's email address with one click, without need to fill out any unsubscribe form at all.  You may unmute all dealer emails at any time later, also with one click.
+This is a powerful feature to allow multiple friends to help one person to negotiate best car deal with car dealers.  Once a Buying Project is created, project author can add Email Buyer Agents to it, at the same time, anybody else may also contribute to the project by adding target vehicle links to it as Email Buyer Agents (EBA).  If an EBA is added by a friend of project author, then EBA details and email messages can be accessed by not only EBA's author (project author's friend), but also project author.  All seller emails sent to EBA proxy email address will not only be forwarded to EBA's author but also buying project's author.  
+
+## <<step-4-2-one-click-turn-on-off-agent, One Click Mute Seller Emails>>
+
+Once an Email Buyer Agent (EBA) is created, you can mute (or unsubscribe from) all emails sent to the EBA's proxy email address with one click, without need to fill out any unsubscribe form at all.  You may unmute all seller emails at any time later, also with one click.
 
 ## <<step-2-2-create-email-buyer-agent, Simple to Create>>
 
 to create an Email Buyer Agent only requires your full name, email address and target vehicle link, price quote, and area information. We respect your privacy and only ask for information absolutely required to do our job, nothing more.
 
-## <<step-3-communicate-with-dealer-via-proxy-email, Reply Directly From Your Mailbox>>
+## <<step-3-communicate-with-dealer-via-proxy-email, Reply Directly from Personal Email>>
 
-after an Email Buyer Agent is created, you just wait for dealer emails and respond to dealer directly from your personal email account.
+After an Email Buyer Agent (EBA) is created, even though agent's proxy email address is not your personal email address, you can respond to dealer directly from your personal email account because EBA proxy email forward all seller emails to your personal email and forward all messages sent from your personal email to seller.
 
-## <<step-41-check-buyer-agent-emails, Organize Email Communications Around Your Target Vehicles>>
+An added benefit of using EBA proxy email to manage your email negotiation with seller is that each forwarded emails to or from sellers will be tagged with your target vehicle link so you can easily link any email with its original target vehcile link.
 
-Each forwarded emails to or from dealers will be tagged with your target vehicle link.
+## <<step-41-check-buyer-agent-emails, Car Buying Worksheet>>
 
-Below you can find a simple tutorial of how to use Email Buyer Agent for your car buying.
+Once your buying project is created, you may add any number of links of target vehicles to it, for each of target vehicle link, you may also update target vehicle and price information and the buying project becomes car buying worksheet, at the same time, each added target vehicle link becomes dedicated Email Buyer Agent for that vehicle.
 
 ## Protect Your Privacy
 
 For each of your target vehicle URL, you get a dedicated proxy email address through which you exchange email communications with dealer sales force, so that privacy of your personal email is protected.
+
+Below you can find a simple tutorial of how to use Email Buyer Agent for your car buying.
 
 # Step 1: Create a Buying Project
 
