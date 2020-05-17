@@ -7,13 +7,27 @@ Last Updated: 5/10/2020
 
 Email Buyer Agent is a car buying tool developed by https://buytition.com[Buytition] for anybody who use email to negotiate car deals with dealers.  To use it, simply start a https://buytition.com/projects/show-form/start-project[Buying Project] for free, then start adding links of your dream cars to it so the project becomes your **Car Buying Worksheet**, and each added car link becomes **Email Buyer Agent** dedicated to track and manage all emails between you and dealer regarding that particular car, and you can mute/unmute each Email Buyer Agent with one-click and enjoy other powerful benefits listed below.
 
-* **Protect Your Privacy**: For each of your target vehicle URL, you get a dedicated proxy email address through which you exchange email communications with dealer sales force, so that privacy of your personal email is protected.
-* **One Click Mute/UnMute Dealer Emails** (<<step-4-2-one-click-turn-on-off-agent, see demo>>): you can mute (or unsubscribe from) all dealer emails sent to this Email Buyer Agent email address with one click, without need to fill out any unsubscribe form.  You may unmute all dealer emails at any time later, also with one click.
-* **Simple to Create** (<<step-2-2-create-email-buyer-agent, see demo>>): to create an Email Buyer Agent only requires your full name, email address and target vehicle link, price quote, and area information. We respect your privacy and only ask for information absolutely required to do our job, nothing more.
-* **Reply Directly From Your Mailbox** (<<step-3-communicate-with-dealer-via-proxy-email, see demo>>): after an Email Buyer Agent is created, you just wait for dealer emails and respond to dealer directly from your personal email account.
-* **Organize Email Communications Around Your Target Vehicles** (<<step-41-check-buyer-agent-emails, see demo>>: Each forwarded emails to or from dealers will be tagged with your target vehicle link.
+## <<step-4-2-one-click-turn-on-off-agent, One Click Mute/UnMute Dealer Emails>>
+
+Once an Email Buyer Agent is created, you can mute (or unsubscribe from) all emails sent to the agent's email address with one click, without need to fill out any unsubscribe form at all.  You may unmute all dealer emails at any time later, also with one click.
+
+## <<step-2-2-create-email-buyer-agent, Simple to Create>>
+
+to create an Email Buyer Agent only requires your full name, email address and target vehicle link, price quote, and area information. We respect your privacy and only ask for information absolutely required to do our job, nothing more.
+
+## <<step-3-communicate-with-dealer-via-proxy-email, Reply Directly From Your Mailbox>>
+
+after an Email Buyer Agent is created, you just wait for dealer emails and respond to dealer directly from your personal email account.
+
+## <<step-41-check-buyer-agent-emails, Organize Email Communications Around Your Target Vehicles>>
+
+Each forwarded emails to or from dealers will be tagged with your target vehicle link.
 
 Below you can find a simple tutorial of how to use Email Buyer Agent for your car buying.
+
+## Protect Your Privacy
+
+For each of your target vehicle URL, you get a dedicated proxy email address through which you exchange email communications with dealer sales force, so that privacy of your personal email is protected.
 
 # Step 1: Create a Buying Project
 
