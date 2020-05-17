@@ -23,7 +23,7 @@ Once an Email Buyer Agent (EBA) is created, you can mute (or unsubscribe from) a
 
 to create an Email Buyer Agent only requires your full name, email address and target vehicle link, price quote, and area information. We respect your privacy and only ask for information absolutely required to do our job, nothing more.
 
-## <<step-3-communicate-with-dealer-via-proxy-email, Email Management for Buyer>>
+## <<step-4-1-check-buyer-agent-emails, Email Management for Buyer>>
 
 For any created Email Buyer Agent (EBA) that has received emails from buyer or seller, EBA's creator or the creator of EBA's parent buying project are both allowed to check all email communications for that EBA.
 
