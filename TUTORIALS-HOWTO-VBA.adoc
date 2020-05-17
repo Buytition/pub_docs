@@ -7,6 +7,10 @@ Last Updated: 5/17/2020
 
 Email Buyer Agent is a car buying tool developed by https://buytition.com[Buytition] for anybody who use email to negotiate car deals with dealers.  To use it, simply start a https://buytition.com/projects/show-form/start-project[Buying Project] for free, then start adding links of your dream cars to it so the project becomes your **Car Buying Worksheet**, and each added car link becomes **Email Buyer Agent** dedicated to track and manage all emails between you and dealer regarding that particular car, and you can mute/unmute each Email Buyer Agent with one-click and enjoy other powerful benefits listed below.
 
+## <<step-2-3-car-buying-worksheet, Car Buying Worksheet>>
+
+Once your buying project is created, you may add any number of links of target vehicles to it, for each of target vehicle link, you may also update target vehicle and price information so the buying project becomes buyer's car buying worksheet.  At the same time, each added vehicle link becomes dedicated Email Buyer Agent (EBA) for that vehicle.
+
 ## Collaborative Negotiation
 
 This is a powerful feature to allow multiple friends to help one buyer to negotiate best car deal with car dealers.  After a Buying Project is created by a buyer, the buyer (project author) may add Email Buyer Agents (EBA) to it, at the same time, the buyer's friends may also contribute to the project by adding target vehicle links to it as EBA.  If an EBA is added by a friend of buyer, then EBA details and email messages can be accessed by not only buyer's friend but also the buyer him/herself.  All seller emails sent to EBA proxy email address will not only be forwarded to buyer's friend but also buyer.
@@ -19,17 +23,15 @@ Once an Email Buyer Agent (EBA) is created, you can mute (or unsubscribe from) a
 
 to create an Email Buyer Agent only requires your full name, email address and target vehicle link, price quote, and area information. We respect your privacy and only ask for information absolutely required to do our job, nothing more.
 
-## <<step-3-communicate-with-dealer-via-proxy-email, Reply Directly from Personal Email>>
+## <<step-3-communicate-with-dealer-via-proxy-email, Email Management for Buyer>>
 
-After an Email Buyer Agent (EBA) is created, even though agent's proxy email address is not your personal email address, you can respond to dealer directly from your personal email account because EBA proxy email forward all seller emails to your personal email and forward all messages sent from your personal email to seller.
+For any created Email Buyer Agent (EBA) that has received emails from buyer or seller, EBA's creator or the creator of EBA's parent buying project are both allowed to check all email communications for that EBA.
 
-An added benefit of using EBA proxy email to manage your email negotiation with seller is that each forwarded emails to or from sellers will be tagged with your target vehicle link so you can easily link any email with its original target vehcile link.
+After an Email Buyer Agent (EBA) is created a buyer, even though agent's proxy email address is not the buyer's personal email address, the buyer can <<step-3-communicate-with-dealer-via-proxy-email, respond to dealer directly from your personal email account>> because EBA's proxy email forward all seller emails to the buyer's personal email and forward all messages sent from buyer's personal email to seller.
 
-## <<step-41-check-buyer-agent-emails, Car Buying Worksheet>>
+An added benefit of using EBA proxy email to manage buyer's email negotiation with seller is that each forwarded emails to or from sellers will be tagged with buyer's target vehicle link so the buyer can easily link any email with its original target vehcile link.
 
-Once your buying project is created, you may add any number of links of target vehicles to it, for each of target vehicle link, you may also update target vehicle and price information so the buying project becomes buyer's car buying worksheet, at the same time, each added vehicle link becomes dedicated Email Buyer Agent (EBA) for that vehicle.
 
-For any created EBA that has received emails from buyer or seller, EBA's author or buying project author will be able to check all email communications for that EBA only.
 
 ## Protect Your Privacy
 
@@ -77,7 +79,9 @@ Now a Email Buyer Agent proxy email (`bagent_barbXXXX@buytition.com` in this cas
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-agent-created.png[Buyer Agent created notice]
 
-The created buyer agent will show up in the Buying Project page as shown below or can be accessed https://buytition.com/projects/2122/price-research-for-a-mid-size-suv-at-40k-budget#b42[here]
+### Step 2.3: Car Buying Worksheet
+
+The created buyer agent will show up in the Buying Project page as shown below or can be accessed https://buytition.com/projects/2122/price-research-for-a-mid-size-suv-at-40k-budget#b42[here].  Buyer may add any number of such Buyer Agents and modify them to keep track all target vehicle and negotiation at one place so the buying project becomes buyer's buying worksheet.
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/b42-after-login-proxy-email.png[Buyer Agent proxy email tooltip]
 
