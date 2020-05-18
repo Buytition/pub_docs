@@ -9,7 +9,7 @@ Email Buyer Agent is a car buying tool developed by https://buytition.com[Buytit
 
 ## <<step-2-3-car-buying-worksheet, Car Buying Worksheet>>
 
-Once your buying project is created, you may add any number of links of target vehicles to it, for each of target vehicle link, you may also update target vehicle and price information so the buying project becomes buyer's car buying worksheet.  At the same time, each added vehicle link becomes dedicated Email Buyer Agent (EBA) for that vehicle.
+Once your buying project is created, it becomes the place where you can track and manage all your research findings for current car buying project.  You may add any number of links of target vehicles to the project, for each of target vehicle link, you may add detail information such as vehicle information, dealer information and price information and update these information at any time.  At the same time, each added vehicle link becomes dedicated Email Buyer Agent (EBA) for that vehicle which gives you even more control on email communications with sellers regarding that vehicle.
 
 ## Collaborative Negotiation
 
