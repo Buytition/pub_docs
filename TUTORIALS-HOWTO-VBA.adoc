@@ -13,7 +13,7 @@ Once your buying project is created, you may add any number of links of target v
 
 ## Collaborative Negotiation
 
-This is a powerful feature to allow multiple friends to help one buyer to negotiate best car deal with car dealers.  After a Buying Project is created by a buyer, the buyer (project author) may add Email Buyer Agents (EBA) to it, at the same time, the buyer's friends may also contribute to the project by adding target vehicle links to it as EBA.  If an EBA is added by a friend of buyer, then EBA details and email messages can be accessed by not only buyer's friend but also the buyer him/herself.  All seller emails sent to EBA proxy email address will not only be forwarded to buyer's friend but also buyer.
+This is a powerful feature offered by <<step-2-3-car-buying-worksheet, Email Buyer Agent (EBA)>> to allow multiple friends to help one buyer to negotiate car deal with seller.  After a Buying Project is created by a buyer, the buyer (project author) may add Email Buyer Agents (EBA) to it, at the same time, the buyer's friends may also contribute to the project by adding target vehicle links to it as EBA.  If an EBA is added by a friend of buyer, then EBA details and email messages can be accessed by not only buyer's friend but also the buyer him/herself.  All seller emails sent to EBA proxy email address will not only be forwarded to buyer's friend but also buyer.
 
 ## <<step-4-2-one-click-turn-on-off-agent, One Click Mute Seller Emails>>
 
