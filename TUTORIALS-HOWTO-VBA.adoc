@@ -13,7 +13,11 @@ Once your buying project is created, it becomes the place where you can track an
 
 ## Collaborative Negotiation
 
-This is a powerful feature offered by <<what-is-email-buyer-agent, Email Buyer Agent (EBA)>> to empower not only buyer him/herself, but also buyer's one or multiple friends to collaborate with buyer to email negotiate a deal with seller.  After a Buying Project is created by a buyer, not only the buyer (project author) him/herself may add EBA, but the buyer's friends are also allowed to contribute to the project by adding EBA to it.  If an EBA is added by a friend of buyer, then the details of EBA including all email messages of EBA can be accessed by not only buyer's friend but also the buyer him/herself.  All seller emails sent to EBA proxy email address will not only be forwarded to buyer's friend but also buyer him/herself so that both buyer and buyer's friend participate in the negotiation with seller using email.  And because one buying project may have unlimited number of EBA added to it, multiple friends of buyer may add multiple EBA to it respectively, while each EBA can be only accessed by the creator friend and the buyer i.e. project author, all the created EBA can be accessed by buyer who created the project so the buyer can oversee and participate into negotiation processes of all EBA added to the project.
+This is a powerful feature offered by <<what-is-email-buyer-agent, Email Buyer Agent (EBA)>> to empower not only buyer him/herself, but also buyer's one or multiple friends to collaborate with buyer to email negotiate a deal with seller.
+
+After a Buying Project is created by a buyer, the buyer him/herself and other people may contribute by adding EBA to it.  For any EBA created by anybody, its details, including all email messages of EBA, will be accessible by not only who created it but also the project owner.  All seller emails sent to EBA proxy email address will be forwarded to both the project owner and the EBA owner.
+
+And because one buying project may have unlimited number of EBA added to it, multiple friends of buyer may add multiple EBA to it respectively, while each EBA can be only accessed by the EBA owner and the buyer i.e. project author, all the created EBA can be accessed by project author so he/she can oversee and participate into negotiation processes of all EBA added to the project.
 
 ## <<step-4-2-one-click-turn-on-off-agent, One Click Mute Seller Emails>>
 
@@ -27,7 +31,7 @@ to create an Email Buyer Agent only requires your full name, email address and t
 
 For any created Email Buyer Agent (EBA) that has received emails from buyer or seller, EBA's creator or the creator of EBA's parent buying project are both allowed to check all email communications for that EBA.
 
-After an Email Buyer Agent (EBA) is created a buyer, even though agent's proxy email address is not the buyer's personal email address, the buyer can <<step-3-communicate-with-dealer-via-proxy-email, respond to dealer directly from your personal email account>> because EBA's proxy email forward all seller emails to the buyer's personal email and forward all messages sent from buyer's personal email to seller.
+After an Email Buyer Agent (EBA) is created, even though agent's proxy email address is not the buyer's personal email address, the buyer can <<step-3-how-to-use-proxy-email, respond to seller directly from your personal email account>> because EBA's proxy email forward all seller emails to the buyer's personal email and forward all messages sent from buyer's personal email to seller.
 
 An added benefit of using EBA proxy email to manage buyer's email negotiation with seller is that each forwarded emails to or from sellers will be tagged with buyer's target vehicle link so the buyer can easily link any email with its original target vehcile link.
 
@@ -85,13 +89,25 @@ The created buyer agent will show up in the Buying Project page as shown below o
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/b42-after-login-proxy-email.png[Buyer Agent proxy email tooltip]
 
-## Step 3: Communicate with Dealer via Proxy Email
+## Step 3: How to use Proxy Email
 
-In a while, you will receive email from dealer, in this demo, I entered a Gmail address, so it arrives at Gmail inbox like this.  You see the email was forwarded from `bagent_barbXXXX@buytition.com` which is proxy email I created in previous step. In this email, dealer quoted a price of $44,954 for my target vehicle.
+After Email Buyer Agent (EBA) is created, a Proxy Email address is created.  The EBA proxy email is a powerful tool that enables easy three-way communication between project author, EBA author, and seller i.e. anybody else.
+
+### Step 3.1: Peer-to-Peer Communication
+
+Let's say I am helping Project Author on this buying project, and I created this EBA, very likely Project Author and I need to communicate with each other, for that purpose, I simply write an email to EBA proxy email address, in this demo `bagent_barbXXXX@buytition.com`, and send it, and EBA will forward that email to project author.  And vice versa, if project author does the same, I will receive that email from him/her.
+
+The difference between this type of communication vs <<step-3-2-collaboratively-communicate-with-seller, seller communication>> is that for seller communication, you always need to reply an incoming email, but for peer-to-peer communication, you start from scratch and send it.
+
+### Step 3.2: Collaboratively Communicate with Seller
+
+A while after an EBA is created, EBA author will start receiving emails from seller,  which will be copied to project author as well if he/she was not EBA author.
+
+In this demo, I entered a Gmail address, so it arrives at Gmail inbox like this.  You see the email was forwarded from `bagent_barbXXXX@buytition.com` which is proxy email I created in previous step. In this email, dealer quoted a price of $44,954 for my target vehicle.
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/inbound-mail-01.png[inbound email top]
 
-I reply it directly from my Gmail mobile app and made a counter-offer of $2000 lower than dealer's quoted price
+I reply it directly from my Gmail mobile app and made a counter-offer of $2000 lower than dealer's quoted price.  If project author is a different person, he/she may reply to same email as well and I will be copied with that reply so I am notified that project author has replied.
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/outbound-mail-01.PNG[reply dealer email, 365,649]
 
