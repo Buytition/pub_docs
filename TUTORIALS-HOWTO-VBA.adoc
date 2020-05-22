@@ -11,11 +11,11 @@ Email Buyer Agent is a car buying tool developed by https://buytition.com[Buytit
 
 Once your buying project is created, it becomes the place where you can track and manage all your research findings for current car buying project.  You may add any number of links of target vehicles to the project, for each of target vehicle link, you may add detail information such as vehicle information, dealer information and price information and update these information at any time.  At the same time, each added vehicle link becomes dedicated Email Buyer Agent (EBA) for that vehicle which gives you even more control on email communications with sellers regarding that vehicle.
 
-## Collaborative Negotiation
+## <<step-3-how-to-use-proxy-email, Collaborative Negotiation>>
 
-This is a powerful feature offered by <<what-is-email-buyer-agent, Email Buyer Agent (EBA)>> to empower not only buyer him/herself, but also buyer's one or multiple friends to collaborate with buyer to email negotiate a deal with seller.
+This is a powerful feature offered by <<what-is-email-buyer-agent, Email Buyer Agent (EBA)>> to empower not only buyer him/herself, but also buyer's one or multiple friends to collaborate to email negotiate a deal with seller.
 
-After a Buying Project is created by a buyer, the buyer him/herself and other people may contribute by adding EBA to it.  For any EBA created by anybody, its details, including all email messages of EBA, will be accessible by not only who created it but also the project owner.  All seller emails sent to EBA proxy email address will be forwarded to both the project owner and the EBA owner.
+After a Buying Project is created by a buyer, the project author him/herself and anybody else may contribute by adding EBA to it.   Through <<step-32-collaboratively-communicate-with-seller, collaborative communication to seller>>, all seller emails sent to EBA proxy email address will be forwarded to both the project author and the EBA author.  Through <<step-31-peer-to-peer-communication, peer-to-peer communication>>, project author and EBA author may easily communicate with each other as well.
 
 And because one buying project may have unlimited number of EBA added to it, multiple friends of buyer may add multiple EBA to it respectively, while each EBA can be only accessed by the EBA owner and the buyer i.e. project author, all the created EBA can be accessed by project author so he/she can oversee and participate into negotiation processes of all EBA added to the project.
 
