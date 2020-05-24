@@ -1,5 +1,7 @@
 # Release Notes
 
+Please also see [Buytition Blog](http://blog.buytition.com/)
+
 ## 20191011
 Reader Bot API v1.1.0 Released
 
