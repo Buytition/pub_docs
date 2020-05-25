@@ -1,11 +1,24 @@
 # How To Use: Email Buyer Agent
 :toc:
 
-Last Updated: 5/17/2020
+Last Updated: 5/24/2020
+
+# What is Buying Project
+
+If you agree that buying a large-ticket item such as car, piano is like working on a project, then you will need a tool to manage that project; if that tool also makes it easy for other people to collaborate and help you to find better deal for what you are trying to buy, is it even better?  If you answer yes to these questions, Buying Project is exactly the kind of tool you are looking for.
+
+Buying Project is developed by https://buytition.com[Buytition] for buyers to create a public page for multiple purposes:
+
+* as <<car-buying-worksheet, Deal Worksheet>>, it tracks all research findings for all work-in-progress deals
+* as <<email-management-for-buyer, Email Organizer>>, it organizes all emails with sellers and collaborators through Email Buyer Agent
+* as <<collaborative-negotiation, Collaboration Tool>>, it makes it easy for buyer to collaborate with other people to find more deal choices.
+* as Reward Tool, it allows people to get rewarded for helping buyer find a better deal
+
+
 
 # What is Email Buyer Agent
 
-Email Buyer Agent is a car buying tool developed by https://buytition.com[Buytition] for anybody who use email to negotiate car deals with dealers.  To use it, simply start a https://buytition.com/projects/show-form/start-project[Buying Project] for free, then start adding links of your dream cars to it so the project becomes your **Car Buying Worksheet**, and each added car link becomes **Email Buyer Agent** dedicated to track and manage all emails between you and dealer regarding that particular car, and you can mute/unmute each Email Buyer Agent with one-click and enjoy other powerful benefits listed below.
+Email Buyer Agent is a cool feature of <<what-is-buying-project, Buying Project>>. It is a tool for anybody who use email to negotiate car deals with dealers.  It enables <<collaborative-negotiation, collaborative email negotiation>> and other handy features such as <<car-buying-worksheet, car buying worksheet>> and <<email-management-for-buyer, negotiation email management>>.  To use it, simply start a https://buytition.com/projects/show-form/start-project[Buying Project] for free, then start adding links of your dream cars to it so the project becomes your **Car Buying Worksheet**, and each added car link becomes **Email Buyer Agent** dedicated to track and manage all emails between you and dealer regarding that particular car, and you can mute/unmute each Email Buyer Agent with one-click and enjoy other powerful benefits listed below.
 
 ## <<step-2-3-car-buying-worksheet, Car Buying Worksheet>>
 
