@@ -5,15 +5,16 @@ Last Updated: 5/24/2020
 
 # What is Buying Project
 
-With all research, home-work and negotiation work needed, do you feel that buying a large-ticket item such as car, piano is like working on a project?  Will it be a little easier if you have a tool to manage this project?  Would it be even better if that tool happens to also makes it easy for other people to collaborate to help you find better deal than the deal you have got?  If you answer yes to these questions, https://buytition.com/projects/show-form/start-project[Buying Project] is exactly the kind of tool you are looking for.
+With all inventory searching, home-work on car models and negotiation work needed, do you feel that buying a car or other large-ticket item such as piano is like working on a project?  Would you like to have a tool to manage it?  Would it be even better if that tool happens to also invite people to collaborate with you to find better deal than the one you have got?  If you answer yes to these questions, https://buytition.com/projects/show-form/start-project[Buying Project] is exactly the kind of tool you are looking for.
 
-Buying Project is developed by https://buytition.com[Buytition] for buyers to create a public page for multiple purposes:
+Buying Project is developed by https://buytition.com[Buytition] for buyers to create a public project management page for multiple purposes:
 
 * as <<car-buying-worksheet, Deal Worksheet>>, it tracks all research findings for all work-in-progress deals
 * as <<email-management-for-buyer, Email Organizer>>, it organizes all emails with sellers and collaborators through Email Buyer Agent
 * as <<collaborative-negotiation, Collaboration Tool>>, it makes it easy for buyer to collaborate with other people to find more deal choices.
 * as Reward Tool, it allows people to get rewarded for helping buyer find a better deal
 
+To create a Buying Project is easy, simply fill out this form and share the link with
 
 
 # What is Email Buyer Agent
