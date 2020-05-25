@@ -14,7 +14,7 @@ Buying Project is developed by https://buytition.com[Buytition] for buyers to cr
 * as <<collaborative-negotiation, Collaboration Tool>>, it makes it easy for buyer to collaborate with other people to find more deal choices.
 * as Reward Tool, it allows people to get rewarded for helping buyer find a better deal
 
-To create a Buying Project is easy, simply fill out this form and share the link with
+To create a Buying Project is easy, simply fill out https://buytition.com/projects/show-form/start-project[this form], describe the deal you have got so far in Project Description field and state how would you like to reward people who can bring you deal that can beat yours.  After the project is created and public, share the project link with your friends or to public forums so that as many as possible people will participate in your Buying Project and trying to win the reward you set for beating your deal.
 
 
 # What is Email Buyer Agent
