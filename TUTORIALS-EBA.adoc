@@ -1,59 +1,39 @@
-# How To Use: Email Buyer Agent
+# How To Use: Buying Projects and Price Records
 :toc:
 
 Last Updated: 8/7/2020
 
 # What is Buying Project
 
-With all inventory searching, home-work on car models and negotiations needed, do you feel that buying a car or other large-ticket item such as piano is like working on a project?  Would you like to have a tool to manage it?  Would it be even better if that tool happens to also attract people to collaborate with you to find better deal than the one you have got?  If you answer yes to these questions, https://buytition.com/projects/show-form/start-project[Buying Project] is exactly the kind of tool you are looking for.
+Buying a large-ticket product or service is like working on a project, you need to spend time research prices and negotiate deals with sellers.  Buying Project is the project management tool developed by https://buytition.com[Buytition] for large-ticket product or service buyers to create a public page to manage price research activities and/or sell your completed deal information to people who are in need of it.  Here is an https://buytition.com/projects/2143/price-research-for-a-used-suv-near-chicago[example buying project] that does price research on a used SUV near Chicago area.  Our Buying Project supports the following types of buying targets:
 
-Buying Project is developed by https://buytition.com[Buytition] for buyers to create a public page to manage deal-making activities with multiple benefits:
+* Vehicle (new or old)
+* Piano (new or old)
+* Insurance (any type of insurance)
+* Property Tax Protesting Service
+* Other
 
-* as <<car-buying-worksheet, Deal Worksheet>>, it tracks all research findings for all work-in-progress deals
-* as <<email-management-for-buyer, Email Organizer>>, it organizes all emails with sellers and collaborators through Email Buyer Agent
-* as <<collaborative-negotiation, Collaboration Tool>>, it makes it easy for buyer to collaborate with other people to find more deal choices.
-* as Reward Tool, it allows people to get rewarded for helping buyer find a better deal
-
-To create a Buying Project is easy, simply fill out https://buytition.com/projects/show-form/start-project[this form], describe the deal you have got so far in Project Description field and state how would you like to reward people who can bring you deal that can beat yours.  After the project is created and public, share the project link with your friends or to public forums so that as many as possible people will participate in your Buying Project and try to win the reward you set for beating your deal.
-
-
-# What is Email Buyer Agent
-
-Email Buyer Agent is a cool feature of <<what-is-buying-project, Buying Project>>. It is a tool for anybody who use email to negotiate car deals with dealers.  It enables <<collaborative-negotiation, collaborative email negotiation>> and other handy features such as <<car-buying-worksheet, car buying worksheet>> and <<email-management-for-buyer, negotiation email management>>.  To use it, simply start a https://buytition.com/projects/show-form/start-project[Buying Project] for free, then start adding links of your dream cars to it so the project becomes your **Car Buying Worksheet**, and each added car link becomes **Email Buyer Agent** dedicated to track and manage all emails between you and dealer regarding that particular car, and you can mute/unmute each Email Buyer Agent with one-click and enjoy other powerful benefits listed below.
-
-## <<step-2-3-car-buying-worksheet, Car Buying Worksheet>>
-
-Once your buying project is created, it becomes the place where you can track and manage all your research findings for current car buying project.  You may add any number of links of target vehicles to the project, for each of target vehicle link, you may add detail information such as vehicle information, dealer information and price information and update these information at any time.  At the same time, each added vehicle link becomes dedicated Email Buyer Agent (EBA) for that vehicle which gives you even more control on email communications with sellers regarding that vehicle.
-
-## <<step-3-how-to-use-proxy-email, Collaborative Negotiation>>
-
-This is a powerful feature offered by <<what-is-email-buyer-agent, Email Buyer Agent (EBA)>> to empower not only buyer him/herself, but also buyer's one or multiple friends to collaborate to email negotiate a deal with seller.
-
-After a Buying Project is created by a buyer, the project author him/herself and anybody else may contribute by adding EBA to it.   Through <<step-32-collaboratively-communicate-with-seller, collaborative communication to seller>>, all seller emails sent to EBA proxy email address will be forwarded to both the project author and the EBA author.  Through <<step-31-peer-to-peer-communication, peer-to-peer communication>>, project author and EBA author may easily communicate with each other as well.
-
-And because one buying project may have unlimited number of EBA added to it, multiple friends of buyer may add multiple EBA to it respectively, while each EBA can be only accessed by the EBA owner and the buyer i.e. project author, all the created EBA can be accessed by project author so he/she can oversee and participate into negotiation processes of all EBA added to the project.
-
-## <<step-4-2-one-click-turn-on-off-agent, One Click Mute Seller Emails>>
-
-Once an Email Buyer Agent (EBA) is created, you can mute (or unsubscribe from) all emails sent to the EBA's proxy email address with one click, without need to fill out any unsubscribe form at all.  You may unmute all seller emails at any time later, also with one click.
-
-## <<step-2-2-create-email-buyer-agent, Simple to Create>>
-
-to create an Email Buyer Agent only requires your full name, email address and target vehicle link, price quote, and area information. We respect your privacy and only ask for information absolutely required to do our job, nothing more.
-
-## <<step-4-1-check-buyer-agent-emails, Email Management for Buyer>>
-
-For any created Email Buyer Agent (EBA) that has received emails from buyer or seller, EBA's creator or the creator of EBA's parent buying project are both allowed to check all email communications for that EBA.
-
-After an Email Buyer Agent (EBA) is created, even though agent's proxy email address is not the buyer's personal email address, the buyer can <<step-3-how-to-use-proxy-email, respond to seller directly from your personal email account>> because EBA's proxy email forward all seller emails to the buyer's personal email and forward all messages sent from buyer's personal email to seller.
-
-An added benefit of using EBA proxy email to manage buyer's email negotiation with seller is that each forwarded emails to or from sellers will be tagged with buyer's target vehicle link so the buyer can easily link any email with its original target vehcile link.
+It's easy to create a Buying Project, simply fill out https://buytition.com/projects/show-form/start-project[this form], describe your goal (price research or share/sell deal information) in Description field.  After the project is created and public, share the project link with your friends or on public forums so you will get help needed or people can find price records they need.
 
 
+# What is Price Record
 
-## Protect Your Privacy
+After a buying project is created, one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  Buytition supports two types of price records: price offer and price paid.
 
-For each of your target vehicle URL, you get a dedicated proxy email address through which you exchange email communications with dealer sales force, so that privacy of your personal email is protected.
+Here is an https://buytition.com/projects/2143/price-research-for-a-used-suv-near-chicago#t86[example price record] of a price offer for a used SUV near Chicago area.
+
+Each price record is made up of 3 parts: public information, private information and dedicated mailbox
+
+* **public information**: accessible by generaly public, includes product/service name, price, area/zip code, and public description
+* **private information**: accessible by owner and buyers of price record only, includes dealer information, deal making descriptions, source URL etc.
+* **dedicated mailbox**: accessible by owner of price record only, the mailbox comes with these handy benefits
+** all email messages related to this price record in an organized fashion
+** <<step-32-collaboratively-communicate-with-seller, collaborative communication to seller>> and <<step-31-peer-to-peer-communication, peer-to-peer communication>>
+** <<step-4-2-one-click-turn-on-off-agent, one-click mute incoming emails>>
+** <<step-3-how-to-use-proxy-email, reply directly>> from your personal email account
+** each message tagged with price record link so you can easily link it with its original intent.
+** your personal email sits behind the dedicated mailbox email address so your privacy is protected.
+
 
 # Demo
 
