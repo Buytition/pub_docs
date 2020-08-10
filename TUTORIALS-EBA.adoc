@@ -55,6 +55,10 @@ All added price records are reviewed by Buytition Team, after review, price reco
 
 Whenever someone purchases a price record, price record owner receives 2/3 of sale price as sale proceeds, the remaining 1/3 covers Buytition platform service fee and credit card transaction fees, eg for price records listed at $3, owner receives $2 after any sale completed on the price record.  Owner will receive funds once the accumulated seller balance reaches $10 via PayPal.
 
+## For Sellers: Claim a Price Record
+
+Ownership of a price record may be claimed by users who provide a correct claim code.  To claim a price record, first login to Buytition, then navigate to the price record section of its buying project page, under private information section, fill out claim price record form, then submit, if succeeded, refresh the page, you should see the private information of the price record as its owner.
+
 ## For Buyers: What Happens After Buying
 
 For any price records on sale, you may purchase it at a reasonable price.  You will be redirected to third party website (Stripe) to enter your credit card info.  As soon as you complete purchase, you should be redirected back to the price record page and instantly have read access to the private information you have purchased.
@@ -67,9 +71,6 @@ We promise the price records you purchase are verified at least at source verifi
 
 No refund at this moment given the fact that price records are not physically returnable.
 
-## For Sellers: Claim a Price Record
-
-Ownership of a price record may be claimed by users who provide a correct claim code.  To claim a price record, first login to Buytition, then navigate to the price record section of its buying project page, under private information section, fill out claim price record form, then submit, if succeeded, refresh the page, you should see the private information of the price record as its owner.
 
 # Demo
 
