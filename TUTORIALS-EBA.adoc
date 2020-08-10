@@ -65,11 +65,11 @@ For any price records on sale, you may purchase it at a reasonable price.  You w
 
 ## For Buyers: Verification Promise
 
-We promise the price records you purchase are verified at least at source verified level.
+We promise the price records you purchase are verified at least at source verified level, check out <<for-sellers-listing-criteria, listing criteria>> for price records we put on sale.
 
 ## For Buyers: Refund Policy
 
-No refund at this moment given the fact that price records are not physically returnable.
+No refund at this moment given the fact that price records are <<for-buyers-what-happens-after-buying, instantly available>> right after you pay and not physically returnable.
 
 
 # Demo
