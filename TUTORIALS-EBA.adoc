@@ -5,7 +5,11 @@ Last Updated: 8/7/2020
 
 # What is Buying Project
 
-Buying a large-ticket product or service is like working on a project, you need to spend time research prices and negotiate deals with sellers.  Buying Project is the project management tool developed by https://buytition.com[Buytition] for large-ticket product or service buyers to create a public page to manage price research activities and/or sell your completed deal information to people who are in need of it.  Here is an https://buytition.com/projects/2143/price-research-for-a-used-suv-near-chicago[example buying project] that does price research on a used SUV near Chicago area.  Our Buying Project supports the following types of buying targets:
+Buying a large-ticket product or service is like working on a project, you need to spend time research prices and negotiate deals with sellers.  Buying Project is the project management tool developed by https://buytition.com[Buytition] for large-ticket product or service buyers to create a public page to manage price research activities and/or sell your completed deal information to people who are in need of it.
+
+Here is an https://buytition.com/projects/2143/price-research-for-a-used-suv-near-chicago[example buying project] that does price research on a used SUV near Chicago area.
+
+Our Buying Project supports these types of buying targets:
 
 * Vehicle (new or old)
 * Piano (new or old)
@@ -27,13 +31,45 @@ Each price record is made up of 3 parts: public information, private information
 * **public information**: accessible by generaly public, includes product/service name, price, area/zip code, and public description
 * **private information**: accessible by owner and buyers of price record only, includes dealer information, deal making descriptions, source URL etc.
 * **dedicated mailbox**: accessible by owner of price record only, the mailbox comes with these handy benefits
-** all email messages related to this price record in an organized fashion
+** an email address (e.g. bot2111@buytition.com) dedicated to this price record, your personal email sits behind this email address so your privacy is protected.
+** all inbound/outbound email messages regarding a price record are organized in one place
 ** <<step-32-collaboratively-communicate-with-seller, collaborative communication to seller>> and <<step-31-peer-to-peer-communication, peer-to-peer communication>>
 ** <<step-4-2-one-click-turn-on-off-agent, one-click mute incoming emails>>
 ** <<step-3-how-to-use-proxy-email, reply directly>> from your personal email account
-** each message tagged with price record link so you can easily link it with its original intent.
-** your personal email sits behind the dedicated mailbox email address so your privacy is protected.
+** each inbound/outbound message is tagged with price record link so you can easily trace it back to its original intent.
 
+# Price Record Marketplace
+
+All registered users are allowed to create buying project and then append price records to it for free.  A portion of price records listed on Buytition platform are listed for sale.
+
+## For Sellers: Listing Criteria
+
+All added price records are reviewed by Buytition Team, after review, price records that satisfy the following conditions are placed on sale:
+
+1. **trustworthy**: the accuracy of price record is verified by Buytition using either or both of these two methods:
+** **source verified**: the Internet source or Provider Source of the price record is verifiable by Buytition Team.
+** **document verified**: the transaction document that verifies the price record is available.
+2. **valuable**: it includes valuable information such as dealer name, source URL or detailed negotiation tips
+
+## For Sellers: Sale Proceeds
+
+Whenever someone purchases a price record, price record owner receives 2/3 of sale price as sale proceeds, the remaining 1/3 covers Buytition platform service fee and credit card transaction fees, eg for price records listed at $3, owner receives $2 after any sale completed on the price record.  Owner will receive funds once the accumulated seller balance reaches $10 via PayPal.
+
+## For Buyers: What Happens After Buying
+
+For any price records on sale, you may purchase it at a reasonable price.  You will be redirected to third party website (Stripe) to enter your credit card info.  As soon as you complete purchase, you should be redirected back to the price record page and instantly have read access to the private information you have purchased.
+
+## For Buyers: Verification Promise
+
+We promise the price records you purchase are verified at least at source verified level.
+
+## For Buyers: Refund Policy
+
+No refund at this moment given the fact that price records are not physically returnable.
+
+## For Sellers: Claim a Price Record
+
+Ownership of a price record may be claimed by users who provide a correct claim code.  To claim a price record, first login to Buytition, then navigate to the price record section of its buying project page, under private information section, fill out claim price record form, then submit, if succeeded, refresh the page, you should see the private information of the price record as its owner.
 
 # Demo
 
