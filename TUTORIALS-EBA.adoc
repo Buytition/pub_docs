@@ -47,17 +47,25 @@ All registered users are allowed to create buying project and then append price 
 All added price records are reviewed by Buytition Team, after review, price records that satisfy the following conditions are placed on sale:
 
 1. **trustworthy**: the accuracy of price record is verified by Buytition using either or both of these two methods:
-** **source verified**: the Internet source or Provider Source of the price record is verifiable by Buytition Team.
+** **source verified**: the price record was published at least once on the Internet before being listed for sale, therefore this price record has at least one third-party source.
 ** **document verified**: the transaction document that verifies the price record is available.
-2. **valuable**: it includes valuable information such as dealer name, source URL or detailed negotiation tips
+2. **valuable**: it includes valuable information such as dealer name and/or detailed negotiation tips
 
-## For Sellers: Sale Proceeds
+## For Sellers: Ownership of Price Record
 
-Whenever someone purchases a price record, price record owner receives 2/3 of sale price as sale proceeds, the remaining 1/3 covers Buytition platform service fee and credit card transaction fees, eg for price records listed at $3, owner receives $2 after any sale completed on the price record.  Owner will receive funds once the accumulated seller balance reaches $10 via PayPal.
+Owner of price records have access to public, private and dedicated mailbox information of the price records and also receives majority of sale proceeds if someone purchases the price record.
+
+Whenever someone purchases a record, price record owner receives 2/3 of sale price as sale proceeds, the remaining 1/3 covers Buytition platform service fee and credit card transaction fees, e.g. for price records listed at $3, owner receives $2 after any sale completed on the price record.  Owner will receive funds once the accumulated seller balance reaches $10 via PayPal.
 
 ## For Sellers: Claim a Price Record
 
-Ownership of a price record may be claimed by users who provide a correct claim code.  To claim a price record, first login to Buytition, then navigate to the price record section of its buying project page, under private information section, fill out claim price record form, then submit, if succeeded, refresh the page, you should see the private information of the price record as its owner.
+<<for-sellers-ownership-of-price-record, Ownership of a price record>> may be claimed by users who provide a correct claim code.
+
+To claim a price record, first login to Buytition, then navigate to the price record section of its buying project page, under private information section, fill out claim price record form, see example below
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/claim-price-record-form.png[claim price record form]
+
+If you submitted the correct claim code, after refresh the page, you should see the private information of the price record as its owner.
 
 ## For Buyers: What Happens After Buying
 
@@ -65,7 +73,7 @@ For any price records on sale, you may purchase it at a reasonable price.  You w
 
 ## For Buyers: Verification Promise
 
-We promise the price records you purchase are verified at least at source verified level, check out <<for-sellers-listing-criteria, listing criteria>> for price records we put on sale.
+We promise the price records you purchase are verified at least at source level, check out <<for-sellers-listing-criteria, listing criteria>> for price records we put on sale.
 
 ## For Buyers: Refund Policy
 
