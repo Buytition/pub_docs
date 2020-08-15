@@ -8,7 +8,7 @@ As you can see, Buytition was originally created as a platform to serve and help
 
 The idea started around late 2014, we did go a long way and our website buytition.com experienced multiple pivots and launches since then, but we never changed our mission which is to create tools to help buyers to more easily get good deals for less-transparently priced items.  Below are a few softwares we created:
 * [buying project](https://github.com/Buytition/pub_docs/blob/master/TUTORIALS-EBA.adoc#what-is-buying-project)
-* [email buyer agent](https://github.com/Buytition/pub_docs/blob/master/TUTORIALS-EBA.adoc#what-is-email-buyer-agent)
+* [price records](https://github.com/Buytition/pub_docs/blob/master/TUTORIALS-EBA.adoc#what-is-price-record)
 * [price calculator](https://buytition.com/web/ttl-otd-price-converter)
 * [email reader and reply bots](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md)
 
