@@ -1,7 +1,7 @@
-This document is a run down of Buytition and/or ReplyBot.io features.
+This document is a run down of SaveNowClub and/or ReplyBot.io features.
 
 # Email Reader Bot
-Buytition's proprietary Email Reader Robot (watch [demo video](https://www.youtube.com/watch?v=UZz7a5sni3A) to see the robot in action) utilizes text mining technology to parse car shopping email messages and automatically create vehicle price quote reports from them. Here is a list of robot capabilities (as of July 2017): 
+SaveNowClub's proprietary Email Reader Robot (watch [demo video](https://www.youtube.com/watch?v=UZz7a5sni3A) to see the robot in action) utilizes text mining technology to parse car shopping email messages and automatically create vehicle price quote reports from them. Here is a list of robot capabilities (as of July 2017): 
 
 * Edmunds PricePromise email, see sample [inbox message](https://github.com/Buytition/pub_docs/blob/master/raw-text/inbox-201812120906-edmunds-pricepromise.md) ([raw html](https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html)): extract dealer, vehicle, price quote and MSRP information automatically
 * TrueCar Certified Dealer Quote emails: extract dealer, vehicle, price quote and MSRP information automatically
@@ -14,7 +14,7 @@ Email Reader Robot is still at infancy stage, our goal is to give more and more 
 
 # Email Reply Bot
 
-Buytition Email Reply Bot is an auto-response email solution for car buyers to automate replying car shopping related emails, it leverages vehicle quote information extracted by [Reader Robot](#email-reader-bot), automatically finds better price quote in Buytition vehicle quote database for same make and model and similar year vehicle and reply dealer email and request dealer to match the found better vehicle quote.
+SaveNowClub's Email Reply Bot is an auto-response email solution for car buyers to automate replying car shopping related emails, it leverages vehicle quote information extracted by [Reader Robot](#email-reader-bot), automatically finds better price quote in SaveNowClub's vehicle quote database for same make and model and similar year vehicle and reply dealer email and request dealer to match the found better vehicle quote.
 
 As of April 2019, Reply Bot responds to the following types of inbound emails
 * Edmunds PricePromise Emails, example: for this [inbox message](https://github.com/Buytition/pub_docs/blob/master/raw-text/inbox-201812120906-edmunds-pricepromise.md) ([raw html](https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html)), Reply Bot will generate this [sent message](https://github.com/Buytition/pub_docs/blob/master/raw-text/sent-201812120906-edmunds-pricepromise.md) ([raw html](https://raw.githubusercontent.com/Buytition/pub_docs/master/raw-text/sent-201812120906-edmunds-pricepromise.md)).
@@ -26,17 +26,17 @@ Reply Bot API is a collection of replybot.io API that offers entry points to Rea
 Accessing Reply Bot and Reader Bot API requires a API key which is free to obtain. 
 
 **Obtain an API Key**
-* sign up to [buytition.com](http://buytition.com) web app for free.
-* login to buytition.com web app, then visit [Settings](https://buytition.com/web/dist/settings_account) page, your API key will show up there, see screen shot below.
+* sign up to [savenowclub.com](https://savenowclub.com) web app for free.
+* login to savenowclub.com web app, then visit [Settings](https://savenowclub.com/web/dist/settings_account) page, your API key will show up there, see screen shot below.
 
 ![Your API key](https://raw.githubusercontent.com/Buytition/pub_docs/master/images/screen-shot-buytition-setting-page.png)
 
-**To Use API Key**, add `X-API-KEY`  header to your API request and supply your API key obtained from buytition.com web app.  See this curl command for example
+**To Use API Key**, add `X-API-KEY`  header to your API request and supply your API key obtained from savenowclub.com web app.  See this curl command for example
 
 ```shell
 curl --header "X-API-KEY: [API_KEY]" --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
-https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes
+https://savenowclub.com/api/v1/reader_bot/get_vehicle_price_quotes
 ```
 
 **Usage Plan**: your free obtained API keys automatically fall into **lite** usage plan with the following specs
@@ -90,7 +90,7 @@ Use cases
 * **Build automated document processing workflow**: ReplyBot Vehicle Price Quotes Reader API can provide the inputs required to automatically process vehicle shopping related emails or web pages without human intervention.  For example, a webmail service provider can automate the generation of vehicle price quotes database using ReplyBot Vehicle Price Quotes Reader API. 
 
 API Specs
-* End point: `https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes`
+* End point: `https://savenowclub.com/api/v1/reader_bot/get_vehicle_price_quotes`
 * Authorization: API key, see [API access](#api-access) section
 * Accepted Method: post
 * Input: text, html or URL
@@ -103,7 +103,7 @@ Input
 ```
 curl --header "X-API-KEY: [API_KEY]" --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
-https://api.replybot.io/v1/reader_bot/get_vehicle_price_quotes
+https://savenowclub.com/api/v1/reader_bot/get_vehicle_price_quotes
 ```
 note: replace `[API_KEY]` with your own API key
 
@@ -149,7 +149,7 @@ Use cases
 
 API specs
 
-* End point: `https://api.replybot.io/v1/reader_bot/get_dealer_info`
+* End point: `https://savenowclub.com/api/v1/reader_bot/get_dealer_info`
 * Accepted Method: post
 * Authorization: API key, see [API access](#api-access) section
 * Input: text, html or URL
@@ -162,7 +162,7 @@ Input
 ```
 curl --header "X-API-KEY: [API_KEY]" --data "URL=https://raw.githubusercontent.com\
 /Buytition/pub_docs/master/raw-text/inbox-201812120906-edmunds-pricepromise.html" \
-https://api.replybot.io/v1/reader_bot/get_dealer_info
+https://savenowclub.com/api/v1/reader_bot/get_dealer_info
 ```
 note: replace `[API_KEY]` with your own API key
 
