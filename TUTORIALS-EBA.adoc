@@ -28,8 +28,10 @@ Here is an https://buytition.com/projects/2143/price-research-for-a-used-suv-nea
 
 Each price record is made up of 3 parts: public information, private information and dedicated mailbox
 
-* **public information**: accessible by generaly public, includes product/service name, price, area/zip code, and public description
-* **private information**: accessible by owner and buyers of price record only, includes dealer information, deal making descriptions, source URL etc.
+* **public information**: accessible by general public, includes product/service name, price, area/zip code, and public description
+* **private information**: accessible by owner and buyers of price record only, includes
+** available to both owner and buyers of price record: dealer information, deal making descriptions
+** available to only owner: source URL, vehicle VIN
 * **dedicated mailbox**: accessible by owner of price record only, the mailbox comes with these handy benefits
 ** an email address (e.g. bot2111@buytition.com) dedicated to this price record, your personal email sits behind this email address so your privacy is protected.
 ** all inbound/outbound email messages regarding a price record are organized in one place
