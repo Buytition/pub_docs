@@ -42,7 +42,7 @@ Each price record is made up of 3 parts: public information, private information
 
 # Price Record Marketplace
 
-All registered users are allowed to create buying project and then append price records to it for free.  A portion of price records listed on SaveNowClub platform are listed for sale.
+All users of https://savenowclub.com[SaveNowClub] can create buying project and append price records to it for free.  After <<for-sellers-listing-criteria,review and verification>>, some price records added to SaveNowClub platform are also listed for sale at price of $5 USD each, and these price records are called **Price Record Marketplace**, <<for-sellers-ownership-of-price-record,price record owner>> receives majority of <<for-sellers-sale-proceeds, sale proceeds>> after each sale.
 
 ## For Sellers: Listing Criteria
 
@@ -55,15 +55,17 @@ All added price records are reviewed by SaveNowClub Team, after review, price re
 
 ## For Sellers: Ownership of Price Record
 
-Owner of price records have access to public, private and dedicated mailbox information of the price records and also receives majority of sale proceeds if someone purchases the price records on sale.
+Owner of price records have access to public, private and dedicated mailbox information of the price records and also receives majority of <<for-sellers-ownership-of-price-record,sale proceeds>> if someone purchases the price records on sale.
+
+## For Sellers: Sale Proceeds
 
 Whenever someone purchases a record, price record owner receives 70% of sale price as sale proceeds, the remaining 30% covers SaveNowClub platform service fee and credit card transaction fees, e.g. for price records listed at $5 USD, owner receives $3.5 USD after any sale completed on the price record.  Owner will receive funds once the accumulated seller balance reaches $10 USD via PayPal.
 
 ## For Sellers: Claim a Price Record
 
-<<for-sellers-ownership-of-price-record, Ownership of a price record>> may be claimed by users who provide a correct claim code.
+<<for-sellers-ownership-of-price-record, Ownership of a price record>> may be claimed by any user who provide a correct claim code.
 
-To claim a price record, first login to SaveNowClub, then navigate to the price record section of its buying project page, under private information section, fill out claim price record form, see example below
+To claim ownership of a price record, first login to SaveNowClub, then navigate to the price record section of its buying project page, under private information section, fill out claim price record form, see example below
 
 image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/claim-price-record-form.png[claim price record form]
 
