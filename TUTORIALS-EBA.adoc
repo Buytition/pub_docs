@@ -55,7 +55,7 @@ All added price records are reviewed by SaveNowClub Team, after review, price re
 
 ## For Sellers: Ownership of Price Record
 
-Owner of price records have access to public, private and dedicated mailbox information of the price records and also receives majority of <<for-sellers-ownership-of-price-record,sale proceeds>> if someone purchases the price records on sale.
+Owner of price records have access to public, private and dedicated mailbox information of the price records and also receives majority of <<for-sellers-sale-proceeds,sale proceeds>> if someone purchases the price records on sale.  Ownership of price records can be <<for-sellers-claim-a-price-record, claimed>>.
 
 ## For Sellers: Sale Proceeds
 
