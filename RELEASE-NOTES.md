@@ -1,6 +1,6 @@
 # Release Notes
 
-Please also see [SaveNowClub Blog](http://blog.savenowclub.com/)
+For latest release notes from SaveNowClub, please check out [SaveNowClub Blog](http://blog.savenowclub.com/)
 
 ## 20191011
 Reader Bot API v1.1.0 Released
