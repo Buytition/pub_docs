@@ -44,6 +44,10 @@ Each price record is made up of 3 parts: public information, private information
 
 All users of https://savenowclub.com[SaveNowClub] can create buying project and append price records to it for free.  After <<for-sellers-listing-criteria,review and verification>>, some price records added to SaveNowClub platform are also listed for sale at price of $5 USD each, and these price records are called **Price Record Marketplace**, <<for-sellers-ownership-of-price-record,price record owner>> receives majority of <<for-sellers-sale-proceeds, sale proceeds>> after each sale.
 
+This is a price record in the Marketplace
+
+image::https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/price-record-on-sale.png[price record on sale]
+
 ## For Sellers: Listing Criteria
 
 All added price records are reviewed by SaveNowClub Team, after review, price records that satisfy the following conditions are placed on sale:
