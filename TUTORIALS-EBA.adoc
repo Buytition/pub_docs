@@ -19,6 +19,18 @@ Our Buying Project supports these types of buying targets:
 
 It's easy to create a Buying Project, simply fill out https://savenowclub.com/projects/show-form/start-project[this form], describe your goal (price research or share/sell deal information) in Description field.  After the project is created and public, share the project link with your friends or on public forums so you will get help needed or people can find price records they need.
 
+## Buying Group
+
+Buying Group is a type of Buying Project that allows buyers to join as members and collectively pursue a deal for a common product.
+
+If you are organizing or about to join a Buying Group, consider the following advantage of SaveNowClub's Buying Group vs. Google Form
+
+* membership information of a Buying Group can be modified or deleted, while it's not possible to do it on Google Form
+* Buying Group page is public and easy to attract new members while keeping membership information private, but Google Form address is usually private and cannot generate organic traffic.
+* Group Members' email addresses will be verified while Google Sheet does not verify email addresses of sign up members
+* Buying Group page mixes public and private project notes, private project notes only visible to verified and logged in group members
+* Buying Group page mixes public and private updates, private updates are only visible to group members
+* Creation and change of each public or private updates will be emailed to every group member and the email message does not expose other group members' email addresses
 
 # What is Price Record
 
