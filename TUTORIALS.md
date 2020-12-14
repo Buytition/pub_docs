@@ -1,7 +1,4 @@
-# How To Use: Buying Projects and Price Records
-:toc:
-
-Last Updated: 8/7/2020
+[TOC]
 
 # What is Buying Project
 
@@ -60,7 +57,7 @@ Each price record is made up of 3 parts: public information, private information
     * an email address (e.g. bot2111@buytition.com) dedicated to this price record, your personal email sits behind this email address so your privacy is protected.
     * all inbound/outbound email messages regarding a price record are organized in one place
     * [collaborative communication to seller](#step-32-collaboratively-communicate-with-seller) and [peer-to-peer communication](#step-31-peer-to-peer-communication)
-    * [one-click mute incoming emails](#step-4-2-one-click-turn-on-off-agent)
+    * [one-click mute incoming emails](#step-42-one-click-turn-on-off-agent)
     * [reply directly](#step-3-how-to-use-proxy-email) from your personal email account
     * each inbound/outbound message is tagged with price record link so you can easily trace it back to its original intent.
 
@@ -168,7 +165,7 @@ After Email Buyer Agent (EBA) is created, a Proxy Email address is created.  The
 
 Let's say I am helping Project Author on this buying project, and I created this EBA, very likely Project Author and I need to communicate with each other, for that purpose, I simply write an email to EBA proxy email address, in this demo `bagent_barbXXXX@buytition.com`, and send it, and EBA will forward that email to project author.  And vice versa, if project author does the same, I will receive that email from him/her.
 
-The difference between this type of communication vs [seller communication](#step-3-2-collaboratively-communicate-with-seller) is that for seller communication, you always need to reply an incoming email, but for peer-to-peer communication, you start from scratch and send it.
+The difference between this type of communication vs [seller communication](#step-32-collaboratively-communicate-with-seller) is that for seller communication, you always need to reply an incoming email, but for peer-to-peer communication, you start from scratch and send it.
 
 ### Step 3.2: Collaboratively Communicate with Seller
 
