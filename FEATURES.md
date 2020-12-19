@@ -1,4 +1,6 @@
-This document is a run down of SaveNowClub and/or ReplyBot.io features.
+[TOC]
+
+This document is a run down of SaveNowClub and/or ReplyBot features.
 
 # Email Reader Bot
 SaveNowClub's proprietary Email Reader Robot (watch [demo video](https://www.youtube.com/watch?v=UZz7a5sni3A) to see the robot in action) utilizes text mining technology to parse car shopping email messages and automatically create vehicle price quote reports from them. Here is a list of robot capabilities (as of July 2017): 
@@ -26,10 +28,11 @@ Reply Bot API is a collection of replybot.io API that offers entry points to Rea
 Accessing Reply Bot and Reader Bot API requires a API key which is free to obtain. 
 
 **Obtain an API Key**
+
 * sign up to [savenowclub.com](https://savenowclub.com) web app for free.
 * login to savenowclub.com web app, then visit [Settings](https://savenowclub.com/web/dist/settings_account) page, your API key will show up there, see screen shot below.
 
-![Your API key](https://raw.githubusercontent.com/Buytition/pub_docs/master/images/screen-shot-buytition-setting-page.png)
+<img src="https://raw.githubusercontent.com/Buytition/pub_docs/master/images/screen-shot-buytition-setting-page.png" title="Your API key" style="max-width:100%">
 
 **To Use API Key**, add `X-API-KEY`  header to your API request and supply your API key obtained from savenowclub.com web app.  See this curl command for example
 
@@ -40,6 +43,7 @@ https://savenowclub.com/api/v1/reader_bot/get_vehicle_price_quotes
 ```
 
 **Usage Plan**: your free obtained API keys automatically fall into **lite** usage plan with the following specs
+
 * limit 1 request per second
 * limit 5000 requests per month starting on 1st day of usage
 
@@ -50,6 +54,7 @@ To upgrade your usage plan, please contact buytition@gmail.com
 This API brings developers programmatic access to [Reader Bot](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#email-reader-bot).  To access this API, please read [API access](https://github.com/Buytition/pub_docs/blob/master/FEATURES.md#api-access) section.
 
 Reader Bot API contains the following entry points:
+
 * [vehicle price quotes reader API](#vehicle-price-quotes-reader-api), extracts vehicle and price quotes information, if any, from input text or html
 * [vehicle dealer info reader API](#vehicle-dealer-info-reader-api), extracts vehicle dealer information, if any, from input text or html
 
@@ -85,11 +90,13 @@ Reader Bot API contains the following entry points:
 ReplyBot Vehicle Price Quotes Reader API is a service that automatically extracts vehicle model and price quotes from email or HTML documents. 
 
 Use cases
+
 * **Extract intents and entities for chatbots** Extract intents related to vehicle price quotes or negotiation as well as entities of vehicle price quotes from input text or html, produces the extracted entities in output json
 * **Create smart search indexes** Extract structured data from email messages or web pages and create a smart index to allow you to search through millions of email messages quickly.
 * **Build automated document processing workflow**: ReplyBot Vehicle Price Quotes Reader API can provide the inputs required to automatically process vehicle shopping related emails or web pages without human intervention.  For example, a webmail service provider can automate the generation of vehicle price quotes database using ReplyBot Vehicle Price Quotes Reader API. 
 
 API Specs
+
 * End point: `https://savenowclub.com/api/v1/reader_bot/get_vehicle_price_quotes`
 * Authorization: API key, see [API access](#api-access) section
 * Accepted Method: post
