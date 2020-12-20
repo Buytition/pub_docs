@@ -32,14 +32,35 @@ To create a Buying Group, simply check `Make this a Buying Group` checkbox when 
 
 <img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-group-creation.png" title="buying group creation form" style="max-width:100%">
 
-If you are organizing or about to join a Buying Group, consider the following advantage of SaveNowClub's Buying Group vs. Google Form
+### Benefits of Buying Group
 
-* membership information of a Buying Group can be modified or deleted, while it's not possible to do it on Google Form
-* Buying Group page is public and easy to attract new members while keeping membership information private, but Google Form address is usually private and cannot generate organic traffic.
+Creating your buying project as a buying group on SaveNowClub platform brings you a number of benefits.  If you are organizing or about to join a Buying Group, consider the following advantage of SaveNowClub’s Buying Group vs. Google Form vs. WeChat Groups vs. Facebook Groups
+
+**Member Benefits**: while group discount a buy group may get from dealer is relatively small (may be a few hundred dollars per vehicle), joining a buy group brings the benefit of enjoying collective efforts on negotiating towards same model of vehicle which covers a wider range of dealerships in a wider range of geographical areas.
+
+**Group Negotiation Capabilities**
+
+This feature enables every member of a buying group to collaborate on negotiating deals with dealers using emails, see a [demo](#collaborative-group-negotiation-demo) here.  The [proxy mailbox](#step-3-how-to-use-proxy-email) used by group negotiation are provided by SaveNowClub and are dedicated for the purpose of deal negotiation, can be [turned on or off](#step-42-one-click-turn-on-off-agent) at any time.  
+
+**Membership Capabilities**
+
+* Membership information of a Buying Group can be modified or deleted, while it’s not possible to do it on Google Form
 * Group Members' email addresses will be verified while Google Sheet does not verify email addresses of sign up members
-* Buying Group page mixes public and private project notes, private project notes only visible to verified and logged in group members
-* Buying Group page mixes public and private updates, private updates are only visible to group members
-* Creation and change of each public or private updates will be emailed to every group member and the email message does not expose other group members' email addresses
+* Multiple types of members are allowed to join the group: Buyer, Dealer or Broker, this makes it easier to reach a deal
+* Advantage over Facebook Groups: Members may remain anonymous to the public and to each other group members, while you have to show your real name in Facebook Groups
+
+**Marketing Capabilities**
+
+* Buying Group page is public and easy to attract new members while keeping membership information private, but Google Form address is usually private and cannot generate organic traffic.
+* Advantage over WeChat Groups: the fact that SaveNowClub buying group has a public page and allows dealers / brokers to join makes it easier to attract sellers to make offer to the group and to reach a deal, while WeChat Groups are private and lack a public page to attract sellers to make an offer.
+
+**Communication Capabilities**
+
+* Every group member will get notified upon new public or private updates with material and valuable information.
+* Comments may be added under membership profile or project update for clarification purposes.
+* Buying Group page mixes public and private project notes, private ones are visible to group members only
+* Buying Group page mixes public and private updates, private ones are visible to group members only
+
 
 # What is Price Record
 
@@ -183,10 +204,16 @@ Dealer respond to my price offer and I am ready to make a deal with dealer.  Add
 
 <img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/inbound-mail-03.png" title="inbound email" style="max-width:100%">
 
+### Collaborative Group Negotiation Demo
+
+Take for example the dedicated mailbox `bot2271@buytition.com` that comes with [this price offer]((https://savenowclub.com/projects/2314/find-deal-for-pacifica-2021#t246)) for [Chrysler Pacifica buying group](https://savenowclub.com/projects/2314/find-deal-for-pacifica-2021):
+
+* all of its inbound or outbound email messages are visible (via [the link](https://savenowclub.com/web/dist/messages?srch_term=BUYER_AGENT_ID:2271) next to the mailbox after login) to all participating buyers including price record owner, project owner and group members (if project is a buying group), in addition, participating buyers are allowed to reply to inbound emails on our website by clicking the bright orange icon on upper right corner of message detail page ([this](https://savenowclub.com/web/dist/view_msg?id=70326) for example).
+* its mailbox `bot2271@buytition.com` was created with the price record of 2020 Chrysler Pacifica Touring FWD in CT, but it can also be used to negotiate deal with multiple dealers, simply use that address to start negotiation with any Chrysler dealers and email messages will be viewable and reply-able on this website by all group members.
+
 ## Step 4: Manage Email Buyer Agent
 
 For creator of the buyer agent, after login, you will be able to check out your own private information such as proxy email address, your full name, a link to email messages between you and dealer through this buyer agent and a button to turn on / off this buyer agent with one click.
-
 
 ### Step 4.1: Check Buyer Agent Emails
 
