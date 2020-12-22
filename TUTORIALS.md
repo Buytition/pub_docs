@@ -206,10 +206,10 @@ Dealer respond to my price offer and I am ready to make a deal with dealer.  Add
 
 ### Collaborative Group Negotiation Demo
 
-Take for example the dedicated mailbox `bot2271@buytition.com` that comes with [this price offer]((https://savenowclub.com/projects/2314/find-deal-for-pacifica-2021#t246)) for [Chrysler Pacifica buying group](https://savenowclub.com/projects/2314/find-deal-for-pacifica-2021):
+Take for example the dedicated mailbox `bot2270@buytition.com` that comes with [this price offer]((https://savenowclub.com/projects/2290/2020-2021-audi-q7-buy-group#t245)) for [Audi Q7 buying group](https://savenowclub.com/projects/2290/2020-2021-audi-q7-buy-group):
 
-* all of its inbound or outbound email messages are visible (via [the link](https://savenowclub.com/web/dist/messages?srch_term=BUYER_AGENT_ID:2271) next to the mailbox after login) to all participating buyers including price record owner, project owner and group members (if project is a buying group), in addition, participating buyers are allowed to reply to inbound emails on our website by clicking the bright orange icon on upper right corner of message detail page ([this](https://savenowclub.com/web/dist/view_msg?id=70326) for example).
-* its mailbox `bot2271@buytition.com` was created with the price record of 2020 Chrysler Pacifica Touring FWD in CT, but it can also be used to negotiate deal with multiple dealers, simply use that address to start negotiation with any Chrysler dealers and email messages will be viewable and reply-able on this website by all group members.
+* all of its inbound or outbound email messages are visible (via [the link](https://savenowclub.com/web/dist/messages?srch_term=BUYER_AGENT_ID:2270) next to the mailbox after login) to all participating buyers including price record owner, project owner and group members (if project is a buying group), in addition, participating buyers are allowed to reply to inbound emails on our website by clicking the bright orange icon on upper right corner of message detail page ([this](https://savenowclub.com/web/dist/view_msg?id=70321) for example, member login required).
+* its mailbox `bot2270@buytition.com` was created with the price record of 2021 Audi Q7 in MD, but it can also be used to negotiate deal with multiple dealers, simply use that address to start negotiation with any Audi dealers and email messages will be viewable and reply-able on this website by all group members.
 
 ## Step 4: Manage Email Buyer Agent
 
