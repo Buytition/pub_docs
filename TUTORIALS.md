@@ -64,7 +64,7 @@ This feature enables every member of a buying group to collaborate on negotiatin
 
 # What is Price Record
 
-After a buying project is created, one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  Buytition supports two types of price records: price offer and price paid.
+After a buying project is created, one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  SaveNowClub supports two types of price records: price offer and price paid.
 
 Here is an [example price record](https://savenowclub.com/projects/2143/price-research-for-a-used-suv-near-chicago#t86) of a price offer for a used SUV near Chicago area.
 
