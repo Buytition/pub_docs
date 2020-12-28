@@ -38,7 +38,7 @@ Creating your buying project as a buying group on SaveNowClub platform brings yo
 
 **Member Benefits**: while group discount a buy group may get from dealer is relatively small (may be a few hundred dollars per vehicle), joining a buy group brings the benefit of enjoying collective efforts on negotiating towards same model of vehicle which covers a wider range of dealerships in a wider range of geographical areas.
 
-**Group Negotiation Capabilities**
+#### Group Negotiation
 
 This feature enables every member of a buying group to collaborate on negotiating deals with dealers using emails, see a [demo](#collaborative-group-negotiation-demo) here.  The [proxy mailbox](#step-3-how-to-use-proxy-email) used by group negotiation are provided by SaveNowClub and are dedicated for the purpose of deal negotiation, can be [turned on or off](#step-42-one-click-turn-on-off-agent) at any time.  
 
@@ -74,8 +74,11 @@ Each price record is made up of 3 parts: public information, private information
 * **private information**: accessible by owner and buyers of price record only, includes
     * available to both owner and buyers of price record: dealer information, deal making descriptions
     * available to only owner: source URL, vehicle VIN
-* **dedicated mailbox**: accessible by owner of price record only, the mailbox comes with these handy benefits
-    * an email address (e.g. bot2111@buytition.com) dedicated to this price record, your personal email sits behind this email address so your privacy is protected.
+
+## Dedicated Mailbox
+
+* **dedicated mailbox**: optionally attached to a price record, accessible by owner of price record or group members of a buying group only, the mailbox comes with these handy benefits
+    * an email address (e.g. `bot2111@buytition.com`) dedicated to this price record, your personal email sits behind this email address so your privacy is protected.
     * all inbound/outbound email messages regarding a price record are organized in one place
     * [collaborative communication to seller](#step-32-collaboratively-communicate-with-seller) and [peer-to-peer communication](#step-31-peer-to-peer-communication)
     * [one-click mute incoming emails](#step-42-one-click-turn-on-off-agent)
@@ -206,7 +209,7 @@ Dealer respond to my price offer and I am ready to make a deal with dealer.  Add
 
 ### Collaborative Group Negotiation Demo
 
-Take for example the dedicated mailbox `bot2270@buytition.com` that comes with [this price offer]((https://savenowclub.com/projects/2290/2020-2021-audi-q7-buy-group#t245)) for [Audi Q7 buying group](https://savenowclub.com/projects/2290/2020-2021-audi-q7-buy-group):
+Take for example the [dedicated mailbox](#dedicated-mailbox) `bot2270@buytition.com` that comes with [this price offer](https://savenowclub.com/projects/2290/2020-2021-audi-q7-buy-group#t245) for [Audi Q7 buying group](https://savenowclub.com/projects/2290/2020-2021-audi-q7-buy-group):
 
 * all of its inbound or outbound email messages are visible (via [the link](https://savenowclub.com/web/dist/messages?srch_term=BUYER_AGENT_ID:2270) next to the mailbox after login) to all participating buyers including price record owner, project owner and group members (if project is a buying group), in addition, participating buyers are allowed to reply to inbound emails on our website by clicking the bright orange icon on upper right corner of message detail page ([this](https://savenowclub.com/web/dist/view_msg?id=70321) for example, member login required).
 * its mailbox `bot2270@buytition.com` was created with the price record of 2021 Audi Q7 in MD, but it can also be used to negotiate deal with multiple dealers, simply use that address to start negotiation with any Audi dealers and email messages will be viewable and reply-able on this website by all group members.
