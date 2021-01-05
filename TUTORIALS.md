@@ -85,6 +85,16 @@ Each price record is made up of 3 parts: public information, private information
     * [reply directly](#step-3-how-to-use-proxy-email) from your personal email account
     * each inbound/outbound message is tagged with price record link so you can easily trace it back to its original intent.
 
+# Beat Your Deal
+
+Our **Beat Your Deal** Service is offered to you without any upfront obligations.  This service will help if you already received a best deal (with all factors considered, including price and distance) but want to check whether a better one exists.  Here are the steps:
+
+* [Creating a Project](https://savenowclub.com/projects/show-form/start-project) or find a similar buying project
+* Tell us your best deal by Add a Listing to the project.
+* As soon as the listing is added, we will conduct research to beat that deal you have got.  
+* If we indeed found a better one that beats yours, we will present that better one to you. Until now, you do not have any obligation to us.
+* If our effort does help you save from your previously received deal, you win and we win. After the saving is realized, we would like to be rewarded with 20% of the realized savings from your previous deal.
+
 # Price Record Marketplace
 
 All users of [SaveNowClub](https://savenowclub.com) can create buying project and append price records to it for free.  After [review and verification](#for-sellers-listing-criteria), some price records added to SaveNowClub platform are also listed for sale at price of $5 USD each, and these price records are called **Price Record Marketplace**, [price record owner](#for-sellers-ownership-of-price-record) receives majority of [sale proceeds](#for-sellers-sale-proceeds) after each sale.
