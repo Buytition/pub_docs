@@ -161,8 +161,8 @@ After you submit the above simple form, the project is created like this or can 
 
 <img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-project-created.png" title="buying project created" style="max-width:100%">
 
-## Step 2: Add Email Buyer Agent to Buying Project
-After your buying project is created, now you can start adding buyer agent to it
+## Step 2: Add Listing to Buying Project
+After your buying project is created, now you can add listing / price record to it in order to find a better deal to beat your listing or sell its information to other buyers who try to replicate your deal.
 
 ### Step 2.1: Find Your Target Vehicle Online
 
@@ -170,18 +170,17 @@ Look for your target vehicle online and grab its URL (link on browser), we recom
 
 <img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/grab-vehicle-url.png" title="grab vehicle URL" style="max-width:100%">
 
-### Step 2.2: Create Email Buyer Agent
+### Step 2.2: Add Listing to Buying Project
 
-After target vehicle page is available, go back to the [buying project](https://savenowclub.com/projects/2122/price-research-for-a-mid-size-suv-at-40k-budget) you just created in [previous step](#step-1-create-a-buying-project), scroll to the bottom, click **Add Buyer Agent** link
+After target vehicle page is available, go directly to [Add Listing section](https://savenowclub.com/projects/2122/price-research-for-a-mid-size-suv-at-40k-budget#action_add_update) of the project you just created in [previous step](#step-1-create-a-buying-project)
 
-<img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-project-bottom.png" title="buying project bottom" style="max-width:100%">
+Fill out **Add Listing** form with vehicle name, vehicle URL and other vehicle details info found in [previous step](#step-21-find-your-target-vehicle-online), and click `Add Listing` button at bottom of form
 
-Fill out **Create Buyer Agent** form with vehicle name, vehicle URL and other vehicle details info found in [previous step](#step-21-find-your-target-vehicle-online), and click `Submit` button
+You may sell information of your deal by checking `List information you enter in Keep These Private section below for sale` box and set a price yourself.  All price records on sale must satisfy  [listing criteria](#for-sellers-listing-criteria), otherwise listing will be removed from sale.
 
-<img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent-top.png" title="create Email Buyer Agent" style="max-width:100%">
-<img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/create-buyer-agent.png" title="create Email Buyer Agent" style="max-width:100%">
+<img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/list-price-record-for-sale.png" title="list price record for sale" style="max-width:100%">
 
-Now a Email Buyer Agent proxy email (`bagent_barbXXXX@buytition.com` in this case) is created, all you need to do is sit back and wait for dealer emails to come in.
+You may also create a dedicated mailbox by checking `Create dedicated mailbox` box in the form.  After submitting the form, `bagent_barbXXXX@buytition.com` in this case was created, all you need to do is sit back and wait for dealer emails to come in.
 
 <img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buyer-agent-created.png" title="Buyer Agent created notice" style="max-width:100%">
 
