@@ -64,9 +64,23 @@ This feature enables every member of a buying group to collaborate on negotiatin
 
 # What is Price Record
 
-After a buying project is created, one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  SaveNowClub supports two types of price records: price offer and price paid.
+After a buying project is created, one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  
 
-Here is an [example price record](https://savenowclub.com/projects/2143/price-research-for-a-used-suv-near-chicago#t86) of a price offer for a used SUV near Chicago area.
+## Types of Price Records
+
+SaveNowClub supports two types of price records: price offer and price paid.
+
+### Price Offer
+
+These are currently active price quotes offered from sellers, for example, this offer on [2020 Ford Expedition MAX XLT](/projects/2441/price-offer-for-2020-ford-expedition-max-xlt#t326), it was posted on 2/1/2021, and it will stay valid until the listed product is sold or the price gets changed by seller.
+
+Here is another [example price offer](https://savenowclub.com/projects/2143/price-research-for-a-used-suv-near-chicago#t86) of a price offer for a used SUV near Chicago area.
+
+### Price Paid
+
+These are past price paid records contributed by other buyers.  This is an [example price paid](https://savenowclub.com/projects/2413/buying-group-for-toyota-sienna-toyota-highlander-honda-odyssey-acura-mdx-nissan-armada#t310) for 2020 Toyota Highlander.  Since these records reflect transaction already happened, they generally do not expire.
+
+## Components of Price Records
 
 Each price record is made up of 3 parts: public information, private information and dedicated mailbox
 
@@ -75,7 +89,7 @@ Each price record is made up of 3 parts: public information, private information
     * available to both owner and buyers of price record: dealer information, deal making descriptions
     * available to only owner: source URL, vehicle VIN
 
-## Dedicated Mailbox
+### Dedicated Mailbox
 
 * **dedicated mailbox**: optionally attached to a price record, accessible by owner of price record or group members of a buying group only, the mailbox comes with these handy benefits
     * an email address (e.g. `bot2111@buytition.com`) dedicated to this price record, your personal email sits behind this email address so your privacy is protected.
@@ -85,14 +99,22 @@ Each price record is made up of 3 parts: public information, private information
     * [reply directly](#step-3-how-to-use-proxy-email) from your personal email account
     * each inbound/outbound message is tagged with price record link so you can easily trace it back to its original intent.
 
+
 # Beat Your Deal
 
-Our **Beat Your Deal** Service is offered to you without any upfront obligations.  This service will help if you already received a best deal (with all factors considered, including price and distance) but want to check whether a better one exists.  Here are the steps:
+Our **Beat Your Deal** Service is offered to you as part of **Buyer Broker Package** that you purchase, for example, [this package for 2020 Ford Expedition Max XLT](https://savenowclub.com/projects/2441/price-offer-for-2020-ford-expedition-max-xlt#t326). Usually the package is linked to a real product listing priced lower than the best deal you received from your local dealers.  The package includes two parts:
 
-* [Creating a Project](https://savenowclub.com/projects/show-form/start-project) or find a similar buying project
-* Tell us your best deal by Add a Listing to the project.
-* As soon as the listing is added, we will conduct research to beat that deal you have got.  
-* If we indeed found a better one that beats yours, we will present that better one to you. Until now, you do not have any obligation to us.
+* Private information of the linked [price record](#what-is-price-record), for example: original listing URL, details of vehicle and dealer information.  This part gives you a **real-life price point that beats your current best deal**.  However, the deal may be too far away from your location or may have hidden strings that do not guarantee the advertised price, these issues are addressed by another part of the package: Beat Your Deal service. 
+* Our **Beat Your Deal** service actually does the negotiation work on behalf of you to help you secure a ready-to-close deal that beats your best deal in your designated distance range of local dealers.  After this part completes, you will have a **realistic ready-to-buy deal in your acceptable distance range that beats your current best deal**.
+
+Here are the steps:
+
+* If you have not done so, register an account and verify your email address.
+* Purchase the Buyer Broker Package for a certain price record.
+* Click `Replicate This Deal` button of the purchased price record to create a Buying Project and tell us your best deal by Add a Listing to the project.
+* We will communicate with you to make sure that you and us are on same page regarding your desired criteria for your target best deal.
+* After we understand your target best deal criteria, we will conduct research to beat your current best deal.
+* If we indeed found a better one that beats yours, we will present that better one to you. 
 * If our effort does help you save from your previously received deal, you win and we win. After the saving is realized, we would like to be rewarded with 20% of the realized savings from your previous deal.
 
 # Price Record Marketplace
@@ -140,8 +162,9 @@ We promise the price records you purchase are verified at least at source level,
 
 ## For Buyers: Refund Policy
 
-No refund at this moment given the fact that price records are [instantly available](#for-buyers-what-happens-after-buying) right after you pay and not physically returnable.
+For [price offer](#price-offer) type of price records, we will refund you full amount if it can be proven that the listing you purchase is no longer valid or available (e.g. the product is sold or taken down) at time of purchasing the price record. 
 
+For [price paid](#price-paid) type of price records, we do not offer refund at this moment given the fact that they reflect a fact of past transaction and are [instantly available](#for-buyers-what-happens-after-buying) right after you pay.
 
 # Demo
 
