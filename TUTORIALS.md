@@ -102,20 +102,21 @@ Each price record is made up of 3 parts: public information, private information
 
 # Beat Your Deal
 
-Our **Beat Your Deal** Service is offered to you as part of **Buyer Broker Package** that you purchase, for example, [this package for 2020 Ford Expedition Max XLT](https://savenowclub.com/projects/2441/price-offer-for-2020-ford-expedition-max-xlt#t326). Usually the package is linked to a real product listing priced lower than the best deal you received from your local dealers.  The package includes two parts:
+Our **Beat Your Deal** Service is offered to you as part of **Buyer Broker Package** that you purchase.  We promise to buyers of **Buyer Broker Package** that if within a month of your puchase, we cannot beat your best deal in your acceptable distance range we will refund you 80% of your full amount of purchase  (see our full [refund policy](#for-buyers-refund-policy)).
+ 
+After you purchase Buyer Broker Package, you will receive two parts: private information of the price record and Beat Your Deal service:
 
 * Private information of the linked [price record](#what-is-price-record), for example: original listing URL, details of vehicle and dealer information.  This part gives you a **real-life price point that beats your current best deal**.  However, the deal may be too far away from your location or may have hidden strings that do not guarantee the advertised price, these issues are addressed by another part of the package: Beat Your Deal service. 
-* Our **Beat Your Deal** service actually does the negotiation work on behalf of you to help you secure a ready-to-close deal that beats your best deal in your designated distance range of local dealers.  After this part completes, you will have a **realistic ready-to-buy deal in your acceptable distance range that beats your current best deal**.
+* Our **Beat Your Deal** service actually does the negotiation work on behalf of you to help you secure a ready-to-close deal that beats your best deal in your designated distance range of local dealers.  After this part completes, you will have a **realistic ready-to-close deal in your acceptable distance range that beats your current best deal**.
 
 Here are the steps:
 
-* If you have not done so, register an account and verify your email address.
-* Purchase the Buyer Broker Package for a certain price record.
-* Click `Replicate This Deal` button of the purchased price record to create a Buying Project and tell us your best deal by Add a Listing to the project.
-* We will communicate with you to make sure that you and us are on same page regarding your desired criteria for your target best deal.
-* After we understand your target best deal criteria, we will conduct research to beat your current best deal.
-* If we indeed found a better one that beats yours, we will present that better one to you. 
-* If our effort does help you save from your previously received deal, you win and we win. After the saving is realized, we would like to be rewarded with 20% of the realized savings from your previous deal.
+* If you have not done so, [register an account](https://savenowclub.com/web/dist/signup) and verify your email address.
+* Purchase the Buyer Broker Package from a listed price record.
+* Share with us necessary information for us to beat your deal.  You may start doing this by clicking `Replicate This Deal` button of the purchased price record to create a Buying Project
+    * Show us your current best deal by Add a Listing to the Buying Project you created.
+    * Share with us your desired criteria (usually range of distance) for your target best deal by add this information to the description of your Buying Project.
+* After we understand your current best deal and your target best deal criteria, we will start doing research to beat your current best deal. We will make sure the deal we present to you is not only better than your current best deal but also ready-to-close and has no hidden strings. 
 
 # Price Record Marketplace
 
@@ -162,9 +163,12 @@ We promise the price records you purchase are verified at least at source level,
 
 ## For Buyers: Refund Policy
 
-For [price offer](#price-offer) type of price records, we will refund you full amount if it can be proven that the listing you purchase is no longer valid or available (e.g. the product is sold or taken down) at time of purchasing the price record. 
+We promise to buyers of **Buyer Broker Package** that if within a month of your puchase, we cannot beat your best deal in your acceptable distance range we will refund you 80% of your full amount of purchase.  For example, if you paid $50 for the package, we will refund you $40.
 
-For [price paid](#price-paid) type of price records, we do not offer refund at this moment given the fact that they reflect a fact of past transaction and are [instantly available](#for-buyers-what-happens-after-buying) right after you pay.
+The remaining 20% covers the following:
+
+* The private information of the price record which is  part of the Buyer Broker Package
+* Our payment processing fee
 
 # Demo
 
