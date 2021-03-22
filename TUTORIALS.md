@@ -88,17 +88,24 @@ Each price record is made up of 3 parts: public information, private information
 * **private information**: accessible by owner and buyers of price record only, includes
     * available to both owner and buyers of price record: dealer information, deal making descriptions
     * available to only owner: source URL, vehicle VIN
+* **dedicated mailbox**: optionally attached to a price record, accessible by owner of price record or group members of a buying group only. See [section](#dedicated-mailbox) below for more details
 
 ### Dedicated Mailbox
 
-* **dedicated mailbox**: optionally attached to a price record, accessible by owner of price record or group members of a buying group only, the mailbox comes with these handy benefits
-    * an email address (e.g. `bot2111@buytition.com`) dedicated to this price record, your personal email sits behind this email address so your privacy is protected.
-    * all inbound/outbound email messages regarding a price record are organized in one place
-    * [collaborative communication to seller](#step-32-collaboratively-communicate-with-seller) and [peer-to-peer communication](#step-31-peer-to-peer-communication)
-    * [one-click mute incoming emails](#step-42-one-click-turn-on-off-agent)
-    * [reply directly](#step-3-how-to-use-proxy-email) from your personal email account
-    * each inbound/outbound message is tagged with price record link so you can easily trace it back to its original intent.
+ the mailbox comes with these handy benefits
 
+* an email address (e.g. `bot2111@buytition.com`) dedicated to this price record, your personal email sits behind this email address so your privacy is protected.
+* all inbound/outbound email messages regarding a price record are organized in one place
+* [collaborative communication to seller](#step-32-collaboratively-communicate-with-seller) and [peer-to-peer communication](#step-31-peer-to-peer-communication)
+* [one-click mute incoming emails](#step-42-one-click-turn-on-off-agent)
+* [reply directly](#step-3-how-to-use-proxy-email) from your personal email account
+* each inbound/outbound message is tagged with price record link so you can easily trace it back to its original intent.
+
+#### Collaborative Negotiation
+
+You may collaborate on email negotiation with dealer to nail down the deal by checking `collboratively negotiate` box.
+
+For a demo of this feature, see [collaborative communication to seller](#step-32-collaboratively-communicate-with-seller) and [peer-to-peer communication](#step-31-peer-to-peer-communication) in demo sections below.
 
 # Beat Your Deal
 
@@ -120,7 +127,7 @@ Here are the steps:
 
 # Price Record Marketplace
 
-All users of [SaveNowClub](https://savenowclub.com) can create buying project and append price records to it for free.  After [review and verification](#for-sellers-listing-criteria), some price records added to SaveNowClub platform are also listed for sale at price of $5 USD each, and these price records are called **Price Record Marketplace**, [price record owner](#for-sellers-ownership-of-price-record) receives majority of [sale proceeds](#for-sellers-sale-proceeds) after each sale.
+All users of [SaveNowClub](https://savenowclub.com) can create buying project and append price records to it for free.  After [review and verification](#for-sellers-listing-criteria), some price records added to SaveNowClub platform are also listed for sale at price of $5 USD each, and these price records are called **[Price Record Marketplace](https://savenowclub.com/web/dist/quotes)**, [price record owner](#for-sellers-ownership-of-price-record) receives majority of [sale proceeds](#for-sellers-sale-proceeds) after each sale.
 
 This is a price record in the Marketplace
 
