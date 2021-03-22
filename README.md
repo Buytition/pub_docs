@@ -2,7 +2,7 @@ This repository includes public documents for [SaveNowClub](https://savenowclub.
 
 [TOC]
 
-# What is SaveNowClub
+# About Us
 
 [SaveNowClub](https://savenowclub.com) was originally created to become a platform for price-sensitive buyers to do price research on vaguely priced products or services, such as cars, pianos, local services or even houses and lands.  The idea was to create a platform that allows buyers to create and manage buying petitions and sellers to bid for these petitions and ultimately connect buyers and sellers through buyer-acknowledged best deals.
 
