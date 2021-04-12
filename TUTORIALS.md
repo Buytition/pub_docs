@@ -2,9 +2,11 @@
 
 # What is Buying Project
 
+Check out all [Buying Projects](https://savenowclub.com/projects) on SaveNowClub platform.
+
 Buying a large-ticket product or service is like working on a project, you need to spend time research prices and negotiate deals with sellers.  Buying Project is the project management tool developed by [SaveNowClub](https://savenowclub.com) for large-ticket product or service buyers to create a public page to manage price research activities and/or sell your completed deal information to people who are in need of it.
 
-Here is an [example buying project](https://savenowclub.com/projects/2143/price-research-for-a-used-suv-near-chicago) that does price research on a used SUV near Chicago area.
+Here is an [example buying project](https://savenowclub.com/projects/2143/price-research-for-a-used-suv-near-chicago) that does price research on a used SUV near Chicago area.  
 
 Our Buying Project supports these types of buying targets:
 
@@ -26,7 +28,7 @@ See screen shot below for an example of comment section of an existing Buying Pr
 
 ## Buying Group
 
-Buying Group is a type of Buying Project that allows buyers to join as members and collectively pursue a deal for a common product.
+Buying Group is a type of [Buying Project](#what-is-buying-project) that allows buyers to join as members and collectively pursue a deal for a common product.
 
 To create a Buying Group, simply check `Make this a Buying Group` checkbox when you create a Buying Project
 
@@ -64,7 +66,7 @@ This feature enables every member of a buying group to collaborate on negotiatin
 
 # What is Price Record
 
-After a buying project is created, one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  
+After a [buying project](#what-is-buying-project) is created, one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  
 
 ## Types of Price Records
 
@@ -92,7 +94,7 @@ Each price record is made up of 3 parts: public information, private information
 
 ### Dedicated Mailbox
 
- the mailbox comes with these handy benefits
+As you create a [Price Record](#what-is-price-record), you may choose to add a Dedicated Mailbox to it, the mailbox comes with these handy benefits
 
 * an email address (e.g. `bot2111@buytition.com`) dedicated to this price record, your personal email sits behind this email address so your privacy is protected.
 * all inbound/outbound email messages regarding a price record are organized in one place
