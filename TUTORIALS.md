@@ -129,7 +129,7 @@ Here are the steps:
 
 # Price Record Marketplace
 
-All users of [SaveNowClub](https://savenowclub.com) can create buying project and append price records to it for free.  After [review and verification](#for-sellers-listing-criteria), some price records added to SaveNowClub platform are also listed for sale at price of $5 USD each, and these price records are called **[Price Record Marketplace](https://savenowclub.com/web/dist/quotes)**, [price record owner](#for-sellers-ownership-of-price-record) receives majority of [sale proceeds](#for-sellers-sale-proceeds) after each sale.
+All users of [SaveNowClub](https://savenowclub.com) can create buying project and append price records to it for free.  After [review and verification](#for-sellers-listing-criteria), some price records added to SaveNowClub platform are also listed for sale at price of $5 USD each, and these price records are called **[Price Record Marketplace](https://savenowclub.com/price_records)**, [price record owner](#for-sellers-ownership-of-price-record) receives majority of [sale proceeds](#for-sellers-sale-proceeds) after each sale.
 
 This is a price record in the Marketplace
 
