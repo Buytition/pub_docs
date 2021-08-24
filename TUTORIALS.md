@@ -1,10 +1,10 @@
 [TOC]
 
-# What is Buying Project
+# What is Buying Group
 
-Check out all [Buying Projects](https://savenowclub.com/projects) on SaveNowClub platform.
+[Find]((https://savenowclub.com/groups)) your Buying Groups or [browse](https://savenowclub.com/groups/browse) all buying groups on SaveNowClub platform.
 
-Buying a large-ticket product or service is like working on a project, you need to spend time research prices and negotiate deals with sellers.  Buying Project is the project management tool developed by [SaveNowClub](https://savenowclub.com) for large-ticket product or service buyers to create a public page to manage price research activities and/or sell your completed deal information to people who are in need of it.
+Buying Group is a collection of buyers who are looking for desired deals on same product/service, it's a free tool offered by SaveNowClub for buyers to research price and/or look for desired deals of their target products/services.  Group members are allowed to contribute deals (past price paid or price offers) on their target product/service. 
 
 Here is an [example buying project](https://savenowclub.com/projects/2143/price-research-for-a-used-suv-near-chicago) that does price research on a used SUV near Chicago area.  
 
@@ -17,14 +17,6 @@ Our Buying Project supports these types of buying targets:
 * Other
 
 It's easy to create a Buying Project, simply fill out [this form](https://savenowclub.com/projects/show-form/start-project), describe your goal (price research or share/sell deal information) in Description field.  After the project is created and public, share the project link with your friends or on public forums so you will get help needed or people can find price records they need.
-
-## Comment to Buying Project
-
-Buying Projects are like questions asked by buyers that solicit answers from other people who may have answers, in many cases, these questions lack certain information for other people to better understand the needs in order to better answer it, when this happens, comment feature can be used to ask clarifying questions to project owners or answering these questions.  Once a comment is submitted, email notices will be sent to project owner and comment creator.
-
-See screen shot below for an example of comment section of an existing Buying Project.
-
-<img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-project-comment.png" title="buying project comment form" style="max-width:100%">
 
 ## Buying Group
 
