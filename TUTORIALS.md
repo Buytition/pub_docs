@@ -32,7 +32,7 @@ Note: this feature is in development and will be available soon as of August 202
 
 # What is Price Record
 
-After a [buying project](#what-is-buying-project) is created, one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  
+For any [buying group](#what-is-buying-group), one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  
 
 ## Types of Price Records
 
