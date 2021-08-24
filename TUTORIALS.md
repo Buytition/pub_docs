@@ -2,59 +2,33 @@
 
 # What is Buying Group
 
-[Find]((https://savenowclub.com/groups)) your Buying Groups or [browse](https://savenowclub.com/groups/browse) all buying groups on SaveNowClub platform.
+[Find](https://savenowclub.com/groups) your Buying Groups or [browse](https://savenowclub.com/groups/browse) all buying groups on SaveNowClub platform.
 
-Buying Group is a collection of buyers who are looking for desired deals on same product/service, it's a free tool offered by SaveNowClub for buyers to research price and/or look for desired deals of their target products/services.  Group members are allowed to contribute deals (past price paid or price offers) on their target product/service. 
+Buying Group is a free tool offered by [SaveNowClub](https://savenowclub.com) for similiar buyers to crowd source deals on their target products/services.  Group members are allowed to contribute [deals/price records](#what-is-price-record) (past price paid or price offers) on their target product/service. Here is the [buying group](https://savenowclub.com/groups/audi-q7) for Audi Q7 SUV.  
 
-Here is an [example buying project](https://savenowclub.com/projects/2143/price-research-for-a-used-suv-near-chicago) that does price research on a used SUV near Chicago area.  
+**Easy and Free to Join**: all you need is to provide your email address (need to be verified) and name information as well as your target product name and zip code.  Your personal data is safe with us as we do not send spam email to you nor do we share your contact with any irrelevant merchants (see our [privacy policy](https://savenowclub.com/docs/2377/privacy-policy))
 
-Our Buying Project supports these types of buying targets:
+## Benefits of Buying Group
 
-* Vehicle (new or old)
-* Piano (new or old)
-* Insurance (any type of insurance)
-* Property Tax Protesting Service
-* Other
+If you are organizing or about to join a Buying Group, consider the following advantage of SaveNowClub’s Buying Group vs. Google Form vs. WeChat Groups vs. Facebook Groups
 
-It's easy to create a Buying Project, simply fill out [this form](https://savenowclub.com/projects/show-form/start-project), describe your goal (price research or share/sell deal information) in Description field.  After the project is created and public, share the project link with your friends or on public forums so you will get help needed or people can find price records they need.
+**Deal Alerts**
 
-## Buying Group
+Note: this feature is in development and will be available soon as of August 2021
 
-Buying Group is a type of [Buying Project](#what-is-buying-project) that allows buyers to join as members and collectively pursue a deal for a common product.
+* Group members are able to stay up to date with latest deals.  Once new deals are added, group members are immediately notified by email.
 
-To create a Buying Group, simply check `Make this a Buying Group` checkbox when you create a Buying Project
-
-<img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/buying-group-creation.png" title="buying group creation form" style="max-width:100%">
-
-### Benefits of Buying Group
-
-Creating your buying project as a buying group on SaveNowClub platform brings you a number of benefits.  If you are organizing or about to join a Buying Group, consider the following advantage of SaveNowClub’s Buying Group vs. Google Form vs. WeChat Groups vs. Facebook Groups
-
-**Member Benefits**: while group discount a buy group may get from dealer is relatively small (may be a few hundred dollars per vehicle), joining a buy group brings the benefit of enjoying collective efforts on negotiating towards same model of vehicle which covers a wider range of dealerships in a wider range of geographical areas.
-
-#### Group Negotiation
-
-This feature enables every member of a buying group to collaborate on negotiating deals with dealers using emails, see a [demo](#collaborative-group-negotiation-demo) here.  The [proxy mailbox](#step-3-how-to-use-proxy-email) used by group negotiation are provided by SaveNowClub and are dedicated for the purpose of deal negotiation, can be [turned on or off](#step-42-one-click-turn-on-off-agent) at any time.  
-
-**Membership Capabilities**
+**Membership Management**
 
 * Membership information of a Buying Group can be modified or deleted, while it’s not possible to do it on Google Form
 * Group Members' email addresses will be verified while Google Sheet does not verify email addresses of sign up members
 * Multiple types of members are allowed to join the group: Buyer, Dealer or Broker, this makes it easier to reach a deal
 * Advantage over Facebook Groups: Members may remain anonymous to the public and to each other group members, while you have to show your real name in Facebook Groups
 
-**Marketing Capabilities**
+**Marketing Advantages**
 
 * Buying Group page is public and easy to attract new members while keeping membership information private, but Google Form address is usually private and cannot generate organic traffic.
 * Advantage over WeChat Groups: the fact that SaveNowClub buying group has a public page and allows dealers / brokers to join makes it easier to attract sellers to make offer to the group and to reach a deal, while WeChat Groups are private and lack a public page to attract sellers to make an offer.
-
-**Communication Capabilities**
-
-* Every group member will get notified upon new public or private updates with material and valuable information.
-* Comments may be added under membership profile or project update for clarification purposes.
-* Buying Group page mixes public and private project notes, private ones are visible to group members only
-* Buying Group page mixes public and private updates, private ones are visible to group members only
-
 
 # What is Price Record
 
