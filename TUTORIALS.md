@@ -6,7 +6,15 @@
 
 Buying Group is a free tool offered by [SaveNowClub](https://savenowclub.com) for similiar buyers to crowd source deals on their target products/services.  Group members are allowed to contribute [deals/price records](#what-is-price-record) (past price paid or price offers) on their target product/service. Here is the [buying group](https://savenowclub.com/groups/audi-q7) for Audi Q7 SUV.  
 
-**Easy and Free to Join**: all you need is to provide your email address (need to be verified) and name information as well as your target product name and zip code.  Your personal data is safe with us as we do not send spam email to you nor do we share your contact with any irrelevant merchants (see our [privacy policy](https://savenowclub.com/docs/2377/privacy-policy))
+## How to Join a Buying Group
+
+It's simple and easy to join an existing Buying Group or request to create a new one.
+
+You may use either of the following ways: 1. [find](https://savenowclub.com/groups) an existing group and join it or 2. directly fill out the [join group form](https://savenowclub.com/groups/show-form/join-group) and submit it.  Either way, you need to fill out pretty much the same simple form,  all you need is to provide your email address (need to be verified) and name information as well as your target product name and zip code.  
+
+After submission, you will be assigned to the appropriate buying group based on name of target product you provide, if no buying group exist for your target product yet, your membership still exists, it simply is the only member for your requested target product.  After review, if approved, we will create a Buying Group for your requested product.
+
+Your personal data is safe with us as we do not send spam email to you nor do we share your contact with any irrelevant merchants (see our [privacy policy](https://savenowclub.com/docs/2377/privacy-policy))
 
 ## Benefits of Buying Group
 
