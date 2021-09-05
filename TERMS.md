@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-last updated Jan. 4th, 2019
+last updated Sep. 5th, 2021
 
 By visiting savenowclub.com, you are accepting the practices described in this Privacy Policy.
 
@@ -30,16 +30,16 @@ We use this access to perform these functions of the Service, which are ALL USER
 
 <li>We use <b>email modify access</b> to auto-apply tags to car shopping related emails to help users organize their mailbox</li>
 
-  <li>We use <b>email compose and send access</b> for <a href="/docs/2376/savenowclub-features#email-reply-bot">Negotiation Bot</a> to auto-reply car shopping emails to negotiate price and/or engage with dealers.</li>
+<li>We use <b>email compose and send access</b> for <a href="/docs/2376/savenowclub-features#email-reply-bot">Negotiation Bot</a> to auto-reply car shopping emails to negotiate price and/or engage with dealers.</li>
  </ul>
 
-<p>Specifically, a portion of price records in <a href="/docs/2371/tutorial-buying-projects-and-price-records#price-record-marketplace">Price Record Marketplace</a> are sourced from car shopping-related emails that you receive. Examples of the car shopping-related emails that we process include all sales and marketing emails sent by all vehicle dealers and car shopping websites such as Edmunds, Truecar etc.</p>
+<p>Specifically, a portion of price records in <a href="/docs/2371/tutorial-buying-groups-and-price-records#price-record-marketplace">Price Record Marketplace</a> are sourced from car shopping-related emails that you receive. Examples of the car shopping-related emails that we process include all sales and marketing emails sent by all vehicle dealers and car shopping websites such as Edmunds, Truecar etc.</p>
 
 <p><b>Information that we automatically collect.</b> This site also receive and store non-personally identifiable information whenever you interact with us. For example, we may collect browser type, operating system, domain name, time spent on the web site, referring link, etc.</p>
 
 ## Share of Information
 
-<p>In order to improve price transparency during car shopping process, this site may share vehicle quotes in <a href="/docs/2371/tutorial-buying-projects-and-price-records#price-record-marketplace">Price Record Marketplace</a> with all visitors.  In order to add efficiency to car shopping process, this site may leverage vehicle quotes found within <a href="/docs/2371/tutorial-buying-projects-and-price-records#price-record-marketplace">Price Record Marketplace</a> to automatically negotiate price with vehicle dealers. </p>
+<p>In order to improve price transparency during car shopping process, this site may share vehicle quotes in <a href="/docs/2371/tutorial-buying-groups-and-price-records#price-record-marketplace">Price Record Marketplace</a> with all visitors.  In order to add efficiency to car shopping process, this site may leverage vehicle quotes found within <a href="/docs/2371/tutorial-buying-groups-and-price-records#price-record-marketplace">Price Record Marketplace</a> to automatically negotiate price with vehicle dealers. </p>
 
 <p>This site does not sell or rent personally identifying information. This site does not disclose personally identifying information to anyone that is not authorized to do so. </p>
 
@@ -61,7 +61,7 @@ We use this access to perform these functions of the Service, which are ALL USER
 
 # Terms of Service
 
-last updated Jan 4th 2019
+last updated Sep. 5th, 2021
 
 <p>By accessing SaveNowClub website and/or using the services, you accept and agree to be bound by the Terms of Service.</p>
 
@@ -71,11 +71,11 @@ last updated Jan 4th 2019
 
 <b>Services</b>
 
-<p>SaveNowClub is a platform for registered users to manage buying projects (including buying groups) and publish Price Paid or Price Offer Records for the purpose of helping buyers to replicate attractively-priced deals.</p>
+<p>SaveNowClub is a platform for registered users to manage memberships of buying groups, manage subscription to deal alerts and publish Price Paid or Price Offer Records for the purpose of conducting price research on target products/services.</p>
 
 <b>Right to the Services</b>
 
-<p>SaveNowClub reserves the right to deny the services to anyone for any or no reason. Buytion also reserves the right to modify the services at any time and from time-to-time.</p>
+<p>SaveNowClub reserves the right to deny the services to anyone for any or no reason. SaveNowClub also reserves the right to modify the services at any time and from time-to-time.</p>
 
 <b>Liability Waiver</b>
 <p>SaveNowClub is not liable for any damages of any form as a result of using the website and/or services. Your sole and exclusive remedy for dissatisfaction is to stop using the website and services. </p>
