@@ -146,12 +146,7 @@ We promise the price records you purchase are verified at least at source level,
 
 ## For Buyers: Refund Policy
 
-We promise to buyers of **Buyer Broker Package** that if within a month of your puchase, we cannot beat your best deal in your acceptable distance range we will refund you 80% of your full amount of purchase.  For example, if you paid $50 for the package, we will refund you $40.
-
-The remaining 20% covers the following:
-
-* The private information of the price record which is  part of the Buyer Broker Package
-* Our payment processing fee
+We promise to buyers of **Private Information** that as of the time of your purchasing the price record, if the deal information of the price record is no longer valid, we will refund you 100% of your full amount of purchase.  
 
 # Demo
 
