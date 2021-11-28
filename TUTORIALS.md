@@ -146,7 +146,7 @@ We promise the price records you purchase are verified at least at source level,
 
 ## For Buyers: Refund Policy
 
-We promise to buyers of **Private Information** that as of the time of your purchasing the price record, if the deal information of the price record is no longer valid, we will refund you 100% of your full amount of purchase.  
+We promise to price record buyers that  **Private Information** of purchase price record is valid and accurate as of the time of purchase, if any part of private information of your purchased price record is no longer valid within 3 days after your purchase, we will refund you 100% of your full amount of purchase.  
 
 # Demo
 
