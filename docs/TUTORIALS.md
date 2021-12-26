@@ -1,46 +1,49 @@
 [TOC]
 
-# What is Buying Group
+# What is Wish
 
-[Find](https://savenowclub.com/groups) your Buying Groups or [browse](https://savenowclub.com/groups/browse) all buying groups on SaveNowClub platform.
+A wish is a web page on SaveNowClub that describes a user's intention to buy a product / service ([wished item](#what-is-wished-item)) and shows the following information:
 
-Buying Group is a free tool offered by [SaveNowClub](https://savenowclub.com) for similiar buyers to crowd source deals on their target products/services.  Group members are allowed to contribute [deals/price records](#what-is-price-record) (past price paid or price offers) on their target product/service. Here is the [buying group](https://savenowclub.com/groups/audi-q7) for Audi Q7 SUV.  
+* public information viewable to general public:
+  * name of the wished item
+  * public notes, can be but not limited to: buyer's desired deal terms  
+  * buyer's anonymized identity
+* private information viewable only to the wish owner and authorized users:
+  * user's identity and contact information
+  * private notes, can be but not limited to: bottom lines
 
-## How to Join a Buying Group
+## Create a Wish
 
-It's simple and easy to join an existing Buying Group or request to create a new one.
+It's simple and easy to create a wish.
 
-You may use either of the following ways: 1. [find](https://savenowclub.com/groups) an existing group and join it or 2. directly fill out the [join group form](https://savenowclub.com/groups/show-form/join-group) and submit it.  Either way, you need to fill out pretty much the same simple form,  all you need is to provide your email address (need to be verified) and name information as well as your target product name and zip code.  
+You may use either of the following ways: 
 
-After submission, you will be assigned to the appropriate buying group based on name of target product you provide, if no buying group exist for your target product yet, your membership still exists, it simply is the only member for your requested target product.  After review, if approved, we will create a Buying Group for your requested product.
+1. [find](https://savenowclub.com/targets) an existing wished item create a wish from there 
+2. or directly fill out the [wish creation form](https://savenowclub.com/targets/show-form/join-group) and submit it.  
+
+Either way, you need to fill out pretty much the same simple form,  all you need is to provide your email address (need to be verified) and name information as well as your target product name and zip code.
 
 Your personal data is safe with us as we do not send spam email to you nor do we share your contact with any irrelevant merchants (see our [privacy policy](https://savenowclub.com/docs/2377/privacy-policy))
 
-## Benefits of Buying Group
+## Benefits of Wish
 
-If you are organizing or about to join a Buying Group, consider the following advantage of SaveNowClub’s Buying Group vs. Google Form vs. WeChat Groups vs. Facebook Groups
+You enjoy the following benefits by creating and maintaining list of wishes
 
-**Deal Alerts**
+* maintain your public, sharable wishlist for free
+* keep track of private information regarding the wish: such as your price research findings
+* receive deal alerts on the wished item
 
-Note: this feature is in development and will be available soon as of August 2021
+## What is Wished Item
 
-* Group members are able to stay up to date with latest deals.  Once new deals are added, group members are immediately notified by email.
+[Find](https://savenowclub.com/targets) your wished item or [browse](https://savenowclub.com/groups/browse) all wished items on SaveNowClub platform.
 
-**Membership Management**
+Wished Item is a web page on SaveNowClub for a  product / service that is wished by one or multiple SaveNowClub users.  The web page lists out all [wishes](#what-is-wish) and [price records](#what-is-price-record) of the  product / service.   
 
-* Membership information of a Buying Group can be modified or deleted, while it’s not possible to do it on Google Form
-* Group Members' email addresses will be verified while Google Sheet does not verify email addresses of sign up members
-* Multiple types of members are allowed to join the group: Buyer, Dealer or Broker, this makes it easier to reach a deal
-* Advantage over Facebook Groups: Members may remain anonymous to the public and to each other group members, while you have to show your real name in Facebook Groups
-
-**Marketing Advantages**
-
-* Buying Group page is public and easy to attract new members while keeping membership information private, but Google Form address is usually private and cannot generate organic traffic.
-* Advantage over WeChat Groups: the fact that SaveNowClub buying group has a public page and allows dealers / brokers to join makes it easier to attract sellers to make offer to the group and to reach a deal, while WeChat Groups are private and lack a public page to attract sellers to make an offer.
+Here is the an example wished item: [Audi Q7 SUV](https://savenowclub.com/targets/audi-q7).
 
 # What is Price Record
 
-For any [buying group](#what-is-buying-group), one or multiple price/deal data points may be added to it, these price/deal data points are called **Price Records**, these are what people look for when they research prices on their buying targets.  
+Price Records are records of price offered by seller for a product or service ([wished item](#what-is-wished-item)), they are what people look for when they research prices on their wished items.  
 
 ## Types of Price Records
 
@@ -82,6 +85,25 @@ As you create a [Price Record](#what-is-price-record), you may choose to add a D
 You may collaborate on email negotiation with dealer to nail down the deal by checking `collboratively negotiate` box.
 
 For a demo of this feature, see [collaborative communication to seller](#step-32-collaboratively-communicate-with-seller) and [peer-to-peer communication](#step-31-peer-to-peer-communication) in demo sections below.
+
+# What Is Buying Group
+
+Buying Groups are [price records](#what-is-price-record) that are on sale that allow multiple buyers to purchase a product at a discounted price.  Buyers who make purchase will get actual products / services in return.  
+
+## Benefits of Buying Group
+
+If you are organizing or about to join a Buying Group, consider the following advantage of SaveNowClub’s Buying Group vs. Google Form vs. WeChat Groups vs. Facebook Groups
+
+**Membership Management**
+
+* Membership information of a Buying Group can be modified or deleted, while it’s not possible to do it on Google Form
+* Group Members' email addresses will be verified while Google Sheet does not verify email addresses of sign up members
+* Advantage over Facebook Groups: Members may remain anonymous to the public and to each other group members, while you have to show your real name in Facebook Groups
+
+**Marketing Advantages**
+
+* Buying Group page is public and easy to attract new members while keeping membership information private, but Google Form address is usually private and cannot generate organic traffic.
+* Advantage over WeChat Groups: the fact that SaveNowClub buying group has a public page and allows dealers / brokers to join makes it easier to attract sellers to make offer to the group and to reach a deal, while WeChat Groups are private and lack a public page to attract sellers to make an offer.
 
 # Beat Your Deal
 
