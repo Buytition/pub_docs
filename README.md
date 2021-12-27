@@ -10,9 +10,8 @@ As you can see, SaveNowClub was originally created as a platform to serve and he
 
 The website savenowclub.com was officially launched in 2020, it was result of multiple pivots and product launches we did in previous years, we never changed our mission which is to create tools to help buyers to more easily get good deals for less-transparently priced items.  Below are a few software tools offered by SaveNowClub.com:
 
-* [buying group](/docs/2371/tutorial-buying-groups-and-price-records#what-is-buying-group)
-    * Buying Group is a free tool offered by SaveNowClub for similiar buyers to crowd source deals on their target products/services. Group members are allowed to contribute [deals/price records]((/docs/2371/tutorial-buying-groups-and-price-records#what-is-price-record)) (past price paid or price offers) on their target product/service. 
-* [price records](/docs/2371/tutorial-buying-projects-and-price-records#what-is-price-record)
+* [wish](/docs/2371/tutorial-buying-groups-and-price-records#what-is-wish) is a web page on SaveNowClub that describes a user's intention to buy a product / service ([wished item](https://savenowclub.com/docs/2371/tutorial-buying-groups-and-price-records#what-is-wished-item)) 
+* [price records](/docs/2371/tutorial-buying-projects-and-price-records#what-is-price-record) are records of price offered by seller for a product or service (wished item), they are what people look for when they research prices on their wished items.
 * [price calculator](https://savenowclub.com/web/ttl-otd-price-converter)
 * [email reader and reply bots](/docs/2376/savenowclub-features#api-access)
 
