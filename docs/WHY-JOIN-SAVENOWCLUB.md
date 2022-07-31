@@ -4,6 +4,10 @@ Here are how will SaveNowClub help you:
 
 # Form Outlook
 
+For investors, you want to know future path of economy, business earnings, interest rates, commodity prices etc.  what do you do if you don’t know how to predict them?  No problem, we have a solution for that: there are many public predictions out there on the Internet and we at SaveNowClub believe always some of them are correct, so all you need to do is to find out those correct ones and filter out incorrect ones.  
+
+To that end, SaveNowClub offers you Prediction FactCheck tool to help you form outlook of future so you can take proper actions.
+
 ## Track Forecasters
 
 Find great forecasters and their latest predictions.
