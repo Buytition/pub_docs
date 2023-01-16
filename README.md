@@ -6,17 +6,20 @@ This repository includes public documents for [SaveNowClub](https://savenowclub.
 
 The website [SaveNowClub](https://savenowclub.com) was officially launched in 2020, it was a result of multiple pivots and product launches we did in previous years.  Since then we pivoted a few more times and ended up with two main online tool offerings: Timelines of Uncertainties and Price Research Tools.  Below are a few software tools offered by SaveNowClub.com:
 
-* [Timelines of Uncertainties](/timeline) is a tool that helps people better predict future by focusing on the uncertainty people care about while keeping track what have happened, what are happening now, what have been predicted to happen, and how accurate those prediction turned out to be around that uncertainty.  The tool solves the problem of how to focus one's attention on the uncertainty itself without losing track of what others have predicted and what facts have happened around that uncertainty. 1. quickly save article you read about; 2. quickly categorize saved articles under relevant uncertainty/theme; 3. saved articles are presented in timeline fashion under relevant uncertainty;
+* [Timelines of Uncertainties](/timeline) is a tool that helps people better predict future by focusing on the uncertainty people care about while keeping track what have happened, what are happening now, what have been predicted to happen, and how accurate those prediction turned out to be around that uncertainty.  The tool solves the problem of how to focus one's attention on the uncertainty itself without losing track of what others have predicted and what facts have happened around that uncertainty.
+    1. quickly save article you read about; 
+    1. quickly categorize saved articles under relevant uncertainty/theme; 
+    1. saved articles are presented in timeline fashion under relevant uncertainty;
 * Price Research Tools
-  * [wishes](/docs/2371/tutorial-buying-groups-and-price-records#what-is-wish) are  user-created web pages that publishes user's intention to buy a product / service ([wished item](/docs/2371/tutorial-buying-groups-and-price-records#what-is-wished-item)) at certain desired terms. 
-  * [price records](/docs/2371/tutorial-buying-projects-and-price-records#what-is-price-record) are records of price offered by seller for a product or service (wished item), they are what people look for when they research prices on their wished items.
-  * [price calculator](/web/ttl-otd-price-converter)  helps vehicle buyers / sellers to convert TTL (Pre-Tax Title and License) price to OTD (Out-of-The-Door) price or vice versa with a few clicks.
+    * [wishes](/docs/2371/tutorial-buying-groups-and-price-records#what-is-wish) are  user-created web pages that publishes user's intention to buy a product / service ([wished item](/docs/2371/tutorial-buying-groups-and-price-records#what-is-wished-item)) at certain desired terms. 
+    * [price records](/docs/2371/tutorial-buying-projects-and-price-records#what-is-price-record) are records of price offered by seller for a product or service (wished item), they are what people look for when they research prices on their wished items.
+    * [price calculator](/web/ttl-otd-price-converter)  helps vehicle buyers / sellers to convert TTL (Pre-Tax Title and License) price to OTD (Out-of-The-Door) price or vice versa with a few clicks.
 
 For updated feature releases, see our [blog](http://blog.savenowclub.com/)
 
 # Who We Are
 
-SaveNowClub was founded by passionate car buyers who believe car buying experience should not be painful and price negotiation should be simple and effective. 
+SaveNowClub was founded by a software engineer who makes a living working for analytics groups for large enterprises and is personally passionate about the science and art of predicting future. 
 
 # Contact Us
 
