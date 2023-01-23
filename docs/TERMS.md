@@ -61,7 +61,7 @@ We use this access to perform these functions of the Service, which are ALL USER
 
 # Terms of Service
 
-last updated Sep. 5th, 2021
+last updated Jan. 21st, 2023
 
 <p>By accessing SaveNowClub website and/or using the services, you accept and agree to be bound by the Terms of Service.</p>
 
@@ -71,7 +71,10 @@ last updated Sep. 5th, 2021
 
 <b>Services</b>
 
-<p>SaveNowClub is a platform for registered users to manage memberships of buying groups, manage subscription to deal alerts and publish Price Paid or Price Offer Records for the purpose of conducting price research on target products/services.</p>
+<p>SaveNowClub is a platform that provides the following services to  registered users</p>
+
+<ol><li>manage and organize prediction / fact information to help user to navigate through uncertainties.</li>
+<li>manage memberships of buying groups, manage subscription to deal alerts and publish Price Paid or Price Offer Records for the purpose of conducting price research on target products/services.</li></ol>
 
 <b>Right to the Services</b>
 
@@ -80,6 +83,9 @@ last updated Sep. 5th, 2021
 <b>Liability Waiver</b>
 <p>SaveNowClub is not liable for any damages of any form as a result of using the website and/or services. Your sole and exclusive remedy for dissatisfaction is to stop using the website and services. </p>
 
+<p>The <a href="/price_records">Price Paid or Price Offer Records</a> published for free or for sale on SaveNowClub platform were contributed by registered SaveNowClub users and satisfy our <a href="/docs/2371/tutorial-buying-groups-and-price-records#for-sellers-listing-criteria">Listing Criteria</a>.  The registered users who publish price records own these price records and take full reponsibility of any consequences as a result of publishing these price records.  SaveNowClub hereby claim that we do not own these price records nor do we guarantee their accuracy.</p>
+
 <b>Intellectual property</b>
 
 <p>You agree that the Services of SaveNowClub is protected by applicable intellectual property, copyrights, trademarks, service marks, patents and/or other proprietary rights and laws in favor of SaveNowClub.</p>
+
