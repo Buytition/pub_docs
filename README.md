@@ -6,10 +6,10 @@ This repository includes public documents for [SaveNowClub](https://savenowclub.
 
 The website [SaveNowClub](https://savenowclub.com) was officially launched in 2020, it was a result of multiple pivots and product launches we did in previous years.  Since then we pivoted a few more times and ended up with two main online tool offerings: Timelines of Uncertainties and Price Research Tools.  Below are a few software tools offered by SaveNowClub.com:
 
-* [Timelines of Uncertainties](/timeline) is a tool that helps people better predict future by focusing on the uncertainty people care about while keeping track what have happened, what are happening now, what have been predicted to happen, and how accurate those prediction turned out to be around that uncertainty.  The tool solves the problem of how to focus one's attention on the uncertainty itself without losing track of what others have predicted and what facts have happened around that uncertainty.
-    1. quickly save article you read about; 
-    1. quickly categorize saved articles under relevant uncertainty/theme; 
-    1. saved articles are presented in timeline fashion under relevant uncertainty;
+* [Timelines of Uncertainties](/timeline) is a tool that helps people better predict outcome of uncertainties by focusing on the uncertainty you care about while keeping track what happened, what are happening now, what were predicted to happen, and how accurate those predictions turn out to be around that uncertainty.  The tool solves the problem of how to focus one's attention on the uncertainty itself without losing track of what others have predicted and what facts have happened around that uncertainty.  The tool allows users to
+    1. [quickly save articles](/docs/2889/howto-timeline-of-uncertainties#use-bookmarklet-to-quickly-save-timeline-item) that are relevant to the uncertainty you care about; 
+    1. [quickly categorize saved articles](/docs/2889/howto-timeline-of-uncertainties#use-parent-chooser-to-quickly-organize-saved-timeline-item) under relevant uncertainty/theme; 
+    1. saved articles are presented to you in timeline fashion under relevant uncertainty;
 * Price Research Tools
     * [wishes](/docs/2371/tutorial-buying-groups-and-price-records#what-is-wish) are  user-created web pages that publishes user's intention to buy a product / service ([wished item](/docs/2371/tutorial-buying-groups-and-price-records#what-is-wished-item)) at certain desired terms. 
     * [price records](/docs/2371/tutorial-buying-projects-and-price-records#what-is-price-record) are records of price offered by seller for a product or service (wished item), they are what people look for when they research prices on their wished items.
