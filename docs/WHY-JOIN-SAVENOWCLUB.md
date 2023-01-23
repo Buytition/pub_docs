@@ -1,28 +1,30 @@
 [TOC]
 
-Here are how will SaveNowClub help you:
+Here are how SaveNowClub help you:
 
-# Form Outlook
+# Navigate Through Uncertainties
 
-For investors, you want to know future path of economy, business earnings, interest rates, commodity prices etc.  what do you do if you don’t know how to predict them?  No problem, we have a solution for that: there are many public predictions out there on the Internet and we at SaveNowClub believe always some of them are correct, so all you need to do is to find out those correct ones and filter out incorrect ones.  
+As investors, you navigate through uncertainties and make predictions using one or a combination of following methods which are all covered by SaveNowClub's [Timeline of Uncertainties](/timeline).
 
-To that end, SaveNowClub offers you Prediction FactCheck tool to help you form outlook of future so you can take proper actions.
+## Follow Good Predictors
 
-## Track Forecasters
+Quicly build timeline of facts / predictions under theme of uncertainty by saving web articles from any source you have access to using [bookmarklet](/docs/2889/howto-timeline-of-uncertainties#use-bookmarklet-to-quickly-save-timeline-item).  
 
-Find great forecasters and their latest predictions.
+Use facts to backtest predictions, use backtest results to build track records for experts. 
 
-## Form Actionable Outlook
+Use predictions from experts with good track record of prediction accuracy as reference to form your own prediction on the uncertainty.
 
-Build actionable outlook of future by standing on giants' shoulders.
+## Focus on Uncertainty
 
-## Learning Predicting
+Organize predictions / facts under uncertainty themes you care about using [parent chooser](/docs/2889/howto-timeline-of-uncertainties#use-parent-chooser-to-quickly-organize-saved-timeline-item) so that you can focus on the uncertainty itself to come up with your own prediction without being distracted by other predictions.
 
-Learn predicting techniques from great forecasters.
+## Use Indicators
 
-## Be Aware of Situation
+Use [indicators](/timeline/hashtag/indicator) you know of to identify early signals of peak or bottom.
 
-Improve understanding of current situation.
+## Use Breakouts
+
+Use upside or downside [breakouts](/timeline/hashtag/breakout) of trading channel as entry signals for a trade.
 
 # Research Price
 
