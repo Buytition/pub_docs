@@ -1,10 +1,17 @@
 [TOC]
 
+# How To Use Timeline of Uncertainties
+
+Timeline of Uncertainties is a tool that syndicates predictions / facts information from news articles or blog posts and organizes them as timeline items under uncertainty topics that matter to you. We provide tools that help you easily complete both tasks quickly:
+
+* [Use bookmarklet](#use-bookmarklet-to-quickly-save-timeline-item) to add predictions / facts information from news articles or blog posts;
+* [Use parent chooser](#use-parent-chooser-to-quickly-organize-saved-timeline-item) to organize added predictions / facts under proper uncertainty topic.
+
 # Use Bookmarklet to Quickly Save Timeline Item
 
 SaveNowClub uses bookmarklets for bookmarking web content. Bookmarklets are little javascript links that live in the bookmarks toolbar of your browser.
 
-Here's the bookmarklet we offer: <a href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://savenowclub.com/timeline/show-form/create-item?url=%27+encodeURIComponent(q)+%27&description=%27+encodeURIComponent(d)+%27&title=%27+encodeURIComponent(p),%27Pinboard%27,%27toolbar=no,width=550,height=400%27));">popup</a> opens a little form window when you want to save a page. It's the fastest way to add a web content.
+Here's the bookmarklet we offer: <a href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://savenowclub.com/timeline/show-form/create-item?url=%27+encodeURIComponent(q)+%27&description=%27+encodeURIComponent(d)+%27&title=%27+encodeURIComponent(p),%27Pinboard%27,%27toolbar=no,width=550,height=400%27));">popup</a> opens a little form window when you want to save a page. It's the fastest way to add content from a web URL.
 
 How to Install and Use Bookmarklet: if you need help to install and/or use our bookmarklet, please refer [this guide](https://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/).
 
@@ -14,7 +21,13 @@ This bookmarklet has been tested working on Chrome browser on PC, Mac and iPhone
 
 # Use Parent Chooser to Quickly Organize Saved Timeline Item
 
-By default, saved timeline item is at top level. Picking a proper uncertainty for it is a great way to organize the timeline item under proper theme for later reference.  You may use `Parent Chooser` tool located on each timeline item page to quickly create or pick existing uncertainty for the item.
+By default, saved timeline item is at top level. Picking a proper uncertainty for it is a great way to organize the timeline items under proper theme for later reference.  You may use `Parent Chooser` tool located on each timeline item page to quickly create or pick existing uncertainty for the item.  
+
+Just as shown by the screenshot below, you can quickly find existing uncertainty by entering any word that show up in anywhere in the title of uncertainty.
+
+Only the timeline item owner and site admin are allowed to change parent uncertainty for the timeline item, so you and site admin has the permission to access the tool for timeline items owned by you.
+
+<img src="[CDN_HOST]/2889/434b805f-a959-4f28-a7f6-d7d465b4187f.png" title="parent-chooser-open.png" style="max-width:100%">
 
 # Criteria of Predictions
 
@@ -34,4 +47,4 @@ The reason for not meeting our criteria is because it is a conditional statement
 
 From perspectives of statistics and data, predictions of future events are in the forms of probability, this fact makes it hard to evaluate quality of a prediction since a historical event happens only once, you have no chance to calculate actual probability of an event and compare that with the predicted probability.
 
-Instead, we use a simplified and a more straight-forward approach to evaluate prediction accuracy.  We view prediction as one non-random direction pointed out by predictors, after target time of predicted events has been reached, we compare actual fact against original prediction, if they match, then we rate the prediction as `hit`, otherwise, it's rated as `miss`. 
+Instead, we use a simplified and a more straight-forward approach to evaluate prediction accuracy.  We view prediction as one non-random direction pointed out by predictors, after target time of predicted events has been reached, we compare actual fact against original prediction, if they match, then we rate the prediction as `hit`, otherwise, it's rated as `miss`.
