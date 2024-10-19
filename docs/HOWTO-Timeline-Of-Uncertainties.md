@@ -1,13 +1,15 @@
 [TOC]
 
-# How To Use Timeline of Uncertainties
+# How To Use Timeline
 
-Timeline of Uncertainties is a tool that syndicates predictions / facts information from news articles or blog posts and organizes them as timeline items under uncertainty topics that matter to you. We provide tools that help you easily complete both tasks quickly:
+Timeline is a web-based tool that helps you manage knowledge bases by organizing your bookmarks and notes as answers to questions you care about.  Like other bookmarking sites such as [Pinboard](https://pinboard.in/about/), Instapaper, and Pocket etc., Timeline adds a [small button](#how-to-use-bookmarklet) to your browser that lets you remember things you read, giving you the chance to label them with tags and descriptive text. 
 
-* [Use bookmarklet](#use-bookmarklet-to-quickly-save-timeline-item) to add predictions / facts information from news articles or blog posts;
-* [Use parent chooser](#use-parent-chooser-to-quickly-organize-saved-timeline-item) to organize added predictions / facts under proper uncertainty topic.
+Other than common bookmarking site features, SaveNowClub Timeline offers the following unique features:
 
-# Use Bookmarklet to Quickly Save Timeline Item
+* SaveNowClub Timeline allow you to organize your bookmarks and notes (timeline items) as answers to  questions or posts under topics.  There are a lot more timeline items than number of questions/topics because questions/topics are relatively high-level because they represent major areas of your attention at certain time.  In addition to using hashtags, your saved bookmarks or notes can be found by finding the question it answers or the topic it relates to. Users manage topics for timeline items using [parent chooser](#how-to-use-parent-chooser) tool.
+* SaveNowClub Timeline allows you to see track records of a predictor by [using facts to validate predictions](#how-to-track-predictor-performance). 
+
+# How to Use Bookmarklet
 
 SaveNowClub uses bookmarklets for bookmarking web content. Bookmarklets are little javascript links that live in the bookmarks toolbar of your browser.
 
@@ -19,7 +21,7 @@ How to Install and Use Bookmarklet: if you need help to install and/or use our b
 
 This bookmarklet has been tested working on Chrome browser on PC, Mac and iPhone.  On Chrome browser on an Android phone, clicking this bookmarklet may not open up popup form, if that happens, use the method in [this tutorial](https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/) can solve that problem. 
 
-# Use Parent Chooser to Quickly Organize Saved Timeline Item
+# How to Use Parent Chooser
 
 By default, saved timeline item is at top level. Picking a proper uncertainty for it is a great way to organize the timeline items under proper theme for later reference.  You may use `Parent Chooser` tool located on each timeline item page to quickly create or pick existing uncertainty for the item.  
 
@@ -29,7 +31,11 @@ Only the timeline item owner and site admin are allowed to change parent uncerta
 
 <img src="[CDN_HOST]/2889/434b805f-a959-4f28-a7f6-d7d465b4187f.png" title="parent-chooser-open.png" style="max-width:100%">
 
-# Criteria of Predictions
+# How to Track Predictor Performance
+
+SaveNowClub Timeline allows you to track performance of any predictor by adding predictions as parts of  timelines items (bookmarks or notes) and later validate them by adding facts as separate timeline items.
+
+## Criteria of Predictions
 
 For content that satisfy the following criteria, it can be classified as `Prediction` type of content:
 
@@ -43,7 +49,7 @@ Here is [an example](https://finance.creaders.net/2022/06/22/2497071.html) of pr
 
 The reason for not meeting our criteria is because it is a conditional statement of future scenario, cannot be proved as true or false by facts; also it is missing a clear target time frame.
 
-# Our Approach Evaluating a Prediction
+## Our Approach Evaluating a Prediction
 
 From perspectives of statistics and data, predictions of future events are in the forms of probability, this fact makes it hard to evaluate quality of a prediction since a historical event happens only once, you have no chance to calculate actual probability of an event and compare that with the predicted probability.
 
